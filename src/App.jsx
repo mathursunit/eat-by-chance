@@ -7,6 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
+  const version = "v1.2.0";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -110,6 +111,7 @@ function App() {
 
   return (
     <div className="container" style={{ paddingTop: '0' }}>
+      <div className="version-badge">{version}</div>
       <header className="mb-4 text-center" style={{ marginTop: '1rem' }}>
         <h1 style={{ fontSize: '2.5rem', fontWeight: 800, marginBottom: '0.5rem', background: 'linear-gradient(to right, #f43f5e, #8b5cf6)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', lineHeight: 1.2 }}>
           BnB Presents:<br />Eat By Chance
