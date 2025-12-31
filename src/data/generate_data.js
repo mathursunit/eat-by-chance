@@ -185,6 +185,18 @@ const rawData = [
     { name: "Cafe Kubal", area: "Eastwood", cuisine: "Cafe" },
     { name: "The Wedge", area: "Eastwood", cuisine: "American" },
     { name: "Akina Sushi and Hibachi", area: "North Syracuse", cuisine: "Japanese" },
+
+    // INDIAN RESTAURANTS
+    { name: "Raj Saffron House", area: "Westcott", cuisine: "Indian" },
+    { name: "Syracuse Dosa Grill", area: "Syracuse Downtown", cuisine: "Indian" },
+    { name: "Royal Indian Grill", area: "Syracuse Downtown", cuisine: "Indian" },
+    { name: "Dakshin Indian Cuisine", area: "Syracuse Downtown", cuisine: "Indian" },
+    { name: "Flavour of India", area: "East Syracuse", cuisine: "Indian" },
+    { name: "Sahota Palace", area: "Liverpool", cuisine: "Indian" },
+    { name: "Dosa Grill Dewitt", area: "Dewitt", cuisine: "Indian" },
+    { name: "Clay Oven Indian Cuisine", area: "Baldwinsville", cuisine: "Indian" },
+    { name: "Masala Heaven", area: "Cicero", cuisine: "Indian" },
+    { name: "Indian Grill", area: "Camillus", cuisine: "Indian" },
 ];
 
 const areas = Object.keys(townCenters);
@@ -230,6 +242,7 @@ const hoursTemplates = {
     "Thai": { open: "12:00", close: "21:30" },
     "Sandwiches": { open: "10:00", close: "20:00" },
     "BBQ": { open: "11:00", close: "21:00" },
+    "Indian": { open: "11:30", close: "22:00" },
 };
 
 const finalRestaurants = rawData.map((r, i) => {

@@ -31,15 +31,25 @@ function App() {
             setUseIpLocation(true);
           }
         })
-        .catch(err => console.error("IP Location failed:", err));
+        .catch(err => {
+          console.error("IP Location failed:", err);
+          // Fallback to Syracuse Downtown if IP fails
+          setUserLocation({ lat: 43.048, lng: -76.152 });
+          setUseIpLocation(true);
+        });
     }
   }, []);
 
-  // Get unique cuisines
+  // Get unique cuisines with at least 2 restaurants
   const cuisines = useMemo(() => {
-    const all = new Set(restaurants.map(r => r.cuisine));
-    return ["All", ...Array.from(all).sort()];
-  }, []);
+    const cuisineCounts = {};
+    restaurants.forEach(r => {
+      cuisineCounts[r.cuisine] = (cuisineCounts[r.cuisine] || 0) + 1;
+    });
+
+    const validCuisines = Object.keys(cuisineCounts).filter(c => cuisineCounts[c] >= 2);
+    return ["All", ...validCuisines.sort()];
+  }, [restaurants]);
 
   const calculateDistance = (lat1, lon1, lat2, lon2) => {
     if (!lat1 || !lon1 || !lat2 || !lon2) return 9999;
