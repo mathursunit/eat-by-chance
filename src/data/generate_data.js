@@ -184,6 +184,7 @@ const rawData = [
     { name: "Mother's Cupboard", area: "Eastwood", cuisine: "American" },
     { name: "Cafe Kubal", area: "Eastwood", cuisine: "Cafe" },
     { name: "The Wedge", area: "Eastwood", cuisine: "American" },
+    { name: "Akina Sushi and Hibachi", area: "North Syracuse", cuisine: "Japanese" },
 ];
 
 const areas = Object.keys(townCenters);

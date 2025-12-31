@@ -7,8 +7,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinosaur%20Bar-B-Que%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06533919449499,
-      "lng": -76.1478175894093
+      "lat": 43.05964590512975,
+      "lng": -76.17139754071148
     },
     "hours": {
       "0": [
@@ -63,8 +63,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pastabilities%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05507481789371,
-      "lng": -76.14367174095652
+      "lat": 43.054195132415,
+      "lng": -76.16028882249896
     },
     "hours": {
       "0": [
@@ -119,8 +119,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Retreat%20Liverpool%20NY",
     "coords": {
-      "lat": 43.09152145955178,
-      "lng": -76.21100893070022
+      "lat": 43.11395759738995,
+      "lng": -76.21160477388435
     },
     "hours": {
       "0": [
@@ -175,8 +175,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heid's%20of%20Liverpool%20Liverpool%20NY",
     "coords": {
-      "lat": 43.103357229927376,
-      "lng": -76.21367193988455
+      "lat": 43.103189982036454,
+      "lng": -76.20394998238592
     },
     "hours": {
       "0": [
@@ -231,8 +231,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%20Italian%20Steakhouse%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03602880373565,
-      "lng": -76.13775760125684
+      "lat": 43.055495300716984,
+      "lng": -76.14842254055206
     },
     "hours": {
       "0": [
@@ -287,8 +287,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A%20Cicero%20NY",
     "coords": {
-      "lat": 43.17260943161265,
-      "lng": -76.10629560179771
+      "lat": 43.169126111333405,
+      "lng": -76.12640470632239
     },
     "hours": {
       "0": [
@@ -343,8 +343,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cicero%20Country%20Pizza%20Cicero%20NY",
     "coords": {
-      "lat": 43.16222010152788,
-      "lng": -76.12705310919583
+      "lat": 43.165264312268384,
+      "lng": -76.10404466240328
     },
     "hours": {
       "0": [
@@ -399,8 +399,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thee%20Diner%20Cicero%20NY",
     "coords": {
-      "lat": 43.17241301811477,
-      "lng": -76.10460574032443
+      "lat": 43.189935705517044,
+      "lng": -76.11128519687236
     },
     "hours": {
       "0": [
@@ -455,8 +455,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Cicero%20NY",
     "coords": {
-      "lat": 43.18633077870013,
-      "lng": -76.13487160126068
+      "lat": 43.172353934184684,
+      "lng": -76.11236424669562
     },
     "hours": {
       "0": [
@@ -511,8 +511,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frankie%20Sushi%20Cicero%20NY",
     "coords": {
-      "lat": 43.1646891192781,
-      "lng": -76.10135658008035
+      "lat": 43.16186872698799,
+      "lng": -76.11121358746547
     },
     "hours": {
       "0": [
@@ -567,8 +567,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grotto%20Restaurant%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.12402539999345,
-      "lng": -76.1148686018908
+      "lat": 43.15123783149076,
+      "lng": -76.11705828404024
     },
     "hours": {
       "0": [
@@ -623,8 +623,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Limp%20Lizard%20Liverpool%20NY",
     "coords": {
-      "lat": 43.088797506119136,
-      "lng": -76.21199783065035
+      "lat": 43.103791629327134,
+      "lng": -76.20562847522221
     },
     "hours": {
       "0": [
@@ -679,8 +679,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Twin%20Trees%20III%20Liverpool%20NY",
     "coords": {
-      "lat": 43.087672316923374,
-      "lng": -76.20418699370518
+      "lat": 43.10087513696692,
+      "lng": -76.21234418126545
     },
     "hours": {
       "0": [
@@ -735,8 +735,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gardenview%20Diner%20Liverpool%20NY",
     "coords": {
-      "lat": 43.110988941536796,
-      "lng": -76.19100224981159
+      "lat": 43.107642757996175,
+      "lng": -76.19166537722094
     },
     "hours": {
       "0": [
@@ -791,8 +791,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santangelo's%20Liverpool%20NY",
     "coords": {
-      "lat": 43.100565682582044,
-      "lng": -76.22807940680055
+      "lat": 43.08609199708819,
+      "lng": -76.19043706866725
     },
     "hours": {
       "0": [
@@ -847,8 +847,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thai%20Village%20Liverpool%20NY",
     "coords": {
-      "lat": 43.09607602196211,
-      "lng": -76.19638590519249
+      "lat": 43.10997211165937,
+      "lng": -76.2101759190067
     },
     "hours": {
       "0": [
@@ -903,8 +903,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicolli's%20Liverpool%20NY",
     "coords": {
-      "lat": 43.095494069213345,
-      "lng": -76.20487225434094
+      "lat": 43.1123768248825,
+      "lng": -76.22452995324656
     },
     "hours": {
       "0": [
@@ -959,8 +959,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Euclid%20Restaurant%20Clay%20NY",
     "coords": {
-      "lat": 43.174191788307766,
-      "lng": -76.20813238408525
+      "lat": 43.163831007866015,
+      "lng": -76.19081939814089
     },
     "hours": {
       "0": [
@@ -1015,8 +1015,8 @@ export const restaurants = [
     "cuisine": "Caribbean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Tafari's%20Jamaican%20Cuisine%20Liverpool%20NY",
     "coords": {
-      "lat": 43.105111371606334,
-      "lng": -76.20712706280591
+      "lat": 43.09838035926047,
+      "lng": -76.22916182200903
     },
     "hours": {
       "0": [
@@ -1071,8 +1071,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tully's%20Good%20Times%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10472616398548,
-      "lng": -76.2012785226935
+      "lat": 43.121491964933476,
+      "lng": -76.22030203903556
     },
     "hours": {
       "0": [
@@ -1127,8 +1127,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse%20Clay%20NY",
     "coords": {
-      "lat": 43.19711562701299,
-      "lng": -76.20471404083888
+      "lat": 43.19436224483814,
+      "lng": -76.21891161138093
     },
     "hours": {
       "0": [
@@ -1183,8 +1183,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wrap%20it%20Up!!!%20Cicero%20NY",
     "coords": {
-      "lat": 43.18059018879375,
-      "lng": -76.11617792139963
+      "lat": 43.17899365493237,
+      "lng": -76.11920236836401
     },
     "hours": {
       "0": [
@@ -1239,8 +1239,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=110%20Grill%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.0428672200104,
-      "lng": -76.15206533278582
+      "lat": 43.02853523659656,
+      "lng": -76.1414011246108
     },
     "hours": {
       "0": [
@@ -1295,8 +1295,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eden%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.037694853401646,
-      "lng": -76.14218992425292
+      "lat": 43.04779242202028,
+      "lng": -76.13211554594645
     },
     "hours": {
       "0": [
@@ -1351,8 +1351,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Apizza%20Regionale%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.02882210789482,
-      "lng": -76.15419892124825
+      "lat": 43.04479011781918,
+      "lng": -76.15552928166514
     },
     "hours": {
       "0": [
@@ -1407,8 +1407,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Francesca's%20Cucina%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03188597213556,
-      "lng": -76.14180307265293
+      "lat": 43.034707754897696,
+      "lng": -76.16455469597628
     },
     "hours": {
       "0": [
@@ -1463,8 +1463,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Fish%20Friar%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05715183251828,
-      "lng": -76.17182523212568
+      "lat": 43.03360010505118,
+      "lng": -76.1334657021512
     },
     "hours": {
       "0": [
@@ -1519,8 +1519,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitty%20Hoyne's%20Irish%20Pub%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03197087400588,
-      "lng": -76.15290041931169
+      "lat": 43.051043209429615,
+      "lng": -76.13241794015644
     },
     "hours": {
       "0": [
@@ -1575,8 +1575,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alto%20Cinco%20Westcott%20NY",
     "coords": {
-      "lat": 43.02536607863402,
-      "lng": -76.12498283281057
+      "lat": 43.04679391274824,
+      "lng": -76.11301268587702
     },
     "hours": {
       "0": [
@@ -1631,8 +1631,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phoebe's%20Restaurant%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03266377913158,
-      "lng": -76.1427827817049
+      "lat": 43.06600379255745,
+      "lng": -76.16446357232834
     },
     "hours": {
       "0": [
@@ -1687,8 +1687,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Evergreen%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06526801532611,
-      "lng": -76.14872507881107
+      "lat": 43.05691089189836,
+      "lng": -76.14400015436752
     },
     "hours": {
       "0": [
@@ -1743,8 +1743,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sakana-Ya%20Sushi%20Bar%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05495433540209,
-      "lng": -76.14205117640188
+      "lat": 43.04480153075044,
+      "lng": -76.15156529448763
     },
     "hours": {
       "0": [
@@ -1799,8 +1799,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stella's%20Diner%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03268964832998,
-      "lng": -76.16190050389062
+      "lat": 43.05719296446577,
+      "lng": -76.14848028584821
     },
     "hours": {
       "0": [
@@ -1855,8 +1855,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modern%20Malt%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03742647164608,
-      "lng": -76.1552967563333
+      "lat": 43.063344709426254,
+      "lng": -76.16981234035836
     },
     "hours": {
       "0": [
@@ -1911,8 +1911,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oh%20My%20Darling%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03871583304832,
-      "lng": -76.14174606544111
+      "lat": 43.04252624173393,
+      "lng": -76.14772978120968
     },
     "hours": {
       "0": [
@@ -1967,8 +1967,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ale%20'n'%20Angus%20Pub%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.030697556400035,
-      "lng": -76.15702976627693
+      "lat": 43.047383224168456,
+      "lng": -76.14673948823379
     },
     "hours": {
       "0": [
@@ -2023,8 +2023,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coleman's%20Authentic%20Irish%20Pub%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.03764587247403,
-      "lng": -76.19496764655676
+      "lat": 43.044225182310484,
+      "lng": -76.1876746080702
     },
     "hours": {
       "0": [
@@ -2079,8 +2079,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20Grande%20Mexican%20Liverpool%20NY",
     "coords": {
-      "lat": 43.088341943191885,
-      "lng": -76.21677613135488
+      "lat": 43.10766721353219,
+      "lng": -76.22541246588018
     },
     "hours": {
       "0": [
@@ -2135,8 +2135,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ichiban%20Japanese%20Steakhouse%20Liverpool%20NY",
     "coords": {
-      "lat": 43.098409419433686,
-      "lng": -76.22806035494243
+      "lat": 43.11446986766233,
+      "lng": -76.21005446019801
     },
     "hours": {
       "0": [
@@ -2191,8 +2191,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Lobster%20Clay%20NY",
     "coords": {
-      "lat": 43.170866861868745,
-      "lng": -76.22221868768032
+      "lat": 43.18660621839535,
+      "lng": -76.19313449744007
     },
     "hours": {
       "0": [
@@ -2247,8 +2247,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Clay%20NY",
     "coords": {
-      "lat": 43.184297136957824,
-      "lng": -76.22772918394269
+      "lat": 43.168840467802056,
+      "lng": -76.22160393284922
     },
     "hours": {
       "0": [
@@ -2303,8 +2303,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Liverpool%20NY",
     "coords": {
-      "lat": 43.108874264019775,
-      "lng": -76.22097345978906
+      "lat": 43.1229167127518,
+      "lng": -76.22395822581397
     },
     "hours": {
       "0": [
@@ -2359,8 +2359,8 @@ export const restaurants = [
     "cuisine": "Wings",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings%20Cicero%20NY",
     "coords": {
-      "lat": 43.15514493230524,
-      "lng": -76.10690498927792
+      "lat": 43.151239084376584,
+      "lng": -76.11672340054555
     },
     "hours": {
       "0": [
@@ -2415,8 +2415,8 @@ export const restaurants = [
     "cuisine": "Health",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CoreLife%20Eatery%20Cicero%20NY",
     "coords": {
-      "lat": 43.154448775935094,
-      "lng": -76.10760687826387
+      "lat": 43.16937364535261,
+      "lng": -76.12595403330624
     },
     "hours": {
       "0": [
@@ -2471,8 +2471,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread%20Cicero%20NY",
     "coords": {
-      "lat": 43.150338210184294,
-      "lng": -76.1250182601326
+      "lat": 43.180901798752366,
+      "lng": -76.11450488926769
     },
     "hours": {
       "0": [
@@ -2527,8 +2527,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill%20Cicero%20NY",
     "coords": {
-      "lat": 43.16481276994608,
-      "lng": -76.12132631557661
+      "lat": 43.17384916302377,
+      "lng": -76.11956012857424
     },
     "hours": {
       "0": [
@@ -2583,8 +2583,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Five%20Guys%20Cicero%20NY",
     "coords": {
-      "lat": 43.18415958858683,
-      "lng": -76.12892643012547
+      "lat": 43.18378777865897,
+      "lng": -76.11826068010554
     },
     "hours": {
       "0": [
@@ -2639,8 +2639,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill%20Cicero%20NY",
     "coords": {
-      "lat": 43.175225063510084,
-      "lng": -76.12195514401752
+      "lat": 43.1827934623321,
+      "lng": -76.12870708431066
     },
     "hours": {
       "0": [
@@ -2695,8 +2695,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cracker%20Barrel%20Cicero%20NY",
     "coords": {
-      "lat": 43.160228879814575,
-      "lng": -76.13939726736733
+      "lat": 43.18844410150632,
+      "lng": -76.13988739134827
     },
     "hours": {
       "0": [
@@ -2751,8 +2751,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20Cicero%20NY",
     "coords": {
-      "lat": 43.16618386337992,
-      "lng": -76.13047146155124
+      "lat": 43.18303758214709,
+      "lng": -76.1385685641527
     },
     "hours": {
       "0": [
@@ -2807,8 +2807,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Angry%20Smokehouse%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.1546499433276,
-      "lng": -76.3371446437863
+      "lat": 43.154237615304005,
+      "lng": -76.33899802867757
     },
     "hours": {
       "0": [
@@ -2863,8 +2863,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Angry%20Garlic%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.175887854530515,
-      "lng": -76.35140384190512
+      "lat": 43.15253484243616,
+      "lng": -76.32514462893323
     },
     "hours": {
       "0": [
@@ -2919,8 +2919,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Suds%20Factory%20River%20Grill%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.174141577344564,
-      "lng": -76.34646274009559
+      "lat": 43.15193383842767,
+      "lng": -76.3448526274094
     },
     "hours": {
       "0": [
@@ -2975,8 +2975,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fireside%20By%20The%20River%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.1647702789195,
-      "lng": -76.33656821098049
+      "lat": 43.173483796858534,
+      "lng": -76.35288088682299
     },
     "hours": {
       "0": [
@@ -3031,8 +3031,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=B'Ville%20Diner%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.149917732027056,
-      "lng": -76.32483999267707
+      "lat": 43.13842284908583,
+      "lng": -76.32273383062024
     },
     "hours": {
       "0": [
@@ -3087,8 +3087,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wood%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.173018921352465,
-      "lng": -76.34155795329227
+      "lat": 43.16957776372695,
+      "lng": -76.32325396008139
     },
     "hours": {
       "0": [
@@ -3143,8 +3143,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pastas%20on%20the%20Green%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.14949824084156,
-      "lng": -76.33779966458135
+      "lat": 43.1585999563553,
+      "lng": -76.32721014501661
     },
     "hours": {
       "0": [
@@ -3199,8 +3199,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive's%20Eatery%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.16110450902216,
-      "lng": -76.32512018368821
+      "lat": 43.17799811100105,
+      "lng": -76.32216550338923
     },
     "hours": {
       "0": [
@@ -3255,8 +3255,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Craftsman%20Wood%20Grille%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.0205661212003,
-      "lng": -75.99175734436757
+      "lat": 43.01944917807828,
+      "lng": -75.98511448635159
     },
     "hours": {
       "0": [
@@ -3311,8 +3311,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrabba's%20Italian%20Grill%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.048721714872684,
-      "lng": -75.99084770231654
+      "lat": 43.03324818110972,
+      "lng": -76.00047236933267
     },
     "hours": {
       "0": [
@@ -3367,8 +3367,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicolli's%20Coal%20Fire%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.03576504879963,
-      "lng": -75.99116496724399
+      "lat": 43.013435053386864,
+      "lng": -76.01992102801616
     },
     "hours": {
       "0": [
@@ -3423,8 +3423,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonefish%20Grill%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.02207634890902,
-      "lng": -76.01086325255666
+      "lat": 43.01220125178667,
+      "lng": -75.98640750523653
     },
     "hours": {
       "0": [
@@ -3479,8 +3479,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Twin%20Trees%20Fayetteville%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.03574124067513,
-      "lng": -76.00496914175459
+      "lat": 43.02660721955789,
+      "lng": -75.98988286303486
     },
     "hours": {
       "0": [
@@ -3535,8 +3535,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gino's%20Cheese%20Steak%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.01591064847955,
-      "lng": -76.00891775706975
+      "lat": 43.03147189580943,
+      "lng": -76.02131377948494
     },
     "hours": {
       "0": [
@@ -3591,8 +3591,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20David's%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.02926860104575,
-      "lng": -75.9986891879329
+      "lat": 43.01982659897208,
+      "lng": -76.01379701362131
     },
     "hours": {
       "0": [
@@ -3647,8 +3647,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bull%20%26%20Bear%20Roadhouse%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.0379451864528,
-      "lng": -76.0057826069811
+      "lat": 43.048309120055755,
+      "lng": -75.99399857770084
     },
     "hours": {
       "0": [
@@ -3703,8 +3703,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Daily%20Diner%20Manlius%20NY",
     "coords": {
-      "lat": 43.00018342458117,
-      "lng": -75.96443621521148
+      "lat": 43.01147403333621,
+      "lng": -75.97768767395944
     },
     "hours": {
       "0": [
@@ -3759,8 +3759,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scenic%20Root%20Manlius%20NY",
     "coords": {
-      "lat": 43.01496775464385,
-      "lng": -75.97369152555943
+      "lat": 42.99498469976089,
+      "lng": -75.97307761344317
     },
     "hours": {
       "0": [
@@ -3815,8 +3815,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manlius%20Fish%20Fry%20Manlius%20NY",
     "coords": {
-      "lat": 42.98791798416327,
-      "lng": -75.99731773328158
+      "lat": 43.01041664923477,
+      "lng": -75.9759332986661
     },
     "hours": {
       "0": [
@@ -3871,8 +3871,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20119%20Manlius%20NY",
     "coords": {
-      "lat": 43.002810649103516,
-      "lng": -75.98729568865721
+      "lat": 43.00514570175041,
+      "lng": -75.99580504655569
     },
     "hours": {
       "0": [
@@ -3927,8 +3927,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stingers%20Pizza%20Pub%20Manlius%20NY",
     "coords": {
-      "lat": 42.99448229693935,
-      "lng": -75.99524696629986
+      "lat": 42.984686053810165,
+      "lng": -75.99761016126168
     },
     "hours": {
       "0": [
@@ -3983,8 +3983,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Papa%20Gallo%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.03598569736229,
-      "lng": -76.00849798283136
+      "lat": 43.04252020627688,
+      "lng": -75.98635032110593
     },
     "hours": {
       "0": [
@@ -4039,8 +4039,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Camillus%20Camillus%20NY",
     "coords": {
-      "lat": 43.02099946862642,
-      "lng": -76.30727039971686
+      "lat": 43.02879469442334,
+      "lng": -76.29778456182204
     },
     "hours": {
       "0": [
@@ -4095,8 +4095,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Franco's%20Pizzeria%20Camillus%20NY",
     "coords": {
-      "lat": 43.023475205565084,
-      "lng": -76.29010750237858
+      "lat": 43.04267025984162,
+      "lng": -76.30916439556727
     },
     "hours": {
       "0": [
@@ -4151,8 +4151,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Camillus%20Grill%20Camillus%20NY",
     "coords": {
-      "lat": 43.04101814025351,
-      "lng": -76.30146973424432
+      "lat": 43.057148943225876,
+      "lng": -76.29547190696492
     },
     "hours": {
       "0": [
@@ -4207,8 +4207,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=TK%20Tavern%20Camillus%20NY",
     "coords": {
-      "lat": 43.04501996766314,
-      "lng": -76.31072476854499
+      "lat": 43.02015646049806,
+      "lng": -76.31840660766098
     },
     "hours": {
       "0": [
@@ -4263,8 +4263,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Uncle%20Mike's%20Hometown%20Pizza%20Camillus%20NY",
     "coords": {
-      "lat": 43.04131058812918,
-      "lng": -76.29075475392311
+      "lat": 43.05395652261893,
+      "lng": -76.30309101551285
     },
     "hours": {
       "0": [
@@ -4319,8 +4319,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Green%20Gate%20Camillus%20NY",
     "coords": {
-      "lat": 43.03026002969951,
-      "lng": -76.31182471571674
+      "lat": 43.04056902296742,
+      "lng": -76.32497773796473
     },
     "hours": {
       "0": [
@@ -4375,8 +4375,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cam's%20Pizza%20Camillus%20NY",
     "coords": {
-      "lat": 43.05834654252742,
-      "lng": -76.32105409003664
+      "lat": 43.057666985956374,
+      "lng": -76.3070914072517
     },
     "hours": {
       "0": [
@@ -4431,8 +4431,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wildcat%20Camillus%20NY",
     "coords": {
-      "lat": 43.02211603103072,
-      "lng": -76.32173525028276
+      "lat": 43.04847705945804,
+      "lng": -76.31583663389188
     },
     "hours": {
       "0": [
@@ -4487,8 +4487,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20Between%20Camillus%20NY",
     "coords": {
-      "lat": 43.05403878193131,
-      "lng": -76.32085747970726
+      "lat": 43.03105309828299,
+      "lng": -76.30475504321666
     },
     "hours": {
       "0": [
@@ -4543,8 +4543,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cider%20Mill%20Camillus%20NY",
     "coords": {
-      "lat": 43.055669346356154,
-      "lng": -76.29595959843535
+      "lat": 43.02619012325062,
+      "lng": -76.28984001700454
     },
     "hours": {
       "0": [
@@ -4599,8 +4599,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gracie's%20Kitchen%20Solvay%20NY",
     "coords": {
-      "lat": 43.0551475121755,
-      "lng": -76.22642905658891
+      "lat": 43.062653353587876,
+      "lng": -76.22404236427562
     },
     "hours": {
       "0": [
@@ -4655,8 +4655,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mona%20Lisa's%20Ristorante%20Solvay%20NY",
     "coords": {
-      "lat": 43.04725643358654,
-      "lng": -76.21202688912602
+      "lat": 43.075674989248974,
+      "lng": -76.190836794678
     },
     "hours": {
       "0": [
@@ -4711,8 +4711,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bianchi's%20Pizza%20Pad%20Solvay%20NY",
     "coords": {
-      "lat": 43.07401943237688,
-      "lng": -76.20608163119145
+      "lat": 43.047822711743436,
+      "lng": -76.19564083189108
     },
     "hours": {
       "0": [
@@ -4767,8 +4767,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sam's%20Chickenland%20Solvay%20NY",
     "coords": {
-      "lat": 43.05026652976038,
-      "lng": -76.22258237667297
+      "lat": 43.07547015509305,
+      "lng": -76.18854034324305
     },
     "hours": {
       "0": [
@@ -4823,8 +4823,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trapper's%20Pizza%20Pub%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.047695753139195,
-      "lng": -76.09050255210808
+      "lat": 43.08291025613794,
+      "lng": -76.09177948425125
     },
     "hours": {
       "0": [
@@ -4879,8 +4879,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=TS%20Steakhouse%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.07581120388067,
-      "lng": -76.07172152375784
+      "lat": 43.08157609485398,
+      "lng": -76.06501199123639
     },
     "hours": {
       "0": [
@@ -4935,8 +4935,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood%20Diner%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.07296674197939,
-      "lng": -76.05767137630139
+      "lat": 43.05866077427926,
+      "lng": -76.09127957345348
     },
     "hours": {
       "0": [
@@ -4991,8 +4991,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Original%20Italian%20Pizza%20East%20Syr%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.079121277453076,
-      "lng": -76.06180704174737
+      "lat": 43.06372158630656,
+      "lng": -76.0680998334993
     },
     "hours": {
       "0": [
@@ -5047,8 +5047,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Dewitt%20Dewitt%20NY",
     "coords": {
-      "lat": 43.03404700919822,
-      "lng": -76.08712904155557
+      "lat": 43.047038843463255,
+      "lng": -76.08773220033102
     },
     "hours": {
       "0": [
@@ -5103,8 +5103,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavone's%20Pizza%20Dewitt%20NY",
     "coords": {
-      "lat": 43.059858926322896,
-      "lng": -76.05555729774456
+      "lat": 43.03704300311605,
+      "lng": -76.05897295167652
     },
     "hours": {
       "0": [
@@ -5159,8 +5159,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Dark%20Horse%20Tavern%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04019866291807,
-      "lng": -76.06967946590574
+      "lat": 43.034587163754786,
+      "lng": -76.05285695808952
     },
     "hours": {
       "0": [
@@ -5215,8 +5215,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Scotch%20'N%20Sirloin%20Dewitt%20NY",
     "coords": {
-      "lat": 43.02013939864324,
-      "lng": -76.06076563727223
+      "lat": 43.04682719281622,
+      "lng": -76.0746092980257
     },
     "hours": {
       "0": [
@@ -5271,8 +5271,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=All%20Night%20Eggplant%20Dewitt%20NY",
     "coords": {
-      "lat": 43.03381065315792,
-      "lng": -76.06796143326083
+      "lat": 43.027207841408725,
+      "lng": -76.07593295055163
     },
     "hours": {
       "0": [
@@ -5327,8 +5327,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Dewitt%20Dewitt%20NY",
     "coords": {
-      "lat": 43.022739032598864,
-      "lng": -76.06905148456585
+      "lat": 43.03898471857701,
+      "lng": -76.06453540560798
     },
     "hours": {
       "0": [
@@ -5383,8 +5383,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rise%20N%20Shine%20Diner%20Westcott%20NY",
     "coords": {
-      "lat": 43.04456395131184,
-      "lng": -76.13751359704288
+      "lat": 43.04043317411528,
+      "lng": -76.12811186297856
     },
     "hours": {
       "0": [
@@ -5439,8 +5439,8 @@ export const restaurants = [
     "cuisine": "Asian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gangnam%20Style%20Korean%20Westcott%20NY",
     "coords": {
-      "lat": 43.051614233712364,
-      "lng": -76.13874380682194
+      "lat": 43.04291204624717,
+      "lng": -76.11678171496503
     },
     "hours": {
       "0": [
@@ -5495,8 +5495,8 @@ export const restaurants = [
     "cuisine": "Caribbean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Delicias%20Westcott%20NY",
     "coords": {
-      "lat": 43.040732799897526,
-      "lng": -76.12669948172484
+      "lat": 43.02256117385579,
+      "lng": -76.13258298554425
     },
     "hours": {
       "0": [
@@ -5551,8 +5551,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Munjed's%20Middle%20Eastern%20Westcott%20NY",
     "coords": {
-      "lat": 43.04270545603707,
-      "lng": -76.12811376794497
+      "lat": 43.03190964436427,
+      "lng": -76.10804677159054
     },
     "hours": {
       "0": [
@@ -5607,8 +5607,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LODED%20Westcott%20NY",
     "coords": {
-      "lat": 43.05791618436425,
-      "lng": -76.10881251586352
+      "lat": 43.04676736436719,
+      "lng": -76.11467383016179
     },
     "hours": {
       "0": [
@@ -5663,8 +5663,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mom's%20Diner%20Westcott%20NY",
     "coords": {
-      "lat": 43.030067536632906,
-      "lng": -76.12459786464652
+      "lat": 43.04457857407777,
+      "lng": -76.11998299242462
     },
     "hours": {
       "0": [
@@ -5719,8 +5719,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Garden%20Westcott%20NY",
     "coords": {
-      "lat": 43.021581431196786,
-      "lng": -76.13085756149033
+      "lat": 43.02121442367468,
+      "lng": -76.12969668019223
     },
     "hours": {
       "0": [
@@ -5775,8 +5775,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dorian's%20Gourmet%20Pizza%20Westcott%20NY",
     "coords": {
-      "lat": 43.05616877957997,
-      "lng": -76.1364240656215
+      "lat": 43.05268959803534,
+      "lng": -76.1347066274071
     },
     "hours": {
       "0": [
@@ -5831,8 +5831,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recess%20Coffee%20Westcott%20Westcott%20NY",
     "coords": {
-      "lat": 43.054411168948505,
-      "lng": -76.13804303753426
+      "lat": 43.043359281526186,
+      "lng": -76.13581833514647
     },
     "hours": {
       "0": [
@@ -5887,8 +5887,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Margaritas%20Mexican%20Cantina%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.031892635262224,
-      "lng": -76.16680027099774
+      "lat": 43.05319175139304,
+      "lng": -76.14795175679643
     },
     "hours": {
       "0": [
@@ -5943,8 +5943,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hops%20Spot%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.067915703662806,
-      "lng": -76.1373143309837
+      "lat": 43.0613758303017,
+      "lng": -76.1701881605104
     },
     "hours": {
       "0": [
@@ -5999,8 +5999,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Limerick%20Pub%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03999504580904,
-      "lng": -76.1420704708936
+      "lat": 43.033150337199764,
+      "lng": -76.16124925119377
     },
     "hours": {
       "0": [
@@ -6055,8 +6055,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Three%20Lives%20Bar%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04838451882528,
-      "lng": -76.15363222654805
+      "lat": 43.0564828034499,
+      "lng": -76.14498790279042
     },
     "hours": {
       "0": [
@@ -6111,8 +6111,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20York%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06307831617201,
-      "lng": -76.16538123918846
+      "lat": 43.0323051004625,
+      "lng": -76.16682155996769
     },
     "hours": {
       "0": [
@@ -6167,8 +6167,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Whiskey%20Coop%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06798226741787,
-      "lng": -76.16843949144584
+      "lat": 43.06098713642574,
+      "lng": -76.1368212906137
     },
     "hours": {
       "0": [
@@ -6223,8 +6223,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Armory%20Pizza%20%2B%20Pints%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.040155435772185,
-      "lng": -76.17133521570143
+      "lat": 43.057867680317116,
+      "lng": -76.15715153406155
     },
     "hours": {
       "0": [
@@ -6279,8 +6279,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nick's%20Tomato%20Pie%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05761399532956,
-      "lng": -76.14576944008932
+      "lat": 43.06102374935672,
+      "lng": -76.1678581848655
     },
     "hours": {
       "0": [
@@ -6335,8 +6335,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lemon%20Grass%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04520986582828,
-      "lng": -76.13325052813006
+      "lat": 43.0372286250516,
+      "lng": -76.1441604987282
     },
     "hours": {
       "0": [
@@ -6391,8 +6391,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Funk%20'n%20Waffles%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03719640844693,
-      "lng": -76.16295592519691
+      "lat": 43.06248904673617,
+      "lng": -76.16150986300204
     },
     "hours": {
       "0": [
@@ -6447,8 +6447,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Cafe%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04077640497301,
-      "lng": -76.14223164826203
+      "lat": 43.03177800240564,
+      "lng": -76.14074028408892
     },
     "hours": {
       "0": [
@@ -6503,8 +6503,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Tusk%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04913774493401,
-      "lng": -76.14604980838585
+      "lat": 43.05867706623051,
+      "lng": -76.13786635667495
     },
     "hours": {
       "0": [
@@ -6559,8 +6559,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Elephant%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.039249200825296,
-      "lng": -76.163282301729
+      "lat": 43.05341944378165,
+      "lng": -76.13437605318306
     },
     "hours": {
       "0": [
@@ -6615,8 +6615,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Cocktail%20Kitchen%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.05198362057832,
-      "lng": -76.17658241757346
+      "lat": 43.027390470059395,
+      "lng": -76.15720341628011
     },
     "hours": {
       "0": [
@@ -6671,8 +6671,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steve's%20Cantina%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.02583755240096,
-      "lng": -76.19036968003346
+      "lat": 43.04739202043978,
+      "lng": -76.16069582599289
     },
     "hours": {
       "0": [
@@ -6727,8 +6727,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Patsy's%20Pizza%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.033089842362244,
-      "lng": -76.15807401326697
+      "lat": 43.059109760413676,
+      "lng": -76.19218734177633
     },
     "hours": {
       "0": [
@@ -6783,8 +6783,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sabatino's%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.05565861268644,
-      "lng": -76.17079130813946
+      "lat": 43.0311756294013,
+      "lng": -76.19155631928992
     },
     "hours": {
       "0": [
@@ -6839,8 +6839,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recess%20Coffee%20Tipp%20Hill%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.029506444854334,
-      "lng": -76.16126731208232
+      "lat": 43.04298277361934,
+      "lng": -76.1767084497777
     },
     "hours": {
       "0": [
@@ -6895,8 +6895,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harrison%20Bakery%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.0232537727327,
-      "lng": -76.16602550299693
+      "lat": 43.024987877009366,
+      "lng": -76.16717824079744
     },
     "hours": {
       "0": [
@@ -6951,8 +6951,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Pickle%20Tipp%20Hill%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.05967892609363,
-      "lng": -76.19030495021744
+      "lat": 43.05009414995861,
+      "lng": -76.16473675312886
     },
     "hours": {
       "0": [
@@ -7007,8 +7007,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Blarney%20Stone%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.03911212528638,
-      "lng": -76.15926641170607
+      "lat": 43.031041998738225,
+      "lng": -76.18764679018696
     },
     "hours": {
       "0": [
@@ -7063,8 +7063,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=OIP%20Eastwood%20Eastwood%20NY",
     "coords": {
-      "lat": 43.049520180807626,
-      "lng": -76.10315336608227
+      "lat": 43.07490032023138,
+      "lng": -76.10746801792818
     },
     "hours": {
       "0": [
@@ -7119,8 +7119,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kosta's%20Pizza%20House%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05098334762204,
-      "lng": -76.13013306165585
+      "lat": 43.069799974296515,
+      "lng": -76.11412824312046
     },
     "hours": {
       "0": [
@@ -7175,8 +7175,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Uncle%20Sal's%20Pizza%20Eastwood%20NY",
     "coords": {
-      "lat": 43.076135920031625,
-      "lng": -76.11057989087938
+      "lat": 43.04553291999811,
+      "lng": -76.09879036752237
     },
     "hours": {
       "0": [
@@ -7231,8 +7231,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruby's%20Cheesesteaks%20Eastwood%20NY",
     "coords": {
-      "lat": 43.04605557139596,
-      "lng": -76.13410360993436
+      "lat": 43.08100720887354,
+      "lng": -76.11557926421017
     },
     "hours": {
       "0": [
@@ -7287,8 +7287,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucky%207%20Deli%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05943595586563,
-      "lng": -76.12969709172502
+      "lat": 43.06485323379217,
+      "lng": -76.13469624514308
     },
     "hours": {
       "0": [
@@ -7343,8 +7343,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan's%20Halal%20Eastwood%20NY",
     "coords": {
-      "lat": 43.07660466536579,
-      "lng": -76.12310732529194
+      "lat": 43.0736365260504,
+      "lng": -76.12288185605358
     },
     "hours": {
       "0": [
@@ -7399,8 +7399,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shifty's%20Bar%20%26%20Grill%20Eastwood%20NY",
     "coords": {
-      "lat": 43.07817846927895,
-      "lng": -76.09634915621785
+      "lat": 43.08398165232878,
+      "lng": -76.11524821857711
     },
     "hours": {
       "0": [
@@ -7455,8 +7455,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chadwick's%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06439853845488,
-      "lng": -76.13138807959108
+      "lat": 43.068712807014926,
+      "lng": -76.10416102802463
     },
     "hours": {
       "0": [
@@ -7511,8 +7511,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinbad%20Restaurant%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05140339977575,
-      "lng": -76.1094240684009
+      "lat": 43.06776433831406,
+      "lng": -76.1090642025867
     },
     "hours": {
       "0": [
@@ -7567,8 +7567,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mother's%20Cupboard%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06038473086685,
-      "lng": -76.1286539225044
+      "lat": 43.05685097455197,
+      "lng": -76.13201479916933
     },
     "hours": {
       "0": [
@@ -7623,8 +7623,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Kubal%20Eastwood%20NY",
     "coords": {
-      "lat": 43.068337520951694,
-      "lng": -76.11713850588411
+      "lat": 43.06428768701288,
+      "lng": -76.12553447088237
     },
     "hours": {
       "0": [
@@ -7679,8 +7679,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wedge%20Eastwood%20NY",
     "coords": {
-      "lat": 43.07554475852176,
-      "lng": -76.10416239521577
+      "lat": 43.068648618771505,
+      "lng": -76.12890965198693
     },
     "hours": {
       "0": [
@@ -7729,55 +7729,55 @@ export const restaurants = [
   },
   {
     "id": 139,
-    "name": "McDonald's (Manlius)",
-    "address": "Manlius, NY",
-    "description": "Great Fast Food spot in Manlius.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Manlius)%20Manlius%20NY",
+    "name": "Akina Sushi and Hibachi",
+    "address": "North Syracuse, NY",
+    "description": "Great Japanese spot in North Syracuse.",
+    "cuisine": "Japanese",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Akina%20Sushi%20and%20Hibachi%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.00521706014996,
-      "lng": -75.9768082607089
+      "lat": 43.1363180075921,
+      "lng": -76.12479368180448
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "23:00"
+          "open": "12:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "23:00"
+          "open": "12:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "23:00"
+          "open": "12:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "23:00"
+          "open": "12:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "23:00"
+          "open": "12:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "12:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "12:00",
           "close": "23:00"
         }
       ]
@@ -7785,14 +7785,14 @@ export const restaurants = [
   },
   {
     "id": 140,
-    "name": "Burger King (East Syracuse)",
+    "name": "McDonald's (East Syracuse)",
     "address": "East Syracuse, NY",
     "description": "Great Fast Food spot in East Syracuse.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(East%20Syracuse)%20East%20Syracuse%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.0804829454104,
-      "lng": -76.06750812628734
+      "lat": 43.06966088631955,
+      "lng": -76.07626758435005
     },
     "hours": {
       "0": [
@@ -7841,14 +7841,14 @@ export const restaurants = [
   },
   {
     "id": 141,
-    "name": "Wendy's (Dewitt)",
+    "name": "Burger King (Dewitt)",
     "address": "Dewitt, NY",
     "description": "Great Fast Food spot in Dewitt.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Dewitt)%20Dewitt%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.05709791484354,
-      "lng": -76.07972618573584
+      "lat": 43.046578327420775,
+      "lng": -76.06960910619274
     },
     "hours": {
       "0": [
@@ -7897,55 +7897,55 @@ export const restaurants = [
   },
   {
     "id": 142,
-    "name": "Taco Bell (Camillus)",
+    "name": "Wendy's (Camillus)",
     "address": "Camillus, NY",
-    "description": "Great Mexican spot in Camillus.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Camillus)%20Camillus%20NY",
+    "description": "Great Fast Food spot in Camillus.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.05038008419355,
-      "lng": -76.32223292725584
+      "lat": 43.03265495047703,
+      "lng": -76.30733160836222
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -7953,238 +7953,238 @@ export const restaurants = [
   },
   {
     "id": 143,
-    "name": "Dunkin' (Solvay)",
+    "name": "Taco Bell (Solvay)",
     "address": "Solvay, NY",
-    "description": "Great Cafe spot in Solvay.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Solvay)%20Solvay%20NY",
+    "description": "Great Mexican spot in Solvay.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.068357836141864,
-      "lng": -76.22214375802618
+      "lat": 43.043150883690444,
+      "lng": -76.20184931580208
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 144,
-    "name": "Subway (Mattydale)",
+    "name": "Dunkin' (Mattydale)",
     "address": "Mattydale, NY",
-    "description": "Great Sandwiches spot in Mattydale.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Mattydale)%20Mattydale%20NY",
+    "description": "Great Cafe spot in Mattydale.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.11114378596163,
-      "lng": -76.14389407505801
+      "lat": 43.09388179157503,
+      "lng": -76.15756410151516
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 145,
-    "name": "Starbucks (Syracuse Downtown)",
+    "name": "Subway (Syracuse Downtown)",
     "address": "Syracuse Downtown, NY",
-    "description": "Great Cafe spot in Syracuse Downtown.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
+    "description": "Great Sandwiches spot in Syracuse Downtown.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.028873004902714,
-      "lng": -76.16144796321814
+      "lat": 43.02965549929904,
+      "lng": -76.16200437567082
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 146,
-    "name": "Domino's Pizza (Westcott)",
+    "name": "Starbucks (Westcott)",
     "address": "Westcott, NY",
-    "description": "Great Pizza spot in Westcott.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Westcott)%20Westcott%20NY",
+    "description": "Great Cafe spot in Westcott.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.05290048399112,
-      "lng": -76.1349858537119
+      "lat": 43.036911637063355,
+      "lng": -76.11133112958169
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 147,
-    "name": "Pizza Hut (Tipperary Hill)",
+    "name": "Domino's Pizza (Tipperary Hill)",
     "address": "Tipperary Hill, NY",
     "description": "Great Pizza spot in Tipperary Hill.",
     "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.05117017687117,
-      "lng": -76.17247827521533
+      "lat": 43.03105548147832,
+      "lng": -76.17713235395618
     },
     "hours": {
       "0": [
@@ -8233,55 +8233,55 @@ export const restaurants = [
   },
   {
     "id": 148,
-    "name": "McDonald's (Eastwood)",
+    "name": "Pizza Hut (Eastwood)",
     "address": "Eastwood, NY",
-    "description": "Great Fast Food spot in Eastwood.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Eastwood)%20Eastwood%20NY",
+    "description": "Great Pizza spot in Eastwood.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.062477923849535,
-      "lng": -76.09632860644669
+      "lat": 43.07071772048741,
+      "lng": -76.10534292975412
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ]
@@ -8289,14 +8289,14 @@ export const restaurants = [
   },
   {
     "id": 149,
-    "name": "Burger King (Cicero)",
+    "name": "McDonald's (Cicero)",
     "address": "Cicero, NY",
     "description": "Great Fast Food spot in Cicero.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Cicero)%20Cicero%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.15076152139307,
-      "lng": -76.13631488851816
+      "lat": 43.156050311324734,
+      "lng": -76.13611447565893
     },
     "hours": {
       "0": [
@@ -8345,14 +8345,14 @@ export const restaurants = [
   },
   {
     "id": 150,
-    "name": "Wendy's (Liverpool)",
+    "name": "Burger King (Liverpool)",
     "address": "Liverpool, NY",
     "description": "Great Fast Food spot in Liverpool.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Liverpool)%20Liverpool%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.09384362302396,
-      "lng": -76.20832941223416
+      "lat": 43.12222118765712,
+      "lng": -76.1906275317618
     },
     "hours": {
       "0": [
@@ -8401,55 +8401,55 @@ export const restaurants = [
   },
   {
     "id": 151,
-    "name": "Taco Bell (Clay)",
+    "name": "Wendy's (Clay)",
     "address": "Clay, NY",
-    "description": "Great Mexican spot in Clay.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Clay)%20Clay%20NY",
+    "description": "Great Fast Food spot in Clay.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.18792733670358,
-      "lng": -76.21520159053203
+      "lat": 43.1718300836995,
+      "lng": -76.22031520579544
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -8457,238 +8457,238 @@ export const restaurants = [
   },
   {
     "id": 152,
-    "name": "Dunkin' (North Syracuse)",
+    "name": "Taco Bell (North Syracuse)",
     "address": "North Syracuse, NY",
-    "description": "Great Cafe spot in North Syracuse.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(North%20Syracuse)%20North%20Syracuse%20NY",
+    "description": "Great Mexican spot in North Syracuse.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.14696498931579,
-      "lng": -76.13541944594192
+      "lat": 43.14681404467336,
+      "lng": -76.13647777734462
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 153,
-    "name": "Subway (Baldwinsville)",
+    "name": "Dunkin' (Baldwinsville)",
     "address": "Baldwinsville, NY",
-    "description": "Great Sandwiches spot in Baldwinsville.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Baldwinsville)%20Baldwinsville%20NY",
+    "description": "Great Cafe spot in Baldwinsville.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Baldwinsville)%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.13872994987306,
-      "lng": -76.34223465674518
+      "lat": 43.14814799054515,
+      "lng": -76.31931844636115
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 154,
-    "name": "Starbucks (Fayetteville)",
+    "name": "Subway (Fayetteville)",
     "address": "Fayetteville, NY",
-    "description": "Great Cafe spot in Fayetteville.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Fayetteville)%20Fayetteville%20NY",
+    "description": "Great Sandwiches spot in Fayetteville.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Fayetteville)%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.01660341854587,
-      "lng": -75.98862422174754
+      "lat": 43.01733972756068,
+      "lng": -75.99258654509421
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 155,
-    "name": "Domino's Pizza (Manlius)",
+    "name": "Starbucks (Manlius)",
     "address": "Manlius, NY",
-    "description": "Great Pizza spot in Manlius.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Manlius)%20Manlius%20NY",
+    "description": "Great Cafe spot in Manlius.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Manlius)%20Manlius%20NY",
     "coords": {
-      "lat": 42.98779612135702,
-      "lng": -75.9900591357092
+      "lat": 42.99694129376431,
+      "lng": -75.98542568505829
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 156,
-    "name": "Pizza Hut (East Syracuse)",
+    "name": "Domino's Pizza (East Syracuse)",
     "address": "East Syracuse, NY",
     "description": "Great Pizza spot in East Syracuse.",
     "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(East%20Syracuse)%20East%20Syracuse%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.05075106735123,
-      "lng": -76.08234143124668
+      "lat": 43.063340174017895,
+      "lng": -76.07763183455556
     },
     "hours": {
       "0": [
@@ -8737,55 +8737,55 @@ export const restaurants = [
   },
   {
     "id": 157,
-    "name": "McDonald's (Dewitt)",
+    "name": "Pizza Hut (Dewitt)",
     "address": "Dewitt, NY",
-    "description": "Great Fast Food spot in Dewitt.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Dewitt)%20Dewitt%20NY",
+    "description": "Great Pizza spot in Dewitt.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.02562868747478,
-      "lng": -76.08553916734574
+      "lat": 43.02817257490049,
+      "lng": -76.0812826136372
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ]
@@ -8793,14 +8793,14 @@ export const restaurants = [
   },
   {
     "id": 158,
-    "name": "Burger King (Camillus)",
+    "name": "McDonald's (Camillus)",
     "address": "Camillus, NY",
     "description": "Great Fast Food spot in Camillus.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Camillus)%20Camillus%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.02423996514935,
-      "lng": -76.31852679351007
+      "lat": 43.04609197924805,
+      "lng": -76.30758525119975
     },
     "hours": {
       "0": [
@@ -8849,14 +8849,14 @@ export const restaurants = [
   },
   {
     "id": 159,
-    "name": "Wendy's (Solvay)",
+    "name": "Burger King (Solvay)",
     "address": "Solvay, NY",
     "description": "Great Fast Food spot in Solvay.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Solvay)%20Solvay%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.05285590876215,
-      "lng": -76.20867853379163
+      "lat": 43.059348294791185,
+      "lng": -76.20663672074707
     },
     "hours": {
       "0": [
@@ -8905,55 +8905,55 @@ export const restaurants = [
   },
   {
     "id": 160,
-    "name": "Taco Bell (Mattydale)",
+    "name": "Wendy's (Mattydale)",
     "address": "Mattydale, NY",
-    "description": "Great Mexican spot in Mattydale.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Mattydale)%20Mattydale%20NY",
+    "description": "Great Fast Food spot in Mattydale.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.10624495788937,
-      "lng": -76.13803848712107
+      "lat": 43.10349212846819,
+      "lng": -76.14396000757293
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -8961,238 +8961,238 @@ export const restaurants = [
   },
   {
     "id": 161,
-    "name": "Dunkin' (Syracuse Downtown)",
+    "name": "Taco Bell (Syracuse Downtown)",
     "address": "Syracuse Downtown, NY",
-    "description": "Great Cafe spot in Syracuse Downtown.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
+    "description": "Great Mexican spot in Syracuse Downtown.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04449229141797,
-      "lng": -76.13902143435898
+      "lat": 43.0459344371427,
+      "lng": -76.1341616643129
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 162,
-    "name": "Subway (Westcott)",
+    "name": "Dunkin' (Westcott)",
     "address": "Westcott, NY",
-    "description": "Great Sandwiches spot in Westcott.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Westcott)%20Westcott%20NY",
+    "description": "Great Cafe spot in Westcott.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.05389668171155,
-      "lng": -76.10925274939916
+      "lat": 43.02031410938009,
+      "lng": -76.12731314835877
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 163,
-    "name": "Starbucks (Tipperary Hill)",
+    "name": "Subway (Tipperary Hill)",
     "address": "Tipperary Hill, NY",
-    "description": "Great Cafe spot in Tipperary Hill.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
+    "description": "Great Sandwiches spot in Tipperary Hill.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.034263677257705,
-      "lng": -76.19121655186808
+      "lat": 43.03805374050529,
+      "lng": -76.16200340803191
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 164,
-    "name": "Domino's Pizza (Eastwood)",
+    "name": "Starbucks (Eastwood)",
     "address": "Eastwood, NY",
-    "description": "Great Pizza spot in Eastwood.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Eastwood)%20Eastwood%20NY",
+    "description": "Great Cafe spot in Eastwood.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06234811423635,
-      "lng": -76.12846938433168
+      "lat": 43.04610015728509,
+      "lng": -76.126293817095
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 165,
-    "name": "Pizza Hut (Cicero)",
+    "name": "Domino's Pizza (Cicero)",
     "address": "Cicero, NY",
     "description": "Great Pizza spot in Cicero.",
     "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Cicero)%20Cicero%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.172486070564915,
-      "lng": -76.10114477458302
+      "lat": 43.16739097774023,
+      "lng": -76.12174019731279
     },
     "hours": {
       "0": [
@@ -9241,55 +9241,55 @@ export const restaurants = [
   },
   {
     "id": 166,
-    "name": "McDonald's (Liverpool)",
+    "name": "Pizza Hut (Liverpool)",
     "address": "Liverpool, NY",
-    "description": "Great Fast Food spot in Liverpool.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Liverpool)%20Liverpool%20NY",
+    "description": "Great Pizza spot in Liverpool.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.102989425741,
-      "lng": -76.19768452038315
+      "lat": 43.10717266363019,
+      "lng": -76.19364063230283
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ]
@@ -9297,14 +9297,14 @@ export const restaurants = [
   },
   {
     "id": 167,
-    "name": "Burger King (Clay)",
+    "name": "McDonald's (Clay)",
     "address": "Clay, NY",
     "description": "Great Fast Food spot in Clay.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Clay)%20Clay%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.19612246205791,
-      "lng": -76.21994211000154
+      "lat": 43.185381668939215,
+      "lng": -76.21491312901867
     },
     "hours": {
       "0": [
@@ -9353,14 +9353,14 @@ export const restaurants = [
   },
   {
     "id": 168,
-    "name": "Wendy's (North Syracuse)",
+    "name": "Burger King (North Syracuse)",
     "address": "North Syracuse, NY",
     "description": "Great Fast Food spot in North Syracuse.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(North%20Syracuse)%20North%20Syracuse%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.13050101168958,
-      "lng": -76.14638929746216
+      "lat": 43.12026226467124,
+      "lng": -76.13815249422673
     },
     "hours": {
       "0": [
@@ -9409,55 +9409,55 @@ export const restaurants = [
   },
   {
     "id": 169,
-    "name": "Taco Bell (Baldwinsville)",
+    "name": "Wendy's (Baldwinsville)",
     "address": "Baldwinsville, NY",
-    "description": "Great Mexican spot in Baldwinsville.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Baldwinsville)%20Baldwinsville%20NY",
+    "description": "Great Fast Food spot in Baldwinsville.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Baldwinsville)%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.16801643516515,
-      "lng": -76.33829880745168
+      "lat": 43.164189860364104,
+      "lng": -76.33559960884088
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -9465,238 +9465,238 @@ export const restaurants = [
   },
   {
     "id": 170,
-    "name": "Dunkin' (Fayetteville)",
+    "name": "Taco Bell (Fayetteville)",
     "address": "Fayetteville, NY",
-    "description": "Great Cafe spot in Fayetteville.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Fayetteville)%20Fayetteville%20NY",
+    "description": "Great Mexican spot in Fayetteville.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Fayetteville)%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.01681890712727,
-      "lng": -76.00949209661485
+      "lat": 43.0192148463136,
+      "lng": -76.00977860779804
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 171,
-    "name": "Subway (Manlius)",
+    "name": "Dunkin' (Manlius)",
     "address": "Manlius, NY",
-    "description": "Great Sandwiches spot in Manlius.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Manlius)%20Manlius%20NY",
+    "description": "Great Cafe spot in Manlius.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Manlius)%20Manlius%20NY",
     "coords": {
-      "lat": 43.004191970682804,
-      "lng": -75.97607154902296
+      "lat": 42.99687991367407,
+      "lng": -75.98981313424034
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 172,
-    "name": "Starbucks (East Syracuse)",
+    "name": "Subway (East Syracuse)",
     "address": "East Syracuse, NY",
-    "description": "Great Cafe spot in East Syracuse.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(East%20Syracuse)%20East%20Syracuse%20NY",
+    "description": "Great Sandwiches spot in East Syracuse.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.067783801740354,
-      "lng": -76.08729167377909
+      "lat": 43.07309492055402,
+      "lng": -76.06551571259097
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 173,
-    "name": "Domino's Pizza (Dewitt)",
+    "name": "Starbucks (Dewitt)",
     "address": "Dewitt, NY",
-    "description": "Great Pizza spot in Dewitt.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Dewitt)%20Dewitt%20NY",
+    "description": "Great Cafe spot in Dewitt.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.02396864760461,
-      "lng": -76.08445526101976
+      "lat": 43.03853963125227,
+      "lng": -76.07133286123309
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 174,
-    "name": "Pizza Hut (Camillus)",
+    "name": "Domino's Pizza (Camillus)",
     "address": "Camillus, NY",
     "description": "Great Pizza spot in Camillus.",
     "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Camillus)%20Camillus%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.04931080105805,
-      "lng": -76.29668345949568
+      "lat": 43.0236484341049,
+      "lng": -76.29610048175834
     },
     "hours": {
       "0": [
@@ -9745,55 +9745,55 @@ export const restaurants = [
   },
   {
     "id": 175,
-    "name": "McDonald's (Solvay)",
+    "name": "Pizza Hut (Solvay)",
     "address": "Solvay, NY",
-    "description": "Great Fast Food spot in Solvay.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Solvay)%20Solvay%20NY",
+    "description": "Great Pizza spot in Solvay.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.0645844603065,
-      "lng": -76.20473197805676
+      "lat": 43.048589061298195,
+      "lng": -76.20064714609144
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ]
@@ -9801,14 +9801,14 @@ export const restaurants = [
   },
   {
     "id": 176,
-    "name": "Burger King (Mattydale)",
+    "name": "McDonald's (Mattydale)",
     "address": "Mattydale, NY",
     "description": "Great Fast Food spot in Mattydale.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Mattydale)%20Mattydale%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.09562001887573,
-      "lng": -76.14302684732267
+      "lat": 43.09571386208866,
+      "lng": -76.14496220984242
     },
     "hours": {
       "0": [
@@ -9857,14 +9857,14 @@ export const restaurants = [
   },
   {
     "id": 177,
-    "name": "Wendy's (Syracuse Downtown)",
+    "name": "Burger King (Syracuse Downtown)",
     "address": "Syracuse Downtown, NY",
     "description": "Great Fast Food spot in Syracuse Downtown.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.035633775464234,
-      "lng": -76.13306694688436
+      "lat": 43.06294177034217,
+      "lng": -76.14626289209785
     },
     "hours": {
       "0": [
@@ -9913,55 +9913,55 @@ export const restaurants = [
   },
   {
     "id": 178,
-    "name": "Taco Bell (Westcott)",
+    "name": "Wendy's (Westcott)",
     "address": "Westcott, NY",
-    "description": "Great Mexican spot in Westcott.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Westcott)%20Westcott%20NY",
+    "description": "Great Fast Food spot in Westcott.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.038269633000915,
-      "lng": -76.13470406688492
+      "lat": 43.02220783928804,
+      "lng": -76.13973861852234
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -9969,238 +9969,238 @@ export const restaurants = [
   },
   {
     "id": 179,
-    "name": "Dunkin' (Tipperary Hill)",
+    "name": "Taco Bell (Tipperary Hill)",
     "address": "Tipperary Hill, NY",
-    "description": "Great Cafe spot in Tipperary Hill.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
+    "description": "Great Mexican spot in Tipperary Hill.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.04188588513878,
-      "lng": -76.16688505688988
+      "lat": 43.02713100283574,
+      "lng": -76.16114765279958
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 180,
-    "name": "Subway (Eastwood)",
+    "name": "Dunkin' (Eastwood)",
     "address": "Eastwood, NY",
-    "description": "Great Sandwiches spot in Eastwood.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Eastwood)%20Eastwood%20NY",
+    "description": "Great Cafe spot in Eastwood.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06761552981188,
-      "lng": -76.12288798125762
+      "lat": 43.08376391520267,
+      "lng": -76.12008098364268
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 181,
-    "name": "Starbucks (Cicero)",
+    "name": "Subway (Cicero)",
     "address": "Cicero, NY",
-    "description": "Great Cafe spot in Cicero.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Cicero)%20Cicero%20NY",
+    "description": "Great Sandwiches spot in Cicero.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.152571114549495,
-      "lng": -76.12159683629469
+      "lat": 43.17741055026656,
+      "lng": -76.12211023087782
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 182,
-    "name": "Domino's Pizza (Liverpool)",
+    "name": "Starbucks (Liverpool)",
     "address": "Liverpool, NY",
-    "description": "Great Pizza spot in Liverpool.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Liverpool)%20Liverpool%20NY",
+    "description": "Great Cafe spot in Liverpool.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.107140688449164,
-      "lng": -76.21563872032587
+      "lat": 43.11568681764349,
+      "lng": -76.21747715044309
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 183,
-    "name": "Pizza Hut (Clay)",
+    "name": "Domino's Pizza (Clay)",
     "address": "Clay, NY",
     "description": "Great Pizza spot in Clay.",
     "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Clay)%20Clay%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.19101268798357,
-      "lng": -76.22839148715417
+      "lat": 43.19544150096504,
+      "lng": -76.22891918800562
     },
     "hours": {
       "0": [
@@ -10249,55 +10249,55 @@ export const restaurants = [
   },
   {
     "id": 184,
-    "name": "McDonald's (North Syracuse)",
+    "name": "Pizza Hut (North Syracuse)",
     "address": "North Syracuse, NY",
-    "description": "Great Fast Food spot in North Syracuse.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(North%20Syracuse)%20North%20Syracuse%20NY",
+    "description": "Great Pizza spot in North Syracuse.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.12578252571068,
-      "lng": -76.12403562111042
+      "lat": 43.15043902410126,
+      "lng": -76.14010406085403
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ]
@@ -10305,14 +10305,14 @@ export const restaurants = [
   },
   {
     "id": 185,
-    "name": "Burger King (Baldwinsville)",
+    "name": "McDonald's (Baldwinsville)",
     "address": "Baldwinsville, NY",
     "description": "Great Fast Food spot in Baldwinsville.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Baldwinsville)%20Baldwinsville%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Baldwinsville)%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.145142356906,
-      "lng": -76.32348882858322
+      "lat": 43.177608817713285,
+      "lng": -76.3314697613887
     },
     "hours": {
       "0": [
@@ -10361,14 +10361,14 @@ export const restaurants = [
   },
   {
     "id": 186,
-    "name": "Wendy's (Fayetteville)",
+    "name": "Burger King (Fayetteville)",
     "address": "Fayetteville, NY",
     "description": "Great Fast Food spot in Fayetteville.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Fayetteville)%20Fayetteville%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Fayetteville)%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.009878513249774,
-      "lng": -75.98838649595014
+      "lat": 43.01344969372463,
+      "lng": -75.98655723862862
     },
     "hours": {
       "0": [
@@ -10417,55 +10417,55 @@ export const restaurants = [
   },
   {
     "id": 187,
-    "name": "Taco Bell (Manlius)",
+    "name": "Wendy's (Manlius)",
     "address": "Manlius, NY",
-    "description": "Great Mexican spot in Manlius.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Manlius)%20Manlius%20NY",
+    "description": "Great Fast Food spot in Manlius.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Manlius)%20Manlius%20NY",
     "coords": {
-      "lat": 42.98801574212247,
-      "lng": -75.95994775482191
+      "lat": 43.01517107672921,
+      "lng": -75.99680410114082
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -10473,238 +10473,238 @@ export const restaurants = [
   },
   {
     "id": 188,
-    "name": "Dunkin' (East Syracuse)",
+    "name": "Taco Bell (East Syracuse)",
     "address": "East Syracuse, NY",
-    "description": "Great Cafe spot in East Syracuse.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(East%20Syracuse)%20East%20Syracuse%20NY",
+    "description": "Great Mexican spot in East Syracuse.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.05369749025964,
-      "lng": -76.07831900270864
+      "lat": 43.04833087340518,
+      "lng": -76.0822935759343
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 189,
-    "name": "Subway (Dewitt)",
+    "name": "Dunkin' (Dewitt)",
     "address": "Dewitt, NY",
-    "description": "Great Sandwiches spot in Dewitt.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Dewitt)%20Dewitt%20NY",
+    "description": "Great Cafe spot in Dewitt.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.054901464026585,
-      "lng": -76.05067701670878
+      "lat": 43.0305753566265,
+      "lng": -76.08776373332923
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 190,
-    "name": "Starbucks (Camillus)",
+    "name": "Subway (Camillus)",
     "address": "Camillus, NY",
-    "description": "Great Cafe spot in Camillus.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Camillus)%20Camillus%20NY",
+    "description": "Great Sandwiches spot in Camillus.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.0485801342524,
-      "lng": -76.31953816897965
+      "lat": 43.04106561562399,
+      "lng": -76.31117284522516
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 191,
-    "name": "Domino's Pizza (Solvay)",
+    "name": "Starbucks (Solvay)",
     "address": "Solvay, NY",
-    "description": "Great Pizza spot in Solvay.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Solvay)%20Solvay%20NY",
+    "description": "Great Cafe spot in Solvay.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.0409508453632,
-      "lng": -76.21296577590078
+      "lat": 43.073419200183444,
+      "lng": -76.19074083904415
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 192,
-    "name": "Pizza Hut (Mattydale)",
+    "name": "Domino's Pizza (Mattydale)",
     "address": "Mattydale, NY",
     "description": "Great Pizza spot in Mattydale.",
     "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Mattydale)%20Mattydale%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.09490596892215,
-      "lng": -76.16336566408802
+      "lat": 43.119074086455804,
+      "lng": -76.14657134291555
     },
     "hours": {
       "0": [
@@ -10753,55 +10753,55 @@ export const restaurants = [
   },
   {
     "id": 193,
-    "name": "McDonald's (Syracuse Downtown)",
+    "name": "Pizza Hut (Syracuse Downtown)",
     "address": "Syracuse Downtown, NY",
-    "description": "Great Fast Food spot in Syracuse Downtown.",
-    "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
+    "description": "Great Pizza spot in Syracuse Downtown.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.062065503098516,
-      "lng": -76.15236272626241
+      "lat": 43.05914228733489,
+      "lng": -76.1531116407196
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
+          "open": "11:00",
           "close": "23:00"
         }
       ]
@@ -10809,14 +10809,14 @@ export const restaurants = [
   },
   {
     "id": 194,
-    "name": "Burger King (Westcott)",
+    "name": "McDonald's (Westcott)",
     "address": "Westcott, NY",
     "description": "Great Fast Food spot in Westcott.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Westcott)%20Westcott%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.02994890496173,
-      "lng": -76.13829388959489
+      "lat": 43.028680083903026,
+      "lng": -76.12278327879962
     },
     "hours": {
       "0": [
@@ -10865,14 +10865,14 @@ export const restaurants = [
   },
   {
     "id": 195,
-    "name": "Wendy's (Tipperary Hill)",
+    "name": "Burger King (Tipperary Hill)",
     "address": "Tipperary Hill, NY",
     "description": "Great Fast Food spot in Tipperary Hill.",
     "cuisine": "Fast Food",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.058010461012586,
-      "lng": -76.15854337208609
+      "lat": 43.0454000446311,
+      "lng": -76.1882475624556
     },
     "hours": {
       "0": [
@@ -10921,55 +10921,55 @@ export const restaurants = [
   },
   {
     "id": 196,
-    "name": "Taco Bell (Eastwood)",
+    "name": "Wendy's (Eastwood)",
     "address": "Eastwood, NY",
-    "description": "Great Mexican spot in Eastwood.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Eastwood)%20Eastwood%20NY",
+    "description": "Great Fast Food spot in Eastwood.",
+    "cuisine": "Fast Food",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06817801768116,
-      "lng": -76.13212481768082
+      "lat": 43.04853065824049,
+      "lng": -76.11085223840286
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "06:00",
           "close": "23:00"
         }
       ]
@@ -10977,224 +10977,224 @@ export const restaurants = [
   },
   {
     "id": 197,
-    "name": "Dunkin' (Cicero)",
+    "name": "Taco Bell (Cicero)",
     "address": "Cicero, NY",
-    "description": "Great Cafe spot in Cicero.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Cicero)%20Cicero%20NY",
+    "description": "Great Mexican spot in Cicero.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.16993755328771,
-      "lng": -76.10261141533569
+      "lat": 43.15143701324481,
+      "lng": -76.12771363323377
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 198,
-    "name": "Subway (Liverpool)",
+    "name": "Dunkin' (Liverpool)",
     "address": "Liverpool, NY",
-    "description": "Great Sandwiches spot in Liverpool.",
-    "cuisine": "Sandwiches",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Liverpool)%20Liverpool%20NY",
+    "description": "Great Cafe spot in Liverpool.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.11611299678327,
-      "lng": -76.2268944156968
+      "lat": 43.10979541706179,
+      "lng": -76.20336725007027
     },
     "hours": {
       "0": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "10:00",
-          "close": "20:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "10:00",
-          "close": "21:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 199,
-    "name": "Starbucks (Clay)",
+    "name": "Subway (Clay)",
     "address": "Clay, NY",
-    "description": "Great Cafe spot in Clay.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Clay)%20Clay%20NY",
+    "description": "Great Sandwiches spot in Clay.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.16385284327608,
-      "lng": -76.22692466212618
+      "lat": 43.18118109083362,
+      "lng": -76.19131853173576
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "19:00"
+          "open": "10:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 200,
-    "name": "Domino's Pizza (North Syracuse)",
+    "name": "Starbucks (North Syracuse)",
     "address": "North Syracuse, NY",
-    "description": "Great Pizza spot in North Syracuse.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(North%20Syracuse)%20North%20Syracuse%20NY",
+    "description": "Great Cafe spot in North Syracuse.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.12506394049954,
-      "lng": -76.14135774902
+      "lat": 43.14741359590458,
+      "lng": -76.11512683436638
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "19:00"
         }
       ]
     }
