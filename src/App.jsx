@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.2";
+  const version = "v1.3.3";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -48,10 +48,33 @@ function App() {
         .then(res => res.json())
         .then(data => {
           if (data.latitude && data.longitude) {
-            setUserLocation({
-              lat: data.latitude,
-              lng: data.longitude
-            });
+            // Check if user is in the Syracuse area (approx 43.0, -76.1)
+            // If they are far away (e.g. NYC), default to Cicero (13039) for this app
+            const lat1 = data.latitude;
+            const lon1 = data.longitude;
+            const lat2 = 43.0481; // Syracuse
+            const lon2 = -76.1474;
+
+            // Haversine formula
+            const R = 3959;
+            const dLat = (lat2 - lat1) * (Math.PI / 180);
+            const dLon = (lon2 - lon1) * (Math.PI / 180);
+            const a =
+              Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+              Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) *
+              Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            const distToSyracuse = R * c;
+
+            if (distToSyracuse > 50) {
+              console.log(`User is ${distToSyracuse.toFixed(0)} miles away. Defaulting to Cicero.`);
+              setUserLocation({ lat: 43.1678, lng: -76.1158 });
+            } else {
+              setUserLocation({
+                lat: data.latitude,
+                lng: data.longitude
+              });
+            }
             setUseIpLocation(true);
           } else {
             throw new Error("Invalid location data");
@@ -60,7 +83,7 @@ function App() {
         .catch(err => {
           console.error("IP Location failed:", err);
           // Fallback to Cicero (13039) if IP fails (user preference)
-          setUserLocation({ lat: 43.172, lng: -76.056 });
+          setUserLocation({ lat: 43.1678, lng: -76.1158 });
           setUseIpLocation(true);
         });
     }
