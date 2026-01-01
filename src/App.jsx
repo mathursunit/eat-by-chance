@@ -59,8 +59,8 @@ function App() {
         })
         .catch(err => {
           console.error("IP Location failed:", err);
-          // Fallback to Syracuse Downtown if IP fails
-          setUserLocation({ lat: 43.048, lng: -76.152 });
+          // Fallback to Cicero (13039) if IP fails (user preference)
+          setUserLocation({ lat: 43.172, lng: -76.056 });
           setUseIpLocation(true);
         });
     }

@@ -7,8 +7,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinosaur%20Bar-B-Que%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.02886200336234,
-      "lng": -76.16692144594694
+      "lat": 43.03293895478859,
+      "lng": -76.15202619994498
     },
     "hours": {
       "0": [
@@ -63,8 +63,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pastabilities%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.060004527632444,
-      "lng": -76.16616973693262
+      "lat": 43.02892142771314,
+      "lng": -76.13561757958479
     },
     "hours": {
       "0": [
@@ -119,8 +119,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Retreat%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10984604579453,
-      "lng": -76.21298506336821
+      "lat": 43.1138977972755,
+      "lng": -76.201907239484
     },
     "hours": {
       "0": [
@@ -175,8 +175,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heid's%20of%20Liverpool%20Liverpool%20NY",
     "coords": {
-      "lat": 43.090692843637214,
-      "lng": -76.20247268690443
+      "lat": 43.123423171021386,
+      "lng": -76.19486846136016
     },
     "hours": {
       "0": [
@@ -231,8 +231,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%20Italian%20Steakhouse%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04442559523435,
-      "lng": -76.15044899026923
+      "lat": 43.04430766625294,
+      "lng": -76.14377721388335
     },
     "hours": {
       "0": [
@@ -287,8 +287,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A%20Cicero%20NY",
     "coords": {
-      "lat": 43.166798184131096,
-      "lng": -76.11475396029678
+      "lat": 43.16662441827153,
+      "lng": -76.10360833238973
     },
     "hours": {
       "0": [
@@ -343,8 +343,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cicero%20Country%20Pizza%20Cicero%20NY",
     "coords": {
-      "lat": 43.16585418551041,
-      "lng": -76.12554793073605
+      "lat": 43.17430241434363,
+      "lng": -76.12532092579481
     },
     "hours": {
       "0": [
@@ -399,8 +399,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thee%20Diner%20Cicero%20NY",
     "coords": {
-      "lat": 43.15695630590519,
-      "lng": -76.1357738427079
+      "lat": 43.15660869781462,
+      "lng": -76.12799751695873
     },
     "hours": {
       "0": [
@@ -455,8 +455,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Cicero%20NY",
     "coords": {
-      "lat": 43.185932153807826,
-      "lng": -76.12684383074226
+      "lat": 43.18036005693095,
+      "lng": -76.11257059909047
     },
     "hours": {
       "0": [
@@ -511,8 +511,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frankie%20Sushi%20Cicero%20NY",
     "coords": {
-      "lat": 43.1726517206661,
-      "lng": -76.12056781424978
+      "lat": 43.17751252431873,
+      "lng": -76.1267182020908
     },
     "hours": {
       "0": [
@@ -567,8 +567,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grotto%20Restaurant%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.141269713724405,
-      "lng": -76.12526997427977
+      "lat": 43.15092478934414,
+      "lng": -76.14611417876247
     },
     "hours": {
       "0": [
@@ -623,8 +623,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Limp%20Lizard%20Liverpool%20NY",
     "coords": {
-      "lat": 43.09473093047991,
-      "lng": -76.22784577522806
+      "lat": 43.109647762189496,
+      "lng": -76.19044181599659
     },
     "hours": {
       "0": [
@@ -679,8 +679,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Twin%20Trees%20III%20Liverpool%20NY",
     "coords": {
-      "lat": 43.098406359669944,
-      "lng": -76.19324047708363
+      "lat": 43.11123814000736,
+      "lng": -76.19702490073082
     },
     "hours": {
       "0": [
@@ -735,8 +735,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gardenview%20Diner%20Liverpool%20NY",
     "coords": {
-      "lat": 43.11193532025301,
-      "lng": -76.21107604387701
+      "lat": 43.09617410755522,
+      "lng": -76.21979330141365
     },
     "hours": {
       "0": [
@@ -791,8 +791,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santangelo's%20Liverpool%20NY",
     "coords": {
-      "lat": 43.11295694067282,
-      "lng": -76.202831004149
+      "lat": 43.10634075906635,
+      "lng": -76.2064963370624
     },
     "hours": {
       "0": [
@@ -847,8 +847,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thai%20Village%20Liverpool%20NY",
     "coords": {
-      "lat": 43.0932854755604,
-      "lng": -76.19624973653063
+      "lat": 43.12454544491946,
+      "lng": -76.20116040788751
     },
     "hours": {
       "0": [
@@ -903,8 +903,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicolli's%20Liverpool%20NY",
     "coords": {
-      "lat": 43.12246515756008,
-      "lng": -76.20391240326313
+      "lat": 43.09345310426522,
+      "lng": -76.22938167785308
     },
     "hours": {
       "0": [
@@ -959,8 +959,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Euclid%20Restaurant%20Clay%20NY",
     "coords": {
-      "lat": 43.19062978530688,
-      "lng": -76.19691166547695
+      "lat": 43.182871888420614,
+      "lng": -76.19551752900442
     },
     "hours": {
       "0": [
@@ -1015,8 +1015,8 @@ export const restaurants = [
     "cuisine": "Caribbean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Tafari's%20Jamaican%20Cuisine%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10581525122656,
-      "lng": -76.21618139716766
+      "lat": 43.091348440171,
+      "lng": -76.19449542479272
     },
     "hours": {
       "0": [
@@ -1071,8 +1071,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tully's%20Good%20Times%20Liverpool%20NY",
     "coords": {
-      "lat": 43.089180001160656,
-      "lng": -76.2288638006531
+      "lat": 43.10661861065312,
+      "lng": -76.20636749270618
     },
     "hours": {
       "0": [
@@ -1127,8 +1127,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse%20Clay%20NY",
     "coords": {
-      "lat": 43.19543104170408,
-      "lng": -76.20431437846472
+      "lat": 43.16669077977005,
+      "lng": -76.2270649925033
     },
     "hours": {
       "0": [
@@ -1183,8 +1183,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wrap%20it%20Up!!!%20Cicero%20NY",
     "coords": {
-      "lat": 43.16641800015598,
-      "lng": -76.11896126129042
+      "lat": 43.150356968485575,
+      "lng": -76.09845582595796
     },
     "hours": {
       "0": [
@@ -1239,8 +1239,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=110%20Grill%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.048764128776874,
-      "lng": -76.1548534248475
+      "lat": 43.03818999454411,
+      "lng": -76.16702796795413
     },
     "hours": {
       "0": [
@@ -1295,8 +1295,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eden%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.031599247901475,
-      "lng": -76.1429020340338
+      "lat": 43.053451831743196,
+      "lng": -76.1336882501537
     },
     "hours": {
       "0": [
@@ -1351,8 +1351,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Apizza%20Regionale%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04756656843501,
-      "lng": -76.15262777167239
+      "lat": 43.04384992503086,
+      "lng": -76.16926956603636
     },
     "hours": {
       "0": [
@@ -1407,8 +1407,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Francesca's%20Cucina%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.0526871500321,
-      "lng": -76.1340103212232
+      "lat": 43.02834771662559,
+      "lng": -76.13563987453367
     },
     "hours": {
       "0": [
@@ -1463,8 +1463,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Fish%20Friar%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06017845267007,
-      "lng": -76.16965606787382
+      "lat": 43.065656488931815,
+      "lng": -76.13525526262411
     },
     "hours": {
       "0": [
@@ -1519,8 +1519,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitty%20Hoyne's%20Irish%20Pub%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04096819478376,
-      "lng": -76.15299373272877
+      "lat": 43.05322434106602,
+      "lng": -76.13266204694052
     },
     "hours": {
       "0": [
@@ -1575,8 +1575,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alto%20Cinco%20Westcott%20NY",
     "coords": {
-      "lat": 43.058853105678295,
-      "lng": -76.13392158195511
+      "lat": 43.02664221018891,
+      "lng": -76.12538748002112
     },
     "hours": {
       "0": [
@@ -1631,8 +1631,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phoebe's%20Restaurant%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03997566306062,
-      "lng": -76.15460944833873
+      "lat": 43.039258293372384,
+      "lng": -76.15151206880448
     },
     "hours": {
       "0": [
@@ -1687,8 +1687,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Evergreen%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04764595493538,
-      "lng": -76.140542223654
+      "lat": 43.04631743594564,
+      "lng": -76.15195704430371
     },
     "hours": {
       "0": [
@@ -1743,8 +1743,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sakana-Ya%20Sushi%20Bar%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04535832147242,
-      "lng": -76.13727835621586
+      "lat": 43.05351022690245,
+      "lng": -76.1417332149243
     },
     "hours": {
       "0": [
@@ -1799,8 +1799,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stella's%20Diner%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03644964124597,
-      "lng": -76.14737181101003
+      "lat": 43.041952553008265,
+      "lng": -76.15076159174907
     },
     "hours": {
       "0": [
@@ -1855,8 +1855,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modern%20Malt%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04175177360253,
-      "lng": -76.14463825218185
+      "lat": 43.02836145621842,
+      "lng": -76.15560220467094
     },
     "hours": {
       "0": [
@@ -1911,8 +1911,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oh%20My%20Darling%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.046477795149514,
-      "lng": -76.16623445705838
+      "lat": 43.0633575112097,
+      "lng": -76.16685898654232
     },
     "hours": {
       "0": [
@@ -1967,8 +1967,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ale%20'n'%20Angus%20Pub%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04326640987141,
-      "lng": -76.1623003765036
+      "lat": 43.06751323625258,
+      "lng": -76.13486152747149
     },
     "hours": {
       "0": [
@@ -2023,8 +2023,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coleman's%20Authentic%20Irish%20Pub%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.04886652268046,
-      "lng": -76.15697261614781
+      "lat": 43.05661179721194,
+      "lng": -76.18567898748285
     },
     "hours": {
       "0": [
@@ -2079,8 +2079,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20Grande%20Mexican%20Liverpool%20NY",
     "coords": {
-      "lat": 43.11441107233641,
-      "lng": -76.20752224086779
+      "lat": 43.11237947589724,
+      "lng": -76.20858724538994
     },
     "hours": {
       "0": [
@@ -2135,8 +2135,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ichiban%20Japanese%20Steakhouse%20Liverpool%20NY",
     "coords": {
-      "lat": 43.113319342264354,
-      "lng": -76.19424543920542
+      "lat": 43.10133377698668,
+      "lng": -76.20485337612308
     },
     "hours": {
       "0": [
@@ -2191,8 +2191,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Lobster%20Clay%20NY",
     "coords": {
-      "lat": 43.199225796067736,
-      "lng": -76.20919750401771
+      "lat": 43.19798387638074,
+      "lng": -76.20586701971277
     },
     "hours": {
       "0": [
@@ -2247,8 +2247,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Clay%20NY",
     "coords": {
-      "lat": 43.16198911403448,
-      "lng": -76.21761495696643
+      "lat": 43.1986636381987,
+      "lng": -76.21959870249842
     },
     "hours": {
       "0": [
@@ -2303,8 +2303,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Liverpool%20NY",
     "coords": {
-      "lat": 43.088529326122874,
-      "lng": -76.19768120484405
+      "lat": 43.124764477230904,
+      "lng": -76.2008133982468
     },
     "hours": {
       "0": [
@@ -2359,8 +2359,8 @@ export const restaurants = [
     "cuisine": "Wings",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings%20Cicero%20NY",
     "coords": {
-      "lat": 43.1639301371835,
-      "lng": -76.13369223237629
+      "lat": 43.16060099908532,
+      "lng": -76.10869250242793
     },
     "hours": {
       "0": [
@@ -2415,8 +2415,8 @@ export const restaurants = [
     "cuisine": "Health",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CoreLife%20Eatery%20Cicero%20NY",
     "coords": {
-      "lat": 43.15943796301483,
-      "lng": -76.10877862535588
+      "lat": 43.15061308141663,
+      "lng": -76.11406414010717
     },
     "hours": {
       "0": [
@@ -2471,8 +2471,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread%20Cicero%20NY",
     "coords": {
-      "lat": 43.18712162535888,
-      "lng": -76.12573259143082
+      "lat": 43.165509621941595,
+      "lng": -76.10789151132336
     },
     "hours": {
       "0": [
@@ -2527,8 +2527,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill%20Cicero%20NY",
     "coords": {
-      "lat": 43.151342362133775,
-      "lng": -76.13598804335183
+      "lat": 43.17602881920964,
+      "lng": -76.12921445363922
     },
     "hours": {
       "0": [
@@ -2583,8 +2583,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Five%20Guys%20Cicero%20NY",
     "coords": {
-      "lat": 43.182895511457644,
-      "lng": -76.13229972372898
+      "lat": 43.16932725739942,
+      "lng": -76.11265838118247
     },
     "hours": {
       "0": [
@@ -2639,8 +2639,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill%20Cicero%20NY",
     "coords": {
-      "lat": 43.152730822315974,
-      "lng": -76.1008990008747
+      "lat": 43.17440526140793,
+      "lng": -76.12499877775961
     },
     "hours": {
       "0": [
@@ -2695,8 +2695,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cracker%20Barrel%20Cicero%20NY",
     "coords": {
-      "lat": 43.16985620774919,
-      "lng": -76.12273811855682
+      "lat": 43.16946989039231,
+      "lng": -76.13506664927517
     },
     "hours": {
       "0": [
@@ -2751,8 +2751,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20Cicero%20NY",
     "coords": {
-      "lat": 43.15493107823442,
-      "lng": -76.11690623338843
+      "lat": 43.181992234665,
+      "lng": -76.1334791819791
     },
     "hours": {
       "0": [
@@ -2807,8 +2807,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Angry%20Smokehouse%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.160594543040716,
-      "lng": -76.33086212654838
+      "lat": 43.167270136046305,
+      "lng": -76.32975669608057
     },
     "hours": {
       "0": [
@@ -2863,8 +2863,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Angry%20Garlic%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.14423064627552,
-      "lng": -76.32495350600044
+      "lat": 43.16506649546834,
+      "lng": -76.32194806863252
     },
     "hours": {
       "0": [
@@ -2919,8 +2919,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Suds%20Factory%20River%20Grill%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.17291811893696,
-      "lng": -76.31660983124212
+      "lat": 43.14748371095939,
+      "lng": -76.3304707440631
     },
     "hours": {
       "0": [
@@ -2975,8 +2975,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fireside%20By%20The%20River%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.16421313840849,
-      "lng": -76.34591451747538
+      "lat": 43.168338604128294,
+      "lng": -76.32205334196912
     },
     "hours": {
       "0": [
@@ -3031,8 +3031,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=B'Ville%20Diner%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.14483580698713,
-      "lng": -76.34103979258194
+      "lat": 43.15075859992038,
+      "lng": -76.33627184206517
     },
     "hours": {
       "0": [
@@ -3087,8 +3087,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wood%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.171141182422325,
-      "lng": -76.34720116548327
+      "lat": 43.151378932160036,
+      "lng": -76.32600584520357
     },
     "hours": {
       "0": [
@@ -3143,8 +3143,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pastas%20on%20the%20Green%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.149365474345736,
-      "lng": -76.32250667533023
+      "lat": 43.14067165140209,
+      "lng": -76.33830392222424
     },
     "hours": {
       "0": [
@@ -3199,8 +3199,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive's%20Eatery%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.17474729527411,
-      "lng": -76.34123495203066
+      "lat": 43.159409052723575,
+      "lng": -76.34775444811216
     },
     "hours": {
       "0": [
@@ -3255,8 +3255,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Craftsman%20Wood%20Grille%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.04271888860422,
-      "lng": -75.98904532204187
+      "lat": 43.00942615253804,
+      "lng": -75.98921653378436
     },
     "hours": {
       "0": [
@@ -3311,8 +3311,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrabba's%20Italian%20Grill%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.01986498954043,
-      "lng": -75.98962696429412
+      "lat": 43.018680747283646,
+      "lng": -76.0015839037826
     },
     "hours": {
       "0": [
@@ -3367,8 +3367,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicolli's%20Coal%20Fire%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.04711394371149,
-      "lng": -76.00597532078065
+      "lat": 43.012111752192645,
+      "lng": -76.01060836385602
     },
     "hours": {
       "0": [
@@ -3423,8 +3423,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonefish%20Grill%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.013769332793785,
-      "lng": -75.99120663287094
+      "lat": 43.0434526461429,
+      "lng": -75.9912679846673
     },
     "hours": {
       "0": [
@@ -3479,8 +3479,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Twin%20Trees%20Fayetteville%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.01206626717318,
-      "lng": -76.01333753821473
+      "lat": 43.040154526714105,
+      "lng": -76.00140569911323
     },
     "hours": {
       "0": [
@@ -3535,8 +3535,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gino's%20Cheese%20Steak%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.046380555681914,
-      "lng": -75.99006286870636
+      "lat": 43.04444341420211,
+      "lng": -76.02103083408076
     },
     "hours": {
       "0": [
@@ -3591,8 +3591,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20David's%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.046759826991476,
-      "lng": -76.01197511081853
+      "lat": 43.044599058302836,
+      "lng": -76.01246092883804
     },
     "hours": {
       "0": [
@@ -3647,8 +3647,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bull%20%26%20Bear%20Roadhouse%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.04208019372202,
-      "lng": -76.01194652640436
+      "lat": 43.03466819712199,
+      "lng": -76.0235470772294
     },
     "hours": {
       "0": [
@@ -3703,8 +3703,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Daily%20Diner%20Manlius%20NY",
     "coords": {
-      "lat": 43.01721658041994,
-      "lng": -75.9682202890286
+      "lat": 43.005906517014324,
+      "lng": -75.97551487207036
     },
     "hours": {
       "0": [
@@ -3759,8 +3759,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scenic%20Root%20Manlius%20NY",
     "coords": {
-      "lat": 42.985253946587534,
-      "lng": -75.9612810339577
+      "lat": 43.00065026105314,
+      "lng": -75.98130732060709
     },
     "hours": {
       "0": [
@@ -3815,8 +3815,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manlius%20Fish%20Fry%20Manlius%20NY",
     "coords": {
-      "lat": 43.00931304201955,
-      "lng": -75.97458752061634
+      "lat": 43.016853976949626,
+      "lng": -75.9818060240443
     },
     "hours": {
       "0": [
@@ -3871,8 +3871,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20119%20Manlius%20NY",
     "coords": {
-      "lat": 43.0099462499625,
-      "lng": -75.97639923071382
+      "lat": 42.994431247903975,
+      "lng": -75.95989709779732
     },
     "hours": {
       "0": [
@@ -3927,8 +3927,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stingers%20Pizza%20Pub%20Manlius%20NY",
     "coords": {
-      "lat": 42.99789326940823,
-      "lng": -75.98902276386056
+      "lat": 42.99478087517083,
+      "lng": -75.97497443856479
     },
     "hours": {
       "0": [
@@ -3983,8 +3983,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Papa%20Gallo%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.00909430091734,
-      "lng": -75.99845912187925
+      "lat": 43.04007761885116,
+      "lng": -76.01727976134393
     },
     "hours": {
       "0": [
@@ -4039,8 +4039,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Camillus%20Camillus%20NY",
     "coords": {
-      "lat": 43.046458811761134,
-      "lng": -76.3148835902176
+      "lat": 43.029483908624336,
+      "lng": -76.28702443339579
     },
     "hours": {
       "0": [
@@ -4095,8 +4095,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Franco's%20Pizzeria%20Camillus%20NY",
     "coords": {
-      "lat": 43.03559597266937,
-      "lng": -76.31389157728577
+      "lat": 43.050767135760765,
+      "lng": -76.30793378422366
     },
     "hours": {
       "0": [
@@ -4151,8 +4151,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Camillus%20Grill%20Camillus%20NY",
     "coords": {
-      "lat": 43.02061917878242,
-      "lng": -76.31831081388225
+      "lat": 43.026390283518374,
+      "lng": -76.2881730829884
     },
     "hours": {
       "0": [
@@ -4207,8 +4207,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=TK%20Tavern%20Camillus%20NY",
     "coords": {
-      "lat": 43.03488770207639,
-      "lng": -76.28980344711889
+      "lat": 43.0389596064724,
+      "lng": -76.30406154786229
     },
     "hours": {
       "0": [
@@ -4263,8 +4263,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Uncle%20Mike's%20Hometown%20Pizza%20Camillus%20NY",
     "coords": {
-      "lat": 43.04768724442374,
-      "lng": -76.3087393580846
+      "lat": 43.023452486945445,
+      "lng": -76.32133360277521
     },
     "hours": {
       "0": [
@@ -4319,8 +4319,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Green%20Gate%20Camillus%20NY",
     "coords": {
-      "lat": 43.02019071468769,
-      "lng": -76.29356182460666
+      "lat": 43.05257283632033,
+      "lng": -76.29525657250151
     },
     "hours": {
       "0": [
@@ -4375,8 +4375,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cam's%20Pizza%20Camillus%20NY",
     "coords": {
-      "lat": 43.043123756735945,
-      "lng": -76.2871660550558
+      "lat": 43.03231487910376,
+      "lng": -76.29621398041775
     },
     "hours": {
       "0": [
@@ -4431,8 +4431,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wildcat%20Camillus%20NY",
     "coords": {
-      "lat": 43.05383076052345,
-      "lng": -76.31693622112992
+      "lat": 43.03595972981211,
+      "lng": -76.30897627632923
     },
     "hours": {
       "0": [
@@ -4487,8 +4487,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20Between%20Camillus%20NY",
     "coords": {
-      "lat": 43.032003292222385,
-      "lng": -76.32392870082201
+      "lat": 43.05263501058589,
+      "lng": -76.29156918118008
     },
     "hours": {
       "0": [
@@ -4543,8 +4543,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cider%20Mill%20Camillus%20NY",
     "coords": {
-      "lat": 43.03034854466569,
-      "lng": -76.29020484766868
+      "lat": 43.035512501324654,
+      "lng": -76.30545975860271
     },
     "hours": {
       "0": [
@@ -4599,8 +4599,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gracie's%20Kitchen%20Solvay%20NY",
     "coords": {
-      "lat": 43.06048744874435,
-      "lng": -76.20216267479545
+      "lat": 43.05437446032127,
+      "lng": -76.21587884857854
     },
     "hours": {
       "0": [
@@ -4655,8 +4655,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mona%20Lisa's%20Ristorante%20Solvay%20NY",
     "coords": {
-      "lat": 43.071695952728255,
-      "lng": -76.22440755012965
+      "lat": 43.056750554739956,
+      "lng": -76.1881471938507
     },
     "hours": {
       "0": [
@@ -4711,8 +4711,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bianchi's%20Pizza%20Pad%20Solvay%20NY",
     "coords": {
-      "lat": 43.06921649622379,
-      "lng": -76.19191739777246
+      "lat": 43.07437199953093,
+      "lng": -76.21198554599113
     },
     "hours": {
       "0": [
@@ -4767,8 +4767,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sam's%20Chickenland%20Solvay%20NY",
     "coords": {
-      "lat": 43.065106676731034,
-      "lng": -76.20260391524852
+      "lat": 43.05564547124355,
+      "lng": -76.19315328994473
     },
     "hours": {
       "0": [
@@ -4823,8 +4823,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trapper's%20Pizza%20Pub%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.071778577335834,
-      "lng": -76.0788528564807
+      "lat": 43.055034670280826,
+      "lng": -76.08696260608178
     },
     "hours": {
       "0": [
@@ -4879,8 +4879,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=TS%20Steakhouse%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.05447161645944,
-      "lng": -76.09024537910439
+      "lat": 43.04689486264077,
+      "lng": -76.0710947673082
     },
     "hours": {
       "0": [
@@ -4935,8 +4935,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood%20Diner%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.05135783691447,
-      "lng": -76.07803219150249
+      "lat": 43.06118064856744,
+      "lng": -76.08754928199814
     },
     "hours": {
       "0": [
@@ -4991,8 +4991,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Original%20Italian%20Pizza%20East%20Syr%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.07283380489872,
-      "lng": -76.07121736871895
+      "lat": 43.0716889852831,
+      "lng": -76.09375544304791
     },
     "hours": {
       "0": [
@@ -5047,8 +5047,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Dewitt%20Dewitt%20NY",
     "coords": {
-      "lat": 43.022454176650164,
-      "lng": -76.08313562995875
+      "lat": 43.03073143440459,
+      "lng": -76.06480669076744
     },
     "hours": {
       "0": [
@@ -5103,8 +5103,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavone's%20Pizza%20Dewitt%20NY",
     "coords": {
-      "lat": 43.032218057707105,
-      "lng": -76.0840886723988
+      "lat": 43.047087985441195,
+      "lng": -76.07966767642179
     },
     "hours": {
       "0": [
@@ -5159,8 +5159,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Dark%20Horse%20Tavern%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04393761133458,
-      "lng": -76.05326205566573
+      "lat": 43.02759808003643,
+      "lng": -76.07679197240554
     },
     "hours": {
       "0": [
@@ -5215,8 +5215,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Scotch%20'N%20Sirloin%20Dewitt%20NY",
     "coords": {
-      "lat": 43.03261937206493,
-      "lng": -76.06475181530621
+      "lat": 43.03496659390409,
+      "lng": -76.0584605609885
     },
     "hours": {
       "0": [
@@ -5271,8 +5271,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=All%20Night%20Eggplant%20Dewitt%20NY",
     "coords": {
-      "lat": 43.03891266123157,
-      "lng": -76.06598184941022
+      "lat": 43.0374032543869,
+      "lng": -76.07864959273257
     },
     "hours": {
       "0": [
@@ -5327,8 +5327,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Dewitt%20Dewitt%20NY",
     "coords": {
-      "lat": 43.02966179306446,
-      "lng": -76.08001463600354
+      "lat": 43.05977254318646,
+      "lng": -76.05655069648776
     },
     "hours": {
       "0": [
@@ -5383,8 +5383,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rise%20N%20Shine%20Diner%20Westcott%20NY",
     "coords": {
-      "lat": 43.05479017087124,
-      "lng": -76.10599550252954
+      "lat": 43.042508780436805,
+      "lng": -76.11680723214799
     },
     "hours": {
       "0": [
@@ -5439,8 +5439,8 @@ export const restaurants = [
     "cuisine": "Asian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gangnam%20Style%20Korean%20Westcott%20NY",
     "coords": {
-      "lat": 43.034672080780034,
-      "lng": -76.10356688772488
+      "lat": 43.05491362502937,
+      "lng": -76.108156845554
     },
     "hours": {
       "0": [
@@ -5495,8 +5495,8 @@ export const restaurants = [
     "cuisine": "Caribbean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Delicias%20Westcott%20NY",
     "coords": {
-      "lat": 43.042107306601714,
-      "lng": -76.12672797112491
+      "lat": 43.032465650355306,
+      "lng": -76.10832754465343
     },
     "hours": {
       "0": [
@@ -5551,8 +5551,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Munjed's%20Middle%20Eastern%20Westcott%20NY",
     "coords": {
-      "lat": 43.044377461774864,
-      "lng": -76.11038272638861
+      "lat": 43.022093136461244,
+      "lng": -76.1324156858147
     },
     "hours": {
       "0": [
@@ -5607,8 +5607,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LODED%20Westcott%20NY",
     "coords": {
-      "lat": 43.02990093288633,
-      "lng": -76.1328222766659
+      "lat": 43.04989328151092,
+      "lng": -76.13616084770698
     },
     "hours": {
       "0": [
@@ -5663,8 +5663,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mom's%20Diner%20Westcott%20NY",
     "coords": {
-      "lat": 43.04542088359622,
-      "lng": -76.11961038565028
+      "lat": 43.034953141071625,
+      "lng": -76.12842287992659
     },
     "hours": {
       "0": [
@@ -5719,8 +5719,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Garden%20Westcott%20NY",
     "coords": {
-      "lat": 43.05505644203306,
-      "lng": -76.12439932342662
+      "lat": 43.02806964945059,
+      "lng": -76.12634721191934
     },
     "hours": {
       "0": [
@@ -5775,8 +5775,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dorian's%20Gourmet%20Pizza%20Westcott%20NY",
     "coords": {
-      "lat": 43.0518948951297,
-      "lng": -76.10802330308839
+      "lat": 43.05941109465428,
+      "lng": -76.10160366358416
     },
     "hours": {
       "0": [
@@ -5831,8 +5831,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recess%20Coffee%20Westcott%20Westcott%20NY",
     "coords": {
-      "lat": 43.03670375545286,
-      "lng": -76.12344185919083
+      "lat": 43.0400064780107,
+      "lng": -76.11385964954313
     },
     "hours": {
       "0": [
@@ -5887,8 +5887,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Margaritas%20Mexican%20Cantina%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03586195846847,
-      "lng": -76.15290846476098
+      "lat": 43.06317629516122,
+      "lng": -76.15548781973581
     },
     "hours": {
       "0": [
@@ -5943,8 +5943,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hops%20Spot%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.029526404651406,
-      "lng": -76.1462873008662
+      "lat": 43.05733817959032,
+      "lng": -76.13858194527856
     },
     "hours": {
       "0": [
@@ -5999,8 +5999,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Limerick%20Pub%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05480481446486,
-      "lng": -76.14463094126859
+      "lat": 43.040492194805566,
+      "lng": -76.14822830863687
     },
     "hours": {
       "0": [
@@ -6055,8 +6055,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Three%20Lives%20Bar%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.032668231481054,
-      "lng": -76.15722320307128
+      "lat": 43.054436064222365,
+      "lng": -76.14051036562383
     },
     "hours": {
       "0": [
@@ -6111,8 +6111,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20York%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03929779359765,
-      "lng": -76.16319664105504
+      "lat": 43.03621664490143,
+      "lng": -76.1646129444997
     },
     "hours": {
       "0": [
@@ -6167,8 +6167,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Whiskey%20Coop%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06572494557151,
-      "lng": -76.16321727971228
+      "lat": 43.044037962389254,
+      "lng": -76.13403672537426
     },
     "hours": {
       "0": [
@@ -6223,8 +6223,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Armory%20Pizza%20%2B%20Pints%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.046360356032274,
-      "lng": -76.13757741846935
+      "lat": 43.04674686188363,
+      "lng": -76.16537644250295
     },
     "hours": {
       "0": [
@@ -6279,8 +6279,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nick's%20Tomato%20Pie%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.066390723997685,
-      "lng": -76.13959813832807
+      "lat": 43.067949768226605,
+      "lng": -76.15171798263432
     },
     "hours": {
       "0": [
@@ -6335,8 +6335,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lemon%20Grass%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.034236687247166,
-      "lng": -76.13329161300031
+      "lat": 43.064509812321326,
+      "lng": -76.1558760754589
     },
     "hours": {
       "0": [
@@ -6391,8 +6391,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Funk%20'n%20Waffles%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03117204363853,
-      "lng": -76.13400562922521
+      "lat": 43.029776058781366,
+      "lng": -76.13576156070258
     },
     "hours": {
       "0": [
@@ -6447,8 +6447,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Cafe%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.040274931257976,
-      "lng": -76.15955722071942
+      "lat": 43.03425851043947,
+      "lng": -76.17155566500841
     },
     "hours": {
       "0": [
@@ -6503,8 +6503,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Tusk%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.033278802530795,
-      "lng": -76.14968366871912
+      "lat": 43.03748207897058,
+      "lng": -76.16876127830966
     },
     "hours": {
       "0": [
@@ -6559,8 +6559,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Elephant%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05932476045532,
-      "lng": -76.16152531327253
+      "lat": 43.03494200524078,
+      "lng": -76.16135024982326
     },
     "hours": {
       "0": [
@@ -6615,8 +6615,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Cocktail%20Kitchen%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.034971386818796,
-      "lng": -76.178277504955
+      "lat": 43.05488332863682,
+      "lng": -76.16863425670942
     },
     "hours": {
       "0": [
@@ -6671,8 +6671,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steve's%20Cantina%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.03339590547003,
-      "lng": -76.16157136446796
+      "lat": 43.04834547221892,
+      "lng": -76.16539599075938
     },
     "hours": {
       "0": [
@@ -6727,8 +6727,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Patsy's%20Pizza%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.04352124061037,
-      "lng": -76.1697106744444
+      "lat": 43.05390051104332,
+      "lng": -76.16389701486133
     },
     "hours": {
       "0": [
@@ -6783,8 +6783,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sabatino's%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.062383692117564,
-      "lng": -76.1862667540798
+      "lat": 43.05845444906026,
+      "lng": -76.18487841417776
     },
     "hours": {
       "0": [
@@ -6839,8 +6839,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recess%20Coffee%20Tipp%20Hill%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.05600007389578,
-      "lng": -76.16580568615345
+      "lat": 43.02829560811437,
+      "lng": -76.16970491050276
     },
     "hours": {
       "0": [
@@ -6895,8 +6895,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harrison%20Bakery%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.03550527966623,
-      "lng": -76.16298038411509
+      "lat": 43.027107149137294,
+      "lng": -76.1931038726953
     },
     "hours": {
       "0": [
@@ -6951,8 +6951,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Pickle%20Tipp%20Hill%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.04723979296861,
-      "lng": -76.16547105351094
+      "lat": 43.02642691904902,
+      "lng": -76.16964215883007
     },
     "hours": {
       "0": [
@@ -7007,8 +7007,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Blarney%20Stone%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.047228924453414,
-      "lng": -76.18086202387529
+      "lat": 43.06169383454375,
+      "lng": -76.16040902837119
     },
     "hours": {
       "0": [
@@ -7063,8 +7063,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=OIP%20Eastwood%20Eastwood%20NY",
     "coords": {
-      "lat": 43.069934417586765,
-      "lng": -76.11068392577695
+      "lat": 43.05018050692783,
+      "lng": -76.12375446923552
     },
     "hours": {
       "0": [
@@ -7119,8 +7119,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kosta's%20Pizza%20House%20Eastwood%20NY",
     "coords": {
-      "lat": 43.07584213617085,
-      "lng": -76.11005281565085
+      "lat": 43.05014987599415,
+      "lng": -76.11959219445349
     },
     "hours": {
       "0": [
@@ -7175,8 +7175,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Uncle%20Sal's%20Pizza%20Eastwood%20NY",
     "coords": {
-      "lat": 43.08393553667188,
-      "lng": -76.0988051093511
+      "lat": 43.0801884513016,
+      "lng": -76.12146923936389
     },
     "hours": {
       "0": [
@@ -7231,8 +7231,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruby's%20Cheesesteaks%20Eastwood%20NY",
     "coords": {
-      "lat": 43.058665334172474,
-      "lng": -76.10360618844197
+      "lat": 43.04646440861653,
+      "lng": -76.11350736218895
     },
     "hours": {
       "0": [
@@ -7287,8 +7287,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucky%207%20Deli%20Eastwood%20NY",
     "coords": {
-      "lat": 43.055711821821795,
-      "lng": -76.10164709878964
+      "lat": 43.07506052137714,
+      "lng": -76.10114452091494
     },
     "hours": {
       "0": [
@@ -7343,8 +7343,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan's%20Halal%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05899500266492,
-      "lng": -76.10908123416789
+      "lat": 43.07948726543167,
+      "lng": -76.09665669468241
     },
     "hours": {
       "0": [
@@ -7399,8 +7399,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shifty's%20Bar%20%26%20Grill%20Eastwood%20NY",
     "coords": {
-      "lat": 43.050860890633345,
-      "lng": -76.12325642683922
+      "lat": 43.06550309976403,
+      "lng": -76.10705661407587
     },
     "hours": {
       "0": [
@@ -7455,8 +7455,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chadwick's%20Eastwood%20NY",
     "coords": {
-      "lat": 43.051257377986836,
-      "lng": -76.09846770981486
+      "lat": 43.05174427082354,
+      "lng": -76.13320076669594
     },
     "hours": {
       "0": [
@@ -7511,8 +7511,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinbad%20Restaurant%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05493044850045,
-      "lng": -76.10412605248689
+      "lat": 43.072076094409226,
+      "lng": -76.10670574151214
     },
     "hours": {
       "0": [
@@ -7567,8 +7567,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mother's%20Cupboard%20Eastwood%20NY",
     "coords": {
-      "lat": 43.083631396538415,
-      "lng": -76.12140072156417
+      "lat": 43.080861062963876,
+      "lng": -76.10897290725221
     },
     "hours": {
       "0": [
@@ -7623,8 +7623,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Kubal%20Eastwood%20NY",
     "coords": {
-      "lat": 43.055633258302215,
-      "lng": -76.11795426610716
+      "lat": 43.06578661810787,
+      "lng": -76.09762070751515
     },
     "hours": {
       "0": [
@@ -7679,8 +7679,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wedge%20Eastwood%20NY",
     "coords": {
-      "lat": 43.07158552891106,
-      "lng": -76.13319110966042
+      "lat": 43.07070009138972,
+      "lng": -76.1294250850207
     },
     "hours": {
       "0": [
@@ -7735,8 +7735,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Akina%20Sushi%20and%20Hibachi%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.11976425051311,
-      "lng": -76.13670723317215
+      "lat": 43.154014918774244,
+      "lng": -76.11333403019772
     },
     "hours": {
       "0": [
@@ -7791,8 +7791,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Raj%20Saffron%20House%20Westcott%20NY",
     "coords": {
-      "lat": 43.05175870657303,
-      "lng": -76.13648492559463
+      "lat": 43.02721317405242,
+      "lng": -76.10705801445353
     },
     "hours": {
       "0": [
@@ -7847,8 +7847,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Syracuse%20Dosa%20Grill%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.0356855798821,
-      "lng": -76.15849555949242
+      "lat": 43.055121612157954,
+      "lng": -76.13381761959349
     },
     "hours": {
       "0": [
@@ -7903,8 +7903,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Indian%20Grill%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05318806827093,
-      "lng": -76.1481677148962
+      "lat": 43.03133750390608,
+      "lng": -76.15900790073461
     },
     "hours": {
       "0": [
@@ -7959,8 +7959,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dakshin%20Indian%20Cuisine%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.066944114456895,
-      "lng": -76.1432287766933
+      "lat": 43.04396779883461,
+      "lng": -76.17163069335943
     },
     "hours": {
       "0": [
@@ -8015,8 +8015,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Flavour%20of%20India%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.04627843993151,
-      "lng": -76.09383207456285
+      "lat": 43.08282524389159,
+      "lng": -76.07544202541217
     },
     "hours": {
       "0": [
@@ -8071,8 +8071,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sahota%20Palace%20Liverpool%20NY",
     "coords": {
-      "lat": 43.111973293497435,
-      "lng": -76.20785853791193
+      "lat": 43.11104987221824,
+      "lng": -76.2025133492709
     },
     "hours": {
       "0": [
@@ -8127,8 +8127,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dosa%20Grill%20Dewitt%20Dewitt%20NY",
     "coords": {
-      "lat": 43.05483119010917,
-      "lng": -76.07373680481146
+      "lat": 43.05663977092457,
+      "lng": -76.08393629365874
     },
     "hours": {
       "0": [
@@ -8183,8 +8183,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clay%20Oven%20Indian%20Cuisine%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.16309920638725,
-      "lng": -76.35180950541861
+      "lat": 43.151106253730475,
+      "lng": -76.33200440239459
     },
     "hours": {
       "0": [
@@ -8239,8 +8239,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Masala%20Heaven%20Cicero%20NY",
     "coords": {
-      "lat": 43.17874791653367,
-      "lng": -76.11015058011901
+      "lat": 43.17215686734245,
+      "lng": -76.1301369330184
     },
     "hours": {
       "0": [
@@ -8295,8 +8295,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Grill%20Camillus%20NY",
     "coords": {
-      "lat": 43.02181938177566,
-      "lng": -76.28842928476506
+      "lat": 43.0367998925661,
+      "lng": -76.30920299127773
     },
     "hours": {
       "0": [
@@ -8351,8 +8351,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.108419568102995,
-      "lng": -76.19251818394558
+      "lat": 43.11648354446724,
+      "lng": -76.21707089464824
     },
     "hours": {
       "0": [
@@ -8407,8 +8407,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.166208626585764,
-      "lng": -76.20039796610962
+      "lat": 43.1886272009642,
+      "lng": -76.19200289207221
     },
     "hours": {
       "0": [
@@ -8463,8 +8463,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.124425214056224,
-      "lng": -76.119136270198
+      "lat": 43.14674571780871,
+      "lng": -76.13598345574523
     },
     "hours": {
       "0": [
@@ -8519,8 +8519,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Baldwinsville)%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.1529045593797,
-      "lng": -76.34853957211907
+      "lat": 43.14577641600669,
+      "lng": -76.32935722161967
     },
     "hours": {
       "0": [
@@ -8575,8 +8575,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Fayetteville)%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.0191464224426,
-      "lng": -75.99591071653529
+      "lat": 43.023760360585335,
+      "lng": -76.0170929385025
     },
     "hours": {
       "0": [
@@ -8631,8 +8631,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Manlius)%20Manlius%20NY",
     "coords": {
-      "lat": 43.01250232410706,
-      "lng": -75.9698022118554
+      "lat": 43.0103452398318,
+      "lng": -75.96629271190388
     },
     "hours": {
       "0": [
@@ -8687,8 +8687,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.05741336916748,
-      "lng": -76.05691206438887
+      "lat": 43.0716189139242,
+      "lng": -76.08061583405838
     },
     "hours": {
       "0": [
@@ -8743,8 +8743,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.03312288730038,
-      "lng": -76.0685619632705
+      "lat": 43.036761625354785,
+      "lng": -76.07492731885532
     },
     "hours": {
       "0": [
@@ -8799,8 +8799,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.04026003530969,
-      "lng": -76.31111496912682
+      "lat": 43.02437671704596,
+      "lng": -76.30070649896193
     },
     "hours": {
       "0": [
@@ -8855,8 +8855,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.07512385043491,
-      "lng": -76.20222517189322
+      "lat": 43.05111186042702,
+      "lng": -76.22673420356004
     },
     "hours": {
       "0": [
@@ -8911,8 +8911,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.10517912327695,
-      "lng": -76.13564395967515
+      "lat": 43.085416404791516,
+      "lng": -76.13644976146436
     },
     "hours": {
       "0": [
@@ -8967,8 +8967,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.03717098773973,
-      "lng": -76.16482289732106
+      "lat": 43.055289961509885,
+      "lng": -76.14566814143488
     },
     "hours": {
       "0": [
@@ -9023,8 +9023,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.03356591346769,
-      "lng": -76.12849498654502
+      "lat": 43.046842049023525,
+      "lng": -76.13247267627385
     },
     "hours": {
       "0": [
@@ -9079,8 +9079,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.05040862697552,
-      "lng": -76.18631882277748
+      "lat": 43.028581654168086,
+      "lng": -76.18967012789972
     },
     "hours": {
       "0": [
@@ -9135,8 +9135,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05604543623208,
-      "lng": -76.12589365818596
+      "lat": 43.05190307702014,
+      "lng": -76.12332414976235
     },
     "hours": {
       "0": [
@@ -9191,8 +9191,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.18802733212075,
-      "lng": -76.10289918354876
+      "lat": 43.17762092783416,
+      "lng": -76.10035515819168
     },
     "hours": {
       "0": [
@@ -9247,8 +9247,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10073766936712,
-      "lng": -76.19727950407888
+      "lat": 43.11891757736105,
+      "lng": -76.1942149168477
     },
     "hours": {
       "0": [
@@ -9303,8 +9303,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.198082877517116,
-      "lng": -76.22105502553423
+      "lat": 43.17563770458102,
+      "lng": -76.21927113164732
     },
     "hours": {
       "0": [
@@ -9359,8 +9359,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.1251791980048,
-      "lng": -76.14515242384539
+      "lat": 43.153464378538985,
+      "lng": -76.11010668609588
     },
     "hours": {
       "0": [
@@ -9415,8 +9415,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Baldwinsville)%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.14127997347094,
-      "lng": -76.31635939940965
+      "lat": 43.175341384431434,
+      "lng": -76.31860798261847
     },
     "hours": {
       "0": [
@@ -9471,8 +9471,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Fayetteville)%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.010600689678235,
-      "lng": -76.01899296868235
+      "lat": 43.0335876964877,
+      "lng": -75.98743531373924
     },
     "hours": {
       "0": [
@@ -9527,8 +9527,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Manlius)%20Manlius%20NY",
     "coords": {
-      "lat": 43.0196546700294,
-      "lng": -75.97652887465676
+      "lat": 42.99555380052453,
+      "lng": -75.96595110523106
     },
     "hours": {
       "0": [
@@ -9583,8 +9583,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.05021873175049,
-      "lng": -76.09103307393502
+      "lat": 43.06036079381529,
+      "lng": -76.06651848746262
     },
     "hours": {
       "0": [
@@ -9639,8 +9639,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.0459226923787,
-      "lng": -76.05217113825272
+      "lat": 43.02291299236268,
+      "lng": -76.05903580481598
     },
     "hours": {
       "0": [
@@ -9695,8 +9695,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.02752611830536,
-      "lng": -76.32280353809672
+      "lat": 43.055966378201276,
+      "lng": -76.32115099133884
     },
     "hours": {
       "0": [
@@ -9751,8 +9751,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.06542994875219,
-      "lng": -76.20287324226076
+      "lat": 43.050921873141995,
+      "lng": -76.22640942173739
     },
     "hours": {
       "0": [
@@ -9807,8 +9807,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.0977950301294,
-      "lng": -76.15813638398876
+      "lat": 43.11373261873976,
+      "lng": -76.13840971306196
     },
     "hours": {
       "0": [
@@ -9863,8 +9863,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.06252502204076,
-      "lng": -76.13688578633145
+      "lat": 43.065655938513444,
+      "lng": -76.15862171216128
     },
     "hours": {
       "0": [
@@ -9919,8 +9919,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.03957674147594,
-      "lng": -76.13426234853851
+      "lat": 43.044252659051445,
+      "lng": -76.12016000896105
     },
     "hours": {
       "0": [
@@ -9975,8 +9975,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.06183921923815,
-      "lng": -76.17071579323601
+      "lat": 43.02358927487665,
+      "lng": -76.18657752378174
     },
     "hours": {
       "0": [
@@ -10031,8 +10031,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.05170514242844,
-      "lng": -76.11656453243468
+      "lat": 43.0552580712646,
+      "lng": -76.10604102229524
     },
     "hours": {
       "0": [
@@ -10087,8 +10087,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.18679926254953,
-      "lng": -76.13225438743966
+      "lat": 43.170144658224736,
+      "lng": -76.11645312241153
     },
     "hours": {
       "0": [
@@ -10143,8 +10143,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.09340610950934,
-      "lng": -76.22281015317209
+      "lat": 43.120715518300756,
+      "lng": -76.20910682628029
     },
     "hours": {
       "0": [
@@ -10199,8 +10199,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.17076124368356,
-      "lng": -76.2092570260518
+      "lat": 43.16418667547233,
+      "lng": -76.19068859866037
     },
     "hours": {
       "0": [
@@ -10255,8 +10255,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.123724088516,
-      "lng": -76.14494796478641
+      "lat": 43.12917518965699,
+      "lng": -76.11106149509345
     },
     "hours": {
       "0": [
@@ -10311,8 +10311,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Baldwinsville)%20Baldwinsville%20NY",
     "coords": {
-      "lat": 43.165795356035,
-      "lng": -76.33082346672663
+      "lat": 43.174358314961935,
+      "lng": -76.34009868306147
     },
     "hours": {
       "0": [
@@ -10367,8 +10367,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Fayetteville)%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.02355546083237,
-      "lng": -76.00337943862026
+      "lat": 43.03221511832437,
+      "lng": -76.01537620075818
     },
     "hours": {
       "0": [
@@ -10423,8 +10423,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Manlius)%20Manlius%20NY",
     "coords": {
-      "lat": 43.01299996999844,
-      "lng": -75.98392976039977
+      "lat": 42.99679118631926,
+      "lng": -75.96484785104039
     },
     "hours": {
       "0": [
@@ -10479,8 +10479,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(East%20Syracuse)%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.07976463930203,
-      "lng": -76.08602370863778
+      "lat": 43.06822999070518,
+      "lng": -76.06138350681132
     },
     "hours": {
       "0": [
@@ -10535,8 +10535,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Dewitt)%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04789693991701,
-      "lng": -76.06189189806372
+      "lat": 43.04582403136064,
+      "lng": -76.08663285061834
     },
     "hours": {
       "0": [
@@ -10591,8 +10591,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Camillus)%20Camillus%20NY",
     "coords": {
-      "lat": 43.03561544125189,
-      "lng": -76.31005030948612
+      "lat": 43.04762701988416,
+      "lng": -76.29252330743562
     },
     "hours": {
       "0": [
@@ -10647,8 +10647,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(Solvay)%20Solvay%20NY",
     "coords": {
-      "lat": 43.04032125605977,
-      "lng": -76.19425622927848
+      "lat": 43.06677490643621,
+      "lng": -76.20029319257648
     },
     "hours": {
       "0": [
@@ -10703,8 +10703,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20(Mattydale)%20Mattydale%20NY",
     "coords": {
-      "lat": 43.105098482611574,
-      "lng": -76.14910652661904
+      "lat": 43.100142445961104,
+      "lng": -76.15063807349061
     },
     "hours": {
       "0": [
@@ -10759,8 +10759,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza%20(Syracuse%20Downtown)%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05712165702955,
-      "lng": -76.14517410072048
+      "lat": 43.05454238755174,
+      "lng": -76.14340181256387
     },
     "hours": {
       "0": [
@@ -10815,8 +10815,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20(Westcott)%20Westcott%20NY",
     "coords": {
-      "lat": 43.033211623528224,
-      "lng": -76.1265393845545
+      "lat": 43.04462534195295,
+      "lng": -76.12464637143785
     },
     "hours": {
       "0": [
@@ -10871,8 +10871,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20(Tipperary%20Hill)%20Tipperary%20Hill%20NY",
     "coords": {
-      "lat": 43.051317059121516,
-      "lng": -76.17895725478044
+      "lat": 43.05315530703875,
+      "lng": -76.1598501908354
     },
     "hours": {
       "0": [
@@ -10927,8 +10927,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burger%20King%20(Eastwood)%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06982726718199,
-      "lng": -76.12295063157876
+      "lat": 43.046668692429584,
+      "lng": -76.09593527763417
     },
     "hours": {
       "0": [
@@ -10983,8 +10983,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy's%20(Cicero)%20Cicero%20NY",
     "coords": {
-      "lat": 43.15788031521414,
-      "lng": -76.12682476440206
+      "lat": 43.17142146093534,
+      "lng": -76.13437492737121
     },
     "hours": {
       "0": [
@@ -11039,8 +11039,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20(Liverpool)%20Liverpool%20NY",
     "coords": {
-      "lat": 43.09971583947677,
-      "lng": -76.21887976025526
+      "lat": 43.11562669445187,
+      "lng": -76.22029997372934
     },
     "hours": {
       "0": [
@@ -11095,8 +11095,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20(Clay)%20Clay%20NY",
     "coords": {
-      "lat": 43.19150374801092,
-      "lng": -76.22282591515463
+      "lat": 43.16327785936972,
+      "lng": -76.19186263622754
     },
     "hours": {
       "0": [
@@ -11151,8 +11151,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%20(North%20Syracuse)%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.134861829791355,
-      "lng": -76.11513089869416
+      "lat": 43.11758769483087,
+      "lng": -76.14173255055306
     },
     "hours": {
       "0": [

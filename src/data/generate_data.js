@@ -10,7 +10,7 @@ const townCenters = {
     "Westcott": { lat: 43.040, lng: -76.120 },
     "Tipperary Hill": { lat: 43.043, lng: -76.175 },
     "Eastwood": { lat: 43.065, lng: -76.115 },
-    "Cicero": { lat: 43.170, lng: -76.120 },
+    "Cicero": { lat: 43.1678, lng: -76.1158 },
     "Liverpool": { lat: 43.105, lng: -76.210 },
     "Clay": { lat: 43.180, lng: -76.210 },
     "North Syracuse": { lat: 43.135, lng: -76.130 },
