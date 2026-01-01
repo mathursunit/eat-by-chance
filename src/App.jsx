@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.3";
+  const version = "v1.3.4";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -48,6 +48,9 @@ function App() {
         .then(res => res.json())
         .then(data => {
           if (data.latitude && data.longitude) {
+            // Log the detected IP to helps us debug if it's a proxy
+            console.log("Detected IP Info:", data.ip, data.city, data.region);
+
             // Check if user is in the Syracuse area (approx 43.0, -76.1)
             // If they are far away (e.g. NYC), default to Cicero (13039) for this app
             const lat1 = data.latitude;
@@ -375,6 +378,7 @@ function App() {
           <p>Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "IP" : "GPS"})</p>
           <p>Distance Filter: {maxDistance} mi</p>
           <p>Active Candidates: {activeRestaurants.length} / {restaurants.length}</p>
+          <p className="text-xs text-slate-500 mt-1">If location is wrong, use the "Precise Location" toggle above.</p>
         </div>
       </footer>
     </div>
