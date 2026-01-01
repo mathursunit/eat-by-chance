@@ -13,7 +13,7 @@ function App() {
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
   const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
   const [userLocation, setUserLocation] = useState(null);
-  const [maxDistance, setMaxDistance] = useState(15); // Default 15 miles
+  const [maxDistance, setMaxDistance] = useState(5); // Default 5 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
@@ -59,8 +59,8 @@ function App() {
         })
         .catch(err => {
           console.error("IP Location failed:", err);
-          // Fallback to Cicero (13039) if IP fails
-          setUserLocation({ lat: 43.172, lng: -76.056 });
+          // Fallback to Syracuse Downtown if IP fails
+          setUserLocation({ lat: 43.048, lng: -76.152 });
           setUseIpLocation(true);
         });
     }
@@ -112,6 +112,7 @@ function App() {
   };
 
   const activeRestaurants = useMemo(() => {
+    // console.log("Filtering with:", { showOnlyOpen, selectedCuisines, location: userLocation, maxDistance });
     return restaurants.filter(r => {
       // Filter by Open Status
       if (showOnlyOpen && !getRestaurantStatus(r).isOpen) return false;
