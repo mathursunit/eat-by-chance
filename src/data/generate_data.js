@@ -21,7 +21,21 @@ const townCenters = {
     "Dewitt": { lat: 43.040, lng: -76.070 },
     "Camillus": { lat: 43.040, lng: -76.307 },
     "Solvay": { lat: 43.056, lng: -76.208 },
-    "Mattydale": { lat: 43.105, lng: -76.155 }
+    "Mattydale": { lat: 43.105, lng: -76.155 },
+    "Oswego": { lat: 43.455, lng: -76.510 },
+    "Cortland": { lat: 42.605, lng: -76.187 },
+    "Ithaca": { lat: 42.444, lng: -76.502 },
+    "Auburn": { lat: 42.932, lng: -76.566 },
+    "Utica": { lat: 43.107, lng: -75.252 },
+    "Rochester": { lat: 43.161, lng: -77.611 },
+    "Binghamton": { lat: 42.099, lng: -75.921 },
+    "Watertown": { lat: 43.975, lng: -75.911 },
+    "Rome": { lat: 43.228, lng: -75.485 },
+    "Oneida": { lat: 43.096, lng: -75.669 },
+    "Cazenovia": { lat: 42.930, lng: -75.853 },
+    "Skaneateles": { lat: 42.941, lng: -76.424 },
+    "Geneva": { lat: 42.868, lng: -76.996 },
+    "Seneca Falls": { lat: 42.912, lng: -76.802 }
 };
 
 // Fix typo in North Syracuse above manually during logic if needed, but I'll fix it in the list below.
@@ -202,10 +216,10 @@ const rawData = [
 const areas = Object.keys(townCenters);
 const chains = ["McDonald's", "Burger King", "Wendy's", "Taco Bell", "Dunkin'", "Subway", "Starbucks", "Domino's Pizza", "Pizza Hut"];
 
-// Fill to 200
+// Fill to 800
 let count = rawData.length;
 let chainIndex = 0;
-while (count < 200) {
+while (count < 800) {
     const chainName = chains[chainIndex % chains.length];
     const area = areas[count % areas.length];
 
