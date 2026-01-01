@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.5";
+  const version = "v1.3.6";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -16,6 +16,7 @@ function App() {
   const [maxDistance, setMaxDistance] = useState(10); // Default 10 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
   const [locationSource, setLocationSource] = useState("");
+  const [detectedIpData, setDetectedIpData] = useState(null);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const toggleCuisine = (cuisine) => {
@@ -49,6 +50,8 @@ function App() {
         .then(res => res.json())
         .then(data => {
           if (data.latitude && data.longitude) {
+            // Store detected IP info for debug
+            setDetectedIpData(data);
             // Log the detected IP to helps us debug if it's a proxy
             console.log("Detected IP Info:", data.ip, data.city, data.region);
 
@@ -381,7 +384,9 @@ function App() {
         <div style={{ marginTop: '1rem', fontSize: '0.7rem', color: '#334155', display: 'flex', flexDirection: 'column', gap: '4px' }}>
           <p>Debug Info:</p>
           <p>Location Source: {locationSource || "Unknown"}</p>
-          <p>Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "Estimated" : "Precise"})</p>
+          <p>Detected IP: {detectedIpData ? `${detectedIpData.ip} (${detectedIpData.city}, ${detectedIpData.region})` : "Pending..."}</p>
+          <p>IP Lat/Lng: {detectedIpData ? `${detectedIpData.latitude}, ${detectedIpData.longitude}` : "N/A"}</p>
+          <p>Used Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "Estimated" : "Precise"})</p>
           <p>Distance Filter: {maxDistance} mi</p>
           <p>Active Candidates: {activeRestaurants.length} / {restaurants.length}</p>
           <p className="text-xs text-slate-500 mt-1">If location is wrong, use the "Precise Location" toggle above.</p>
