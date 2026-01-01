@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.8";
+  const version = "v1.3.9";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -45,16 +45,23 @@ function App() {
   useEffect(() => {
     // Only fetch if we don't have location yet
     if (!userLocation) {
-      // Use ipwho.is for better CORS support
-      fetch('https://ipwho.is/')
+      // Switching to ipinfo.io as it has the correct Cicero database for this IP range
+      fetch('https://ipinfo.io/json')
         .then(res => res.json())
         .then(data => {
-          if (data.latitude && data.longitude) {
-            setDetectedIpData(data);
-            console.log("Detected IP Info:", data.ip, data.city, data.region);
+          if (data.loc) {
+            const [lat1, lon1] = data.loc.split(',').map(Number);
 
-            const lat1 = data.latitude;
-            const lon1 = data.longitude;
+            setDetectedIpData({
+              ip: data.ip,
+              city: data.city,
+              region: data.region,
+              latitude: lat1,
+              longitude: lon1
+            });
+
+            console.log("Detected IP Info (ipinfo.io):", data.ip, data.city, data.region);
+
             const lat2 = 43.0481; // Syracuse
             const lon2 = -76.1474;
 
@@ -74,11 +81,8 @@ function App() {
               setUserLocation({ lat: 43.1678, lng: -76.1158 });
               setLocationSource("Cicero Fallback (Remote Proxy Detected)");
             } else {
-              setUserLocation({
-                lat: data.latitude,
-                lng: data.longitude
-              });
-              setLocationSource("Local IP Data");
+              setUserLocation({ lat: lat1, lng: lon1 });
+              setLocationSource("Real IP Data (ipinfo.io)");
             }
             setUseIpLocation(true);
           } else {
@@ -86,7 +90,8 @@ function App() {
           }
         })
         .catch(err => {
-          console.error("IP Location failed:", err);
+          console.error("IP Location failed (ipinfo.io):", err);
+          // Final fallback
           setUserLocation({ lat: 43.1678, lng: -76.1158 });
           setLocationSource("Cicero Fallback (Service Error)");
           setUseIpLocation(true);
