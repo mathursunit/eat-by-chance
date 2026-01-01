@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.4";
+  const version = "v1.3.5";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -15,6 +15,7 @@ function App() {
   const [userLocation, setUserLocation] = useState(null);
   const [maxDistance, setMaxDistance] = useState(10); // Default 10 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
+  const [locationSource, setLocationSource] = useState("");
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const toggleCuisine = (cuisine) => {
@@ -72,11 +73,13 @@ function App() {
             if (distToSyracuse > 50) {
               console.log(`User is ${distToSyracuse.toFixed(0)} miles away. Defaulting to Cicero.`);
               setUserLocation({ lat: 43.1678, lng: -76.1158 });
+              setLocationSource("Fallback (Remote IP)");
             } else {
               setUserLocation({
                 lat: data.latitude,
                 lng: data.longitude
               });
+              setLocationSource("Real IP");
             }
             setUseIpLocation(true);
           } else {
@@ -87,6 +90,7 @@ function App() {
           console.error("IP Location failed:", err);
           // Fallback to Cicero (13039) if IP fails (user preference)
           setUserLocation({ lat: 43.1678, lng: -76.1158 });
+          setLocationSource("Fallback (Error)");
           setUseIpLocation(true);
         });
     }
@@ -126,6 +130,7 @@ function App() {
             lng: position.coords.longitude
           });
           setUseIpLocation(false);
+          setLocationSource("GPS (Precise)");
         },
         (error) => {
           console.error("Error getting location:", error);
@@ -375,7 +380,8 @@ function App() {
         <p>&copy; 2024 BnB Eat By Chance. All rights reserved.</p>
         <div style={{ marginTop: '1rem', fontSize: '0.7rem', color: '#334155', display: 'flex', flexDirection: 'column', gap: '4px' }}>
           <p>Debug Info:</p>
-          <p>Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "IP" : "GPS"})</p>
+          <p>Location Source: {locationSource || "Unknown"}</p>
+          <p>Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "Estimated" : "Precise"})</p>
           <p>Distance Filter: {maxDistance} mi</p>
           <p>Active Candidates: {activeRestaurants.length} / {restaurants.length}</p>
           <p className="text-xs text-slate-500 mt-1">If location is wrong, use the "Precise Location" toggle above.</p>
