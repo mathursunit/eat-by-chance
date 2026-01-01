@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.1";
+  const version = "v1.3.2";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -345,6 +345,15 @@ function App() {
           </motion.div>
         )}
       </AnimatePresence>
+      <footer className="w-full text-center py-8 text-slate-600 text-sm">
+        <p>&copy; 2024 BnB Eat By Chance. All rights reserved.</p>
+        <div style={{ marginTop: '1rem', fontSize: '0.7rem', color: '#334155', display: 'flex', flexDirection: 'column', gap: '4px' }}>
+          <p>Debug Info:</p>
+          <p>Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "IP" : "GPS"})</p>
+          <p>Distance Filter: {maxDistance} mi</p>
+          <p>Active Candidates: {activeRestaurants.length} / {restaurants.length}</p>
+        </div>
+      </footer>
     </div>
   );
 }
