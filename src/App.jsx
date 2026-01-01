@@ -14,6 +14,7 @@ function App() {
   const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
   const [userLocation, setUserLocation] = useState(null);
   const [maxDistance, setMaxDistance] = useState(5); // Default 5 miles
+  const [useIpLocation, setUseIpLocation] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const toggleCuisine = (cuisine) => {
@@ -42,7 +43,8 @@ function App() {
   useEffect(() => {
     // Only fetch if we don't have location yet
     if (!userLocation) {
-      fetch('https://ipapi.co/json/')
+      // Use ipwho.is for better CORS support
+      fetch('https://ipwho.is/')
         .then(res => res.json())
         .then(data => {
           if (data.latitude && data.longitude) {
@@ -51,6 +53,8 @@ function App() {
               lng: data.longitude
             });
             setUseIpLocation(true);
+          } else {
+            throw new Error("Invalid location data");
           }
         })
         .catch(err => {
