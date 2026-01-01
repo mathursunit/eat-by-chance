@@ -13,7 +13,7 @@ function App() {
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
   const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
   const [userLocation, setUserLocation] = useState(null);
-  const [maxDistance, setMaxDistance] = useState(5); // Default 5 miles
+  const [maxDistance, setMaxDistance] = useState(10); // Default 10 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 

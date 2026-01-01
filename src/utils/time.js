@@ -30,7 +30,21 @@ export function getRestaurantStatus(restaurant) {
 
     // Check if open now
     for (const interval of todayHours) {
-        if (time >= interval.open && time < interval.close) {
+        let isOpenNow = false;
+
+        if (interval.close < interval.open) {
+            // Closes next day (e.g. 11:00 to 02:00)
+            if (time >= interval.open || time < interval.close) {
+                isOpenNow = true;
+            }
+        } else {
+            // Standard hours (e.g. 11:00 to 22:00)
+            if (time >= interval.open && time < interval.close) {
+                isOpenNow = true;
+            }
+        }
+
+        if (isOpenNow) {
             return {
                 isOpen: true,
                 text: `Open until ${formatTime(interval.close)}`,
