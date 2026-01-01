@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.5.0";
+  const version = "v1.5.1";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -21,16 +21,23 @@ function App() {
 
   const toggleCuisine = (cuisine) => {
     if (cuisine === "All") {
-      setSelectedCuisines(["All"]);
-    } else {
-      let newSelection = selectedCuisines.filter(c => c !== "All");
-      if (newSelection.includes(cuisine)) {
-        newSelection = newSelection.filter(c => c !== cuisine);
+      if (selectedCuisines.includes("All")) {
+        setSelectedCuisines([]);
       } else {
-        newSelection = [...newSelection, cuisine];
+        setSelectedCuisines([...cuisines]);
       }
-
-      if (newSelection.length === 0) newSelection = ["All"];
+    } else {
+      let newSelection = [...selectedCuisines];
+      if (newSelection.includes(cuisine)) {
+        newSelection = newSelection.filter(c => c !== cuisine && c !== "All");
+      } else {
+        newSelection.push(cuisine);
+        const otherCuisines = cuisines.filter(c => c !== "All");
+        const allOthersSelected = otherCuisines.every(c => newSelection.includes(c));
+        if (allOthersSelected) {
+          newSelection.push("All");
+        }
+      }
       setSelectedCuisines(newSelection);
     }
   };
@@ -144,6 +151,13 @@ function App() {
       alert("Geolocation not supported by this browser.");
     }
   };
+
+  // Initialize selection to everything when cuisines are ready
+  useEffect(() => {
+    if (cuisines && cuisines.length > 0 && selectedCuisines.length === 1 && selectedCuisines[0] === "All") {
+      setSelectedCuisines([...cuisines]);
+    }
+  }, [cuisines]);
 
   const activeRestaurants = useMemo(() => {
     // console.log("Filtering with:", { showOnlyOpen, selectedCuisines, location: userLocation, maxDistance });
