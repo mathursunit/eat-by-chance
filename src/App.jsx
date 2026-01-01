@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.4.0";
+  const version = "v1.4.1";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -162,7 +162,7 @@ function App() {
       }
 
       return true;
-    });
+    }).sort((a, b) => (a.distance || 0) - (b.distance || 0));
   }, [showOnlyOpen, selectedCuisines, userLocation, maxDistance]);
 
   const canSpin = activeRestaurants.length > 0;

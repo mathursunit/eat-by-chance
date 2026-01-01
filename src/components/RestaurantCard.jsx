@@ -23,6 +23,11 @@ export function RestaurantCard({ restaurant, index, className = '' }) {
                 <div className="card-info">
                     <MapPin size={16} className="icon-subtle" />
                     <span>{restaurant.address}</span>
+                    {restaurant.distance !== undefined && (
+                        <span className="distance-tag" style={{ marginLeft: 'auto', background: '#1e293b', padding: '2px 8px', borderRadius: '4px', fontSize: '0.75rem', fontWeight: 600, color: '#94a3b8', border: '1px solid #334155' }}>
+                            {restaurant.distance.toFixed(1)} mi
+                        </span>
+                    )}
                 </div>
 
                 <a
