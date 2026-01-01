@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.6";
+  const version = "v1.3.7";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -45,18 +45,24 @@ function App() {
   useEffect(() => {
     // Only fetch if we don't have location yet
     if (!userLocation) {
-      // Use ipwho.is for better CORS support
-      fetch('https://ipwho.is/')
+      // Switching to freeipapi.com for potentially better database accuracy
+      fetch('https://freeipapi.com/api/json')
         .then(res => res.json())
         .then(data => {
+          // freeipapi uses latitude/longitude fields
           if (data.latitude && data.longitude) {
-            // Store detected IP info for debug
-            setDetectedIpData(data);
-            // Log the detected IP to helps us debug if it's a proxy
-            console.log("Detected IP Info:", data.ip, data.city, data.region);
+            // Normalize data for our debug state
+            const normalizedData = {
+              ip: data.ipAddress,
+              city: data.cityName,
+              region: data.regionName,
+              latitude: data.latitude,
+              longitude: data.longitude
+            };
+            setDetectedIpData(normalizedData);
 
-            // Check if user is in the Syracuse area (approx 43.0, -76.1)
-            // If they are far away (e.g. NYC), default to Cicero (13039) for this app
+            console.log("Detected IP Info:", normalizedData.ip, normalizedData.city, normalizedData.region);
+
             const lat1 = data.latitude;
             const lon1 = data.longitude;
             const lat2 = 43.0481; // Syracuse
@@ -91,7 +97,6 @@ function App() {
         })
         .catch(err => {
           console.error("IP Location failed:", err);
-          // Fallback to Cicero (13039) if IP fails (user preference)
           setUserLocation({ lat: 43.1678, lng: -76.1158 });
           setLocationSource("Fallback (Error)");
           setUseIpLocation(true);
