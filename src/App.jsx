@@ -7,13 +7,13 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.9";
+  const version = "v1.4.0";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
   const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
   const [userLocation, setUserLocation] = useState(null);
-  const [maxDistance, setMaxDistance] = useState(10); // Default 10 miles
+  const [maxDistance, setMaxDistance] = useState(3); // Default 3 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
   const [locationSource, setLocationSource] = useState("");
   const [detectedIpData, setDetectedIpData] = useState(null);
@@ -381,16 +381,6 @@ function App() {
       </AnimatePresence>
       <footer className="w-full text-center py-8 text-slate-600 text-sm">
         <p>&copy; 2024 BnB Eat By Chance. All rights reserved.</p>
-        <div style={{ marginTop: '1rem', fontSize: '0.7rem', color: '#334155', display: 'flex', flexDirection: 'column', gap: '4px' }}>
-          <p>Debug Info:</p>
-          <p>Location Source: {locationSource || "Unknown"}</p>
-          <p>Detected IP: {detectedIpData ? `${detectedIpData.ip} (${detectedIpData.city}, ${detectedIpData.region})` : "Pending..."}</p>
-          <p>IP Lat/Lng: {detectedIpData ? `${detectedIpData.latitude}, ${detectedIpData.longitude}` : "N/A"}</p>
-          <p>Used Location: {userLocation ? `${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}` : 'Unknown'} ({useIpLocation ? "Estimated" : "Precise"})</p>
-          <p>Distance Filter: {maxDistance} mi</p>
-          <p>Active Candidates: {activeRestaurants.length} / {restaurants.length}</p>
-          <p className="text-xs text-slate-500 mt-1">If location is wrong, use the "Precise Location" toggle above.</p>
-        </div>
       </footer>
     </div>
   );
