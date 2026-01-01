@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.3.0";
+  const version = "v1.3.1";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
