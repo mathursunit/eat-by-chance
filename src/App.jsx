@@ -11,10 +11,32 @@ function App() {
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
-  const [selectedCuisine, setSelectedCuisine] = useState("All");
+  const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
   const [userLocation, setUserLocation] = useState(null);
   const [maxDistance, setMaxDistance] = useState(5); // Default 5 miles
-  const [useIpLocation, setUseIpLocation] = useState(false);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+
+  const toggleCuisine = (cuisine) => {
+    if (cuisine === "All") {
+      setSelectedCuisines(["All"]);
+    } else {
+      let newSelection = selectedCuisines.filter(c => c !== "All");
+      if (newSelection.includes(cuisine)) {
+        newSelection = newSelection.filter(c => c !== cuisine);
+      } else {
+        newSelection = [...newSelection, cuisine];
+      }
+
+      if (newSelection.length === 0) newSelection = ["All"];
+      setSelectedCuisines(newSelection);
+    }
+  };
+
+  const selectOnlyCuisine = (e, cuisine) => {
+    e.stopPropagation();
+    setSelectedCuisines([cuisine]);
+    setIsDropdownOpen(false);
+  };
 
   // Attempt IP location on mount
   useEffect(() => {
@@ -91,7 +113,7 @@ function App() {
       if (showOnlyOpen && !getRestaurantStatus(r).isOpen) return false;
 
       // Filter by Cuisine
-      if (selectedCuisine !== "All" && r.cuisine !== selectedCuisine) return false;
+      if (!selectedCuisines.includes("All") && !selectedCuisines.includes(r.cuisine)) return false;
 
       // Filter by Distance (if location known)
       if (userLocation && r.coords.lat) {
@@ -102,7 +124,7 @@ function App() {
 
       return true;
     });
-  }, [showOnlyOpen, selectedCuisine, userLocation, maxDistance]);
+  }, [showOnlyOpen, selectedCuisines, userLocation, maxDistance]);
 
   const canSpin = activeRestaurants.length > 0;
 
@@ -143,14 +165,50 @@ function App() {
             <span style={{ fontWeight: 600 }}>Open Now</span>
           </label>
 
-          {/* Cuisine Dropdown */}
-          <select
-            value={selectedCuisine}
-            onChange={(e) => setSelectedCuisine(e.target.value)}
-            className="bg-slate-900 border border-slate-600 text-white rounded-lg px-3 py-1 outline-none focus:border-rose-500"
-          >
-            {cuisines.map(c => <option key={c} value={c}>{c}</option>)}
-          </select>
+          {/* Cuisine Multi-Select Dropdown */}
+          <div className="relative" style={{ minWidth: '200px' }}>
+            <button
+              onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+              className="w-full bg-slate-900 border border-slate-600 text-white rounded-lg px-3 py-2 text-left flex justify-between items-center"
+            >
+              <span className="truncate">
+                {selectedCuisines.includes("All") ? "All Cuisines" : `${selectedCuisines.length} Selected`}
+              </span>
+              <span className="ml-2 text-xs">▼</span>
+            </button>
+
+            {isDropdownOpen && (
+              <div className="absolute top-full left-0 w-full mt-1 bg-slate-800 border border-slate-600 rounded-lg shadow-xl z-50 max-h-60 overflow-y-auto">
+                {cuisines.map(c => {
+                  const isSelected = selectedCuisines.includes(c);
+                  return (
+                    <div key={c}
+                      className="flex items-center justify-between px-3 py-2 hover:bg-slate-700 cursor-pointer border-b border-slate-700 last:border-0"
+                      onClick={() => toggleCuisine(c)}
+                    >
+                      <div className="flex items-center gap-2">
+                        <div className={`w-4 h-4 rounded border flex items-center justify-center ${isSelected ? 'bg-rose-500 border-rose-500' : 'border-slate-400'}`}>
+                          {isSelected && <span className="text-white text-xs">✓</span>}
+                        </div>
+                        <span className={isSelected ? 'text-white' : 'text-slate-300'}>{c}</span>
+                      </div>
+                      {c !== "All" && (
+                        <button
+                          onClick={(e) => selectOnlyCuisine(e, c)}
+                          className="text-xs text-rose-400 hover:text-white px-2 py-1 rounded hover:bg-rose-500 transition-colors"
+                        >
+                          Only
+                        </button>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            )}
+          </div>
+
+          {/* Overlay to close dropdown */}
+          {isDropdownOpen && <div className="fixed inset-0 z-40" onClick={() => setIsDropdownOpen(false)}></div>}
         </div>
 
         {/* Location Filters */}
