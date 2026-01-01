@@ -169,37 +169,35 @@ function App() {
             <span style={{ fontWeight: 600 }}>Open Now</span>
           </label>
 
-          {/* Cuisine Multi-Select Dropdown */}
-          <div className="relative" style={{ minWidth: '200px' }}>
+          {/* Cuisine Multi-Select Dropdown - Fixed Styles */}
+          <div className="dropdown-container">
             <button
               onClick={() => setIsDropdownOpen(!isDropdownOpen)}
-              className="w-full bg-slate-900 border border-slate-600 text-white rounded-lg px-3 py-2 text-left flex justify-between items-center"
+              className="dropdown-btn"
             >
-              <span className="truncate">
-                {selectedCuisines.includes("All") ? "All Cuisines" : `${selectedCuisines.length} Selected`}
-              </span>
-              <span className="ml-2 text-xs">▼</span>
+              <span>{selectedCuisines.includes("All") ? "All Cuisines" : `${selectedCuisines.length} Selected`}</span>
+              <span style={{ fontSize: '0.8rem', marginLeft: '8px' }}>▼</span>
             </button>
 
             {isDropdownOpen && (
-              <div className="absolute top-full left-0 w-full mt-1 bg-slate-800 border border-slate-600 rounded-lg shadow-xl z-50 max-h-60 overflow-y-auto">
+              <div className="dropdown-menu">
                 {cuisines.map(c => {
                   const isSelected = selectedCuisines.includes(c);
                   return (
                     <div key={c}
-                      className="flex items-center justify-between px-3 py-2 hover:bg-slate-700 cursor-pointer border-b border-slate-700 last:border-0"
+                      className="dropdown-item"
                       onClick={() => toggleCuisine(c)}
                     >
-                      <div className="flex items-center gap-2">
-                        <div className={`w-4 h-4 rounded border flex items-center justify-center ${isSelected ? 'bg-rose-500 border-rose-500' : 'border-slate-400'}`}>
-                          {isSelected && <span className="text-white text-xs">✓</span>}
+                      <div className="item-left">
+                        <div className={`checkbox ${isSelected ? 'checked' : ''}`}>
+                          {isSelected && "✓"}
                         </div>
-                        <span className={isSelected ? 'text-white' : 'text-slate-300'}>{c}</span>
+                        <span className={`item-text ${isSelected ? 'selected' : ''}`}>{c}</span>
                       </div>
                       {c !== "All" && (
                         <button
                           onClick={(e) => selectOnlyCuisine(e, c)}
-                          className="text-xs text-rose-400 hover:text-white px-2 py-1 rounded hover:bg-rose-500 transition-colors"
+                          className="only-btn"
                         >
                           Only
                         </button>
@@ -212,7 +210,7 @@ function App() {
           </div>
 
           {/* Overlay to close dropdown */}
-          {isDropdownOpen && <div className="fixed inset-0 z-40" onClick={() => setIsDropdownOpen(false)}></div>}
+          {isDropdownOpen && <div className="overlay" onClick={() => setIsDropdownOpen(false)}></div>}
         </div>
 
         {/* Location Filters */}
