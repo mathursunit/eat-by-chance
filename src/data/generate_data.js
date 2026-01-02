@@ -356,7 +356,7 @@ const finalRestaurants = rawData.map((r, i) => {
         name: r.name,
         address: `${r.address}, ${r.area}, NY`,
         region: regionMapping[r.area] || r.area,
-        description: `${r.cuisine} establishment in ${r.area}.`,
+        description: `${r.cuisine} in ${r.area}.`,
         cuisine: r.cuisine,
         googleMapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.name + " " + r.address + " " + r.area + " NY")}`,
         coords: { lat, lng },
