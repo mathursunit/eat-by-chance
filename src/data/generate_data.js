@@ -216,31 +216,9 @@ const rawData = [
 const areas = Object.keys(townCenters);
 const chains = ["McDonald's", "Burger King", "Wendy's", "Taco Bell", "Dunkin'", "Subway", "Starbucks", "Domino's Pizza", "Pizza Hut"];
 
-// Fill to 800
-let count = rawData.length;
-let chainIndex = 0;
-while (count < 800) {
-    const chainName = chains[chainIndex % chains.length];
-    const area = areas[count % areas.length];
+const localPrefixes = ["The Golden", "Blue", "Old Town", "Heritage", "Rustic", "Main Street", "Corner", "Summit", "Valley", "Riverside", "Urban", "Vintage", "Emerald", "Iron", "Maple"];
+const localSuffixes = ["Bistro", "Grill", "Tavern", "Eatery", "Kitchen", "Table", "House", "Deli", "Cafe", "Pub", "Joint", "Lounge", "Pantry", "Nook"];
 
-    // Check if we should add it (simulate presence)
-    let cuisine = "Fast Food";
-    if (chainName.includes("Coffee") || chainName.includes("Dunkin") || chainName.includes("Starbucks")) cuisine = "Cafe";
-    if (chainName.includes("Pizza")) cuisine = "Pizza";
-    if (chainName.includes("Taco")) cuisine = "Mexican";
-    if (chainName.includes("Subway")) cuisine = "Sandwiches";
-
-    rawData.push({
-        name: `${chainName} (${area})`,
-        area: area,
-        cuisine: cuisine
-    });
-
-    chainIndex++;
-    count++;
-}
-
-// Generate full objects
 const hoursTemplates = {
     "American": { open: "11:00", close: "22:00" },
     "Italian": { open: "16:00", close: "22:00" },
@@ -258,6 +236,47 @@ const hoursTemplates = {
     "BBQ": { open: "11:00", close: "21:00" },
     "Indian": { open: "11:30", close: "22:00" },
 };
+
+const cuisinesList = Object.keys(hoursTemplates);
+
+// Fill to 800
+let count = rawData.length;
+while (count < 800) {
+    const area = areas[Math.floor(Math.random() * areas.length)];
+    const isChain = Math.random() < 0.3; // 30% chance of being a chain
+
+    let name, cuisine;
+
+    if (isChain) {
+        const chainName = chains[Math.floor(Math.random() * chains.length)];
+        name = `${chainName}`;
+
+        // Match cuisine to chain name
+        cuisine = "Fast Food";
+        if (chainName.includes("Coffee") || chainName.includes("Dunkin") || chainName.includes("Starbucks")) cuisine = "Cafe";
+        if (chainName.includes("Pizza")) cuisine = "Pizza";
+        if (chainName.includes("Taco")) cuisine = "Mexican";
+        if (chainName.includes("Subway")) cuisine = "Sandwiches";
+    } else {
+        const prefix = localPrefixes[Math.floor(Math.random() * localPrefixes.length)];
+        const suffix = localSuffixes[Math.floor(Math.random() * localSuffixes.length)];
+        cuisine = cuisinesList[Math.floor(Math.random() * cuisinesList.length)];
+        name = `${prefix} ${suffix}`;
+    }
+
+    // Check if this name already exists in this area to avoid exact duplicates
+    const exists = rawData.some(r => r.name === name && r.area === area);
+    if (!exists) {
+        rawData.push({
+            name: name,
+            area: area,
+            cuisine: cuisine
+        });
+        count++;
+    }
+}
+
+// Generate full objects
 
 const finalRestaurants = rawData.map((r, i) => {
     const center = townCenters[r.area] || townCenters["Syracuse Downtown"];
