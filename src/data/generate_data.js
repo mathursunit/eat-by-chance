@@ -103,8 +103,17 @@ const hoursTemplates = {
 
 const rawData = [
     // --- CICERO & NORTH SYRACUSE (STRICTLY VERIFIED CURRENT 2026) ---
+    { name: "Granny's Kitchen", area: "Cicero", cuisine: "Diner", address: "8031 Brewerton Rd" },
     { name: "Kim's Family Diner", area: "Cicero", cuisine: "Diner", address: "8319 Brewerton Rd" },
     { name: "Julie's Diner", area: "North Syracuse", cuisine: "Diner", address: "504 N Main St" },
+    { name: "Sake Bomb", area: "Cicero", cuisine: "Japanese", address: "8081 Brewerton Rd" },
+    { name: "Pizza Man Cicero", area: "Cicero", cuisine: "Pizza", address: "8142 Brewerton Rd" },
+    { name: "Barado's on the Water", area: "Cicero", cuisine: "Seafood", address: "57 Bradbury Rd" },
+    { name: "Toss & Fire Wood-Fired Pizza", area: "North Syracuse", cuisine: "Pizza", address: "8110 N Main St" },
+    { name: "Basil Leaf Thai Cuisine", area: "North Syracuse", cuisine: "Thai", address: "210 N Main St" },
+    { name: "The Clam Bar", area: "North Syracuse", cuisine: "Seafood", address: "3914 Brewerton Rd" },
+    { name: "Panera Bread", area: "Cicero", cuisine: "Cafe", address: "5663 E Circle Dr" },
+    { name: "Kirby's American Restaurant", area: "Cicero", cuisine: "American", address: "8081 Brewerton Rd" },
     { name: "Paladino's Cicero Pizza", area: "Cicero", cuisine: "Pizza", address: "7801 Brewerton Rd" },
     { name: "Tully's Good Times Cicero", area: "Cicero", cuisine: "American", address: "7838 Brewerton Rd" },
     { name: "CopperTop Tavern Cicero", area: "Cicero", cuisine: "American", address: "7777 Brewerton Rd" },
@@ -128,6 +137,8 @@ const rawData = [
     { name: "Denny's Cicero", area: "Cicero", cuisine: "Diner", address: "7873 Brewerton Rd" },
 
     // --- LIVERPOOL & CLAY (STRICTLY VERIFIED 2026) ---
+    { name: "Euclid Restaurant", area: "Clay", cuisine: "American", address: "4285 State Route 31" },
+    { name: "Change of Pace", area: "Liverpool", cuisine: "Pub", address: "120 Lake St" },
     { name: "Bangkok Thai & Japanese", area: "Liverpool", cuisine: "Thai", address: "7687 Frontage Rd" },
     { name: "Ocean Sushi", area: "Liverpool", cuisine: "Japanese", address: "3818 NY-31" },
     { name: "Mr Noodle & Ms Dumpling", area: "Liverpool", cuisine: "Chinese", address: "3810 NY-31" },
@@ -137,7 +148,6 @@ const rawData = [
     { name: "Heid's of Liverpool", area: "Liverpool", cuisine: "Fast Food", address: "305 Oswego St" },
     { name: "The Retreat", area: "Liverpool", cuisine: "American", address: "302 Old Liverpool Rd" },
     { name: "Santangelo's Restaurant", area: "Liverpool", cuisine: "Italian", address: "450 Old Liverpool Rd" },
-    { name: "Limp Lizard BBQ", area: "Liverpool", cuisine: "BBQ", address: "201 First St" },
     { name: "Avicollis Restaurant", area: "Liverpool", cuisine: "Italian", address: "7839 Oswego Rd" },
     { name: "Bull & Bear Roadhouse", area: "Liverpool", cuisine: "American", address: "8201 Oswego Rd" },
     { name: "Ichiban Japanese Steakhouse", area: "Liverpool", cuisine: "Japanese", address: "504 Old Liverpool Rd" },
