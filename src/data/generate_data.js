@@ -72,6 +72,8 @@ const rawData = [
     { name: "CopperTop Tavern Cicero", area: "Cicero", cuisine: "American", address: "7777 Brewerton Rd" },
     { name: "Borio's Restaurant", area: "Cicero", cuisine: "Italian", address: "8891 McDonnells Pkwy" },
     { name: "Frank's Plank Road Cafe", area: "Cicero", cuisine: "American", address: "8350 Brewerton Rd" },
+    { name: "Lakeshore Pizza", area: "Cicero", cuisine: "Pizza", address: "6969 Lakeshore Rd" },
+    { name: "Liberty's Food & Fish Fry", area: "Cicero", cuisine: "Seafood", address: "Lakeshore Rd" },
     { name: "Thee Diner", area: "Cicero", cuisine: "Diner", address: "6043 State Route 31" },
     { name: "Chickadee Human Eatery", area: "Cicero", cuisine: "Cafe", address: "8140 Brewerton Rd" },
     { name: "Sapori By Antonio", area: "Cicero", cuisine: "Italian", address: "5909 State Route 31" },
