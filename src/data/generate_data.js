@@ -74,7 +74,9 @@ const regionMapping = {
     "Elmira": "Southern Tier",
     "Saratoga Springs": "Saratoga Springs",
     "Oneida": "Utica/Rome",
-    "Cortland": "Ithaca"
+    "Cortland": "Ithaca",
+    "Minoa": "Syracuse",
+    "Jamesville": "Syracuse"
 };
 
 const hoursTemplates = {
@@ -98,7 +100,13 @@ const hoursTemplates = {
     "Wings": { open: "11:00", close: "00:00" },
     "Diner": { open: "06:00", close: "21:00" },
     "Breakfast": { open: "06:00", close: "14:00" },
-    "Vietnamese": { open: "11:00", close: "21:00" }
+    "Vietnamese": { open: "11:00", close: "21:00" },
+    "Korean": { open: "11:30", close: "22:00" },
+    "Middle Eastern": { open: "11:00", close: "21:00" },
+    "Filipino": { open: "11:00", close: "21:00" },
+    "Sushi": { open: "12:00", close: "22:00" },
+    "Greek": { open: "11:00", close: "21:00" },
+    "Irish": { open: "11:30", close: "01:00" }
 };
 
 const rawData = [
@@ -156,6 +164,10 @@ const rawData = [
     { name: "Red Lobster", area: "Clay", cuisine: "Seafood", address: "3915 NY-31" },
     { name: "LongHorn Steakhouse", area: "Clay", cuisine: "American", address: "3843 NY-31" },
     { name: "Smokey Bones", area: "Clay", cuisine: "BBQ", address: "3804 State Rt 31" },
+    { name: "appeThaizing", area: "Liverpool", cuisine: "Thai", address: "105 1st Street" },
+    { name: "Marcella's Italian", area: "Liverpool", cuisine: "Italian", address: "7622 Oswego Road" },
+    { name: "Fish Company of Liverpool", area: "Liverpool", cuisine: "Seafood", address: "209 Oswego Street" },
+
 
     // --- SYRACUSE DOWNTOWN & MAIN (STRICTLY VERIFIED CURRENT) ---
     { name: "Eden", area: "Syracuse Downtown", cuisine: "American", address: "183 E Genesee St" },
@@ -183,6 +195,38 @@ const rawData = [
     { name: "Rise N Shine Diner", area: "Westcott", cuisine: "Diner", address: "500 Westcott St" },
     { name: "Mother's Cupboard", area: "Eastwood", cuisine: "Diner", address: "3709 James St" },
     { name: "Scotch 'n Sirloin", area: "Dewitt", cuisine: "Steakhouse", address: "3687 Erie Blvd E" },
+    { name: "Bistro Elephant", area: "Syracuse Downtown", cuisine: "Thai", address: "238 West Jefferson Street" },
+    { name: "Dosa Grill", area: "Dewitt", cuisine: "Indian", address: "4467 East Genesee Street" },
+    { name: "Mario & Salvo's Pizza", area: "Dewitt", cuisine: "Pizza", address: "4326 East Genesee Street" },
+    { name: "Ponchito's Taqueria", area: "Syracuse Downtown", cuisine: "Mexican", address: "3800 New Court Avenue" },
+    { name: "Good Time Sushi", area: "Manlius", cuisine: "Sushi", address: "301 Fayette Street" },
+    { name: "Trappers II", area: "Minoa", cuisine: "Pub", address: "101 North Main Street" },
+    { name: "Dark Horse Tavern", area: "Dewitt", cuisine: "Pub", address: "4312 East Genesee Street" },
+    { name: "Ali Baba Restaurant", area: "Dewitt", cuisine: "Middle Eastern", address: "6378 Thompson Road" },
+    { name: "Coppertop Tavern", area: "Camillus", cuisine: "American", address: "3380 West Genesee Street" },
+    { name: "Pavone's Pizza", area: "East Syracuse", cuisine: "Pizza", address: "5781 Bridge Street" },
+    { name: "Empire Buffet", area: "Dewitt", cuisine: "Chinese", address: "3179 Erie Boulevard East" },
+    { name: "Goodie's Mediterranean", area: "Eastwood", cuisine: "Mediterranean", address: "3605 James Street" },
+    { name: "Gangnam Style Korean", area: "Westcott", cuisine: "Korean", address: "115 Harvard Place" },
+    { name: "Dave's Diner", area: "Manlius", cuisine: "Diner", address: "119 West Seneca Street" },
+    { name: "Mom's Diner", area: "Westcott", cuisine: "Diner", address: "501 Westcott Street" },
+    { name: "All Night Egg Plant", area: "East Syracuse", cuisine: "Diner", address: "5781 Bridge Street" },
+    { name: "bc Restaurant", area: "Syracuse Downtown", cuisine: "American", address: "247 West Fayette Street" },
+    { name: "Salt Restaurant & Bar", area: "Syracuse Downtown", cuisine: "American", address: "1060 East Genesee Street" },
+    { name: "Munjed's Middle-Eastern", area: "Westcott", cuisine: "Middle Eastern", address: "505 Westcott Street" },
+    { name: "Oompa Loompyas", area: "Syracuse Downtown", cuisine: "Filipino", address: "600 Burnet Avenue" },
+    { name: "The Pie Guys Pizzeria", area: "Eastwood", cuisine: "Pizza", address: "3106 James Street" },
+    { name: "Chengtu", area: "East Syracuse", cuisine: "Chinese", address: "6430 Kirkville Road" },
+    { name: "Ruston's Diner", area: "Jamesville", cuisine: "Diner", address: "6407 Jamesville Toll Road" },
+    { name: "King David's", area: "Fayetteville", cuisine: "Greek", address: "317 Towne Drive" },
+    { name: "A.W. Wander", area: "Manlius", cuisine: "Pizza", address: "145 East Seneca Street" },
+    { name: "Bull & Bear Roadhouse", area: "Fayetteville", cuisine: "American", address: "411 East Genesee Street" },
+    { name: "Scenic Root", area: "Manlius", cuisine: "American", address: "301 Fayette Street" },
+    { name: "The Fish Friar", area: "Syracuse Downtown", cuisine: "Seafood", address: "231 East Washington Street" },
+    { name: "Stella's Diner", area: "Solvay", cuisine: "Diner", address: "3709 West Genesee Street" },
+    { name: "Daniella's Steak House", area: "Solvay", cuisine: "Steakhouse", address: "581 State Fair Blvd" },
+    { name: "The Market Diner", area: "Syracuse Downtown", cuisine: "Diner", address: "2100 Park Street" },
+    { name: "Brooklyn Pickle", area: "Syracuse Downtown", cuisine: "Sandwiches", address: "1600 West Genesee Street" },
 
     // --- ROCHESTER (STRICTLY VERIFIED CURRENT) ---
     { name: "Fiamma Centro", area: "Rochester", cuisine: "Italian", address: "4 Elton St" },
