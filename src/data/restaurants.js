@@ -8,8 +8,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Granny's%20Kitchen%208031%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16962061371419,
-      "lng": -76.11663338490169
+      "lat": 43.165615336933016,
+      "lng": -76.1129305461779
     },
     "hours": {
       "0": [
@@ -65,8 +65,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kim's%20Family%20Diner%208319%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.170694036591,
-      "lng": -76.11455987238097
+      "lat": 43.166532680249844,
+      "lng": -76.11304794248795
     },
     "hours": {
       "0": [
@@ -122,8 +122,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Julie's%20Diner%20504%20N%20Main%20St%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.13667785444117,
-      "lng": -76.12941722041097
+      "lat": 43.13611158614955,
+      "lng": -76.1271734705196
     },
     "hours": {
       "0": [
@@ -179,8 +179,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sake%20Bomb%208081%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16957494901308,
-      "lng": -76.11658199621168
+      "lat": 43.16834456407051,
+      "lng": -76.1187080764606
     },
     "hours": {
       "0": [
@@ -236,8 +236,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Man%20Cicero%208142%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16861596318573,
-      "lng": -76.1141873849714
+      "lat": 43.168493094279405,
+      "lng": -76.11657142566045
     },
     "hours": {
       "0": [
@@ -293,8 +293,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Barado's%20on%20the%20Water%2057%20Bradbury%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.17022370880059,
-      "lng": -76.11519713831397
+      "lat": 43.165109659107664,
+      "lng": -76.11618875848812
     },
     "hours": {
       "0": [
@@ -350,8 +350,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Toss%20%26%20Fire%20Wood-Fired%20Pizza%208110%20N%20Main%20St%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.136458038630586,
-      "lng": -76.13218645308939
+      "lat": 43.13583503228983,
+      "lng": -76.1278338586819
     },
     "hours": {
       "0": [
@@ -407,8 +407,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basil%20Leaf%20Thai%20Cuisine%20210%20N%20Main%20St%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.134046355101646,
-      "lng": -76.12979258156625
+      "lat": 43.1379482723531,
+      "lng": -76.13046228744682
     },
     "hours": {
       "0": [
@@ -464,8 +464,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Clam%20Bar%203914%20Brewerton%20Rd%20North%20Syracuse%20NY",
     "coords": {
-      "lat": 43.132517252769865,
-      "lng": -76.13172867966175
+      "lat": 43.13242843140232,
+      "lng": -76.1306973635361
     },
     "hours": {
       "0": [
@@ -521,8 +521,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread%205663%20E%20Circle%20Dr%20Cicero%20NY",
     "coords": {
-      "lat": 43.16587191089609,
-      "lng": -76.11874742147884
+      "lat": 43.16529184088182,
+      "lng": -76.11395325280267
     },
     "hours": {
       "0": [
@@ -578,8 +578,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirby's%20American%20Restaurant%208081%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16550011462932,
-      "lng": -76.11454516415664
+      "lat": 43.16688452308955,
+      "lng": -76.11543556497064
     },
     "hours": {
       "0": [
@@ -635,8 +635,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paladino's%20Cicero%20Pizza%207801%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16510585311358,
-      "lng": -76.1146948740299
+      "lat": 43.1657970149937,
+      "lng": -76.11363124198328
     },
     "hours": {
       "0": [
@@ -692,8 +692,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tully's%20Good%20Times%20Cicero%207838%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.165840791193745,
-      "lng": -76.11381972341015
+      "lat": 43.168638885070145,
+      "lng": -76.11338600716552
     },
     "hours": {
       "0": [
@@ -749,8 +749,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CopperTop%20Tavern%20Cicero%207777%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.166537922451084,
-      "lng": -76.11358505807877
+      "lat": 43.166459060012514,
+      "lng": -76.11380121679856
     },
     "hours": {
       "0": [
@@ -806,8 +806,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vicino's%20Brick%20%26%20Brew%207789%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.164863441457435,
-      "lng": -76.11489512247141
+      "lat": 43.17000516083461,
+      "lng": -76.11757947956518
     },
     "hours": {
       "0": [
@@ -863,8 +863,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rancho%20Viejo%207850%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16789601244391,
-      "lng": -76.11634971102056
+      "lat": 43.16604436536173,
+      "lng": -76.11780415575278
     },
     "hours": {
       "0": [
@@ -920,8 +920,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmelita's%20Mexican%205701%20E%20Circle%20Dr%20Cicero%20NY",
     "coords": {
-      "lat": 43.16578434336509,
-      "lng": -76.1181117735195
+      "lat": 43.165315986230446,
+      "lng": -76.11685561416257
     },
     "hours": {
       "0": [
@@ -977,8 +977,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frankie%20Sushi%208350%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.1667807823006,
-      "lng": -76.11366374027193
+      "lat": 43.16719356479841,
+      "lng": -76.11358957587498
     },
     "hours": {
       "0": [
@@ -1034,8 +1034,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thee%20Diner%206043%20State%20Route%2031%20Cicero%20NY",
     "coords": {
-      "lat": 43.17068492068469,
-      "lng": -76.11586419751762
+      "lat": 43.165506361281594,
+      "lng": -76.11285950982189
     },
     "hours": {
       "0": [
@@ -1091,8 +1091,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakeshore%20Pizza%206969%20Lakeshore%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.167804897373856,
-      "lng": -76.11467695527836
+      "lat": 43.16482544013298,
+      "lng": -76.1141437250402
     },
     "hours": {
       "0": [
@@ -1148,8 +1148,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Twin%20Trees%20Cicero%206259%20Route%2031%20Cicero%20NY",
     "coords": {
-      "lat": 43.16851563245731,
-      "lng": -76.11784264728986
+      "lat": 43.166352220479176,
+      "lng": -76.1143099948188
     },
     "hours": {
       "0": [
@@ -1205,8 +1205,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cicero%20Country%20Pizza%208292%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.169448012474184,
-      "lng": -76.11826554090752
+      "lat": 43.16879605680213,
+      "lng": -76.11833748701231
     },
     "hours": {
       "0": [
@@ -1262,8 +1262,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberty's%20Food%20%26%20Fish%20Fry%206972%20Lakeshore%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.165205078475836,
-      "lng": -76.11430242062552
+      "lat": 43.169021152582765,
+      "lng": -76.11423128509826
     },
     "hours": {
       "0": [
@@ -1319,8 +1319,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A%20Cicero%207916%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.1698003439075,
-      "lng": -76.11780221234508
+      "lat": 43.16899814117416,
+      "lng": -76.11394756578493
     },
     "hours": {
       "0": [
@@ -1376,8 +1376,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dave's%20Hot%20Chicken%20Cicero%205683%20E%20Circle%20Dr%20Cicero%20NY",
     "coords": {
-      "lat": 43.168924286398855,
-      "lng": -76.11323078464747
+      "lat": 43.17064879101889,
+      "lng": -76.11732578566114
     },
     "hours": {
       "0": [
@@ -1433,8 +1433,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cracker%20Barrel%20Cicero%208400%20Pardee%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.168149704837106,
-      "lng": -76.11771420795819
+      "lat": 43.16756518060985,
+      "lng": -76.11411312974666
     },
     "hours": {
       "0": [
@@ -1490,8 +1490,8 @@ export const restaurants = [
     "cuisine": "Wings",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings%20Cicero%205671%20E%20Circle%20Dr%20Cicero%20NY",
     "coords": {
-      "lat": 43.165813135107726,
-      "lng": -76.11428590247164
+      "lat": 43.167726980835035,
+      "lng": -76.11555888000059
     },
     "hours": {
       "0": [
@@ -1547,8 +1547,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Original%20Italian%20Pizza%20Cicero%208064%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16598739951692,
-      "lng": -76.11320952030742
+      "lat": 43.16862048511598,
+      "lng": -76.1178316538808
     },
     "hours": {
       "0": [
@@ -1604,8 +1604,8 @@ export const restaurants = [
     "cuisine": "Cafe",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brick%20House%20Cafe%205885%20E%20Circle%20Dr%20Cicero%20NY",
     "coords": {
-      "lat": 43.165791805050034,
-      "lng": -76.11681990134825
+      "lat": 43.168156469169425,
+      "lng": -76.1173726273511
     },
     "hours": {
       "0": [
@@ -1661,8 +1661,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Cicero%207944%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.16546378334855,
-      "lng": -76.1173183981905
+      "lat": 43.16675296493313,
+      "lng": -76.11582519054333
     },
     "hours": {
       "0": [
@@ -1718,8 +1718,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill%20Cicero%205663%20E%20Circle%20Dr%20Cicero%20NY",
     "coords": {
-      "lat": 43.16920392727549,
-      "lng": -76.11498268789148
+      "lat": 43.16729995275331,
+      "lng": -76.11416757768166
     },
     "hours": {
       "0": [
@@ -1775,8 +1775,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Denny's%20Cicero%207873%20Brewerton%20Rd%20Cicero%20NY",
     "coords": {
-      "lat": 43.169587534118136,
-      "lng": -76.1141290956044
+      "lat": 43.16791341750954,
+      "lng": -76.11546880740416
     },
     "hours": {
       "0": [
@@ -1832,8 +1832,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Euclid%20Restaurant%204285%20State%20Route%2031%20Clay%20NY",
     "coords": {
-      "lat": 43.18271574463014,
-      "lng": -76.21288541211108
+      "lat": 43.18112730389221,
+      "lng": -76.20895660655205
     },
     "hours": {
       "0": [
@@ -1889,8 +1889,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Change%20of%20Pace%20120%20Lake%20St%20Liverpool%20NY",
     "coords": {
-      "lat": 43.106244839137766,
-      "lng": -76.20874567888914
+      "lat": 43.10714058788806,
+      "lng": -76.21271120299163
     },
     "hours": {
       "0": [
@@ -1946,8 +1946,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Thai%20%26%20Japanese%207687%20Frontage%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.107092605007296,
-      "lng": -76.21152777601188
+      "lat": 43.107623344341995,
+      "lng": -76.21006367162158
     },
     "hours": {
       "0": [
@@ -2003,8 +2003,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ocean%20Sushi%203818%20NY-31%20Liverpool%20NY",
     "coords": {
-      "lat": 43.106716593157444,
-      "lng": -76.21088097857631
+      "lat": 43.104002557836,
+      "lng": -76.20861059099963
     },
     "hours": {
       "0": [
@@ -2060,8 +2060,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr%20Noodle%20%26%20Ms%20Dumpling%203810%20NY-31%20Liverpool%20NY",
     "coords": {
-      "lat": 43.103366934294876,
-      "lng": -76.20730520565037
+      "lat": 43.10557736692188,
+      "lng": -76.21045462919928
     },
     "hours": {
       "0": [
@@ -2117,8 +2117,8 @@ export const restaurants = [
     "cuisine": "Vietnamese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Urban%20Pho%203920%20NY-31%20Clay%20NY",
     "coords": {
-      "lat": 43.17819250009848,
-      "lng": -76.20851742828071
+      "lat": 43.17934367031542,
+      "lng": -76.20931463653683
     },
     "hours": {
       "0": [
@@ -2174,8 +2174,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20Grande%20Mexican%203900%20NY-31%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10234688080313,
-      "lng": -76.21168554339111
+      "lat": 43.10341743571326,
+      "lng": -76.21207324133402
     },
     "hours": {
       "0": [
@@ -2231,8 +2231,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Guadalajara%20Mexican%208391%20Oswego%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10778388172422,
-      "lng": -76.21198797400113
+      "lat": 43.10636071584185,
+      "lng": -76.21081763547491
     },
     "hours": {
       "0": [
@@ -2288,8 +2288,8 @@ export const restaurants = [
     "cuisine": "Fast Food",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heid's%20of%20Liverpool%20305%20Oswego%20St%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10255913957822,
-      "lng": -76.21235998476371
+      "lat": 43.105423846571775,
+      "lng": -76.21251316485981
     },
     "hours": {
       "0": [
@@ -2345,8 +2345,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Retreat%20302%20Old%20Liverpool%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.103566365937475,
-      "lng": -76.21048770055918
+      "lat": 43.10463008401237,
+      "lng": -76.20855077825908
     },
     "hours": {
       "0": [
@@ -2402,8 +2402,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santangelo's%20Restaurant%20450%20Old%20Liverpool%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10526318738667,
-      "lng": -76.21111010502094
+      "lat": 43.10376882852969,
+      "lng": -76.21091950439359
     },
     "hours": {
       "0": [
@@ -2459,8 +2459,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicollis%20Restaurant%207839%20Oswego%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10323259229695,
-      "lng": -76.21239867556761
+      "lat": 43.10520493765271,
+      "lng": -76.21197215033798
     },
     "hours": {
       "0": [
@@ -2516,8 +2516,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bull%20%26%20Bear%20Roadhouse%208201%20Oswego%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.104222339954035,
-      "lng": -76.20770443273744
+      "lat": 43.10237294626763,
+      "lng": -76.21161191168694
     },
     "hours": {
       "0": [
@@ -2573,8 +2573,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ichiban%20Japanese%20Steakhouse%20504%20Old%20Liverpool%20Rd%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10380137368659,
-      "lng": -76.21032308969149
+      "lat": 43.10706582302494,
+      "lng": -76.20851933024397
     },
     "hours": {
       "0": [
@@ -2630,8 +2630,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse%203895%20NY-31%20Clay%20NY",
     "coords": {
-      "lat": 43.17769389257802,
-      "lng": -76.20913433685732
+      "lat": 43.180476730788236,
+      "lng": -76.20801218414398
     },
     "hours": {
       "0": [
@@ -2687,8 +2687,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%203920%20NY-31%20Clay%20NY",
     "coords": {
-      "lat": 43.180287124544016,
-      "lng": -76.21279950013718
+      "lat": 43.179505246996115,
+      "lng": -76.20805362432482
     },
     "hours": {
       "0": [
@@ -2744,8 +2744,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Lobster%203915%20NY-31%20Clay%20NY",
     "coords": {
-      "lat": 43.182615125479224,
-      "lng": -76.20900772335385
+      "lat": 43.18138833499745,
+      "lng": -76.21007277149104
     },
     "hours": {
       "0": [
@@ -2801,8 +2801,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LongHorn%20Steakhouse%203843%20NY-31%20Clay%20NY",
     "coords": {
-      "lat": 43.18031910332396,
-      "lng": -76.2080131283168
+      "lat": 43.1820864582924,
+      "lng": -76.2124288713399
     },
     "hours": {
       "0": [
@@ -2858,8 +2858,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smokey%20Bones%203804%20State%20Rt%2031%20Clay%20NY",
     "coords": {
-      "lat": 43.1782909432155,
-      "lng": -76.21102193113498
+      "lat": 43.1785296684507,
+      "lng": -76.20860370715744
     },
     "hours": {
       "0": [
@@ -2915,8 +2915,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=appeThaizing%20105%201st%20Street%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10765738003533,
-      "lng": -76.2075206845045
+      "lat": 43.10229100391662,
+      "lng": -76.20949738254436
     },
     "hours": {
       "0": [
@@ -2972,8 +2972,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Marcella's%20Italian%207622%20Oswego%20Road%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10789289895755,
-      "lng": -76.20710996204826
+      "lat": 43.103282225145996,
+      "lng": -76.20942099745355
     },
     "hours": {
       "0": [
@@ -3029,8 +3029,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fish%20Company%20of%20Liverpool%20209%20Oswego%20Street%20Liverpool%20NY",
     "coords": {
-      "lat": 43.10217613031613,
-      "lng": -76.20883515574738
+      "lat": 43.102908738518416,
+      "lng": -76.21267580196732
     },
     "hours": {
       "0": [
@@ -3086,8 +3086,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eden%20183%20E%20Genesee%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04847184572202,
-      "lng": -76.15463837873844
+      "lat": 43.049866969747626,
+      "lng": -76.15263781882439
     },
     "hours": {
       "0": [
@@ -3143,8 +3143,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20York%20247%20W%20Fayette%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05029035864851,
-      "lng": -76.14930025712243
+      "lat": 43.05075539996925,
+      "lng": -76.15058648144523
     },
     "hours": {
       "0": [
@@ -3200,8 +3200,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oh%20My%20Darling%20321%20S%20Salina%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04556463435281,
-      "lng": -76.1525506707328
+      "lat": 43.0487711278756,
+      "lng": -76.15324793719945
     },
     "hours": {
       "0": [
@@ -3257,8 +3257,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Strada%20Mia%20313%20313%20N%20Geddes%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.0472777119178,
-      "lng": -76.1525970193618
+      "lat": 43.04696549539077,
+      "lng": -76.15480451269087
     },
     "hours": {
       "0": [
@@ -3314,8 +3314,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phoebe's%20Restaurant%20900%20E%20Genesee%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05054984015428,
-      "lng": -76.15436032993804
+      "lat": 43.045748775673495,
+      "lng": -76.14922783550094
     },
     "hours": {
       "0": [
@@ -3371,8 +3371,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Talking%20Cursive%20Brewing%20425%20Erie%20Blvd%20W%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.049078199636675,
-      "lng": -76.15130514538771
+      "lat": 43.04644241606886,
+      "lng": -76.15219063229468
     },
     "hours": {
       "0": [
@@ -3428,8 +3428,8 @@ export const restaurants = [
     "cuisine": "BBQ",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinosaur%20Bar-B-Que%20246%20W%20Willow%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04861789703175,
-      "lng": -76.15108100750818
+      "lat": 43.0482410424355,
+      "lng": -76.15189468969614
     },
     "hours": {
       "0": [
@@ -3485,8 +3485,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pastabilities%20311%20S%20Franklin%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05084915311534,
-      "lng": -76.15047762564295
+      "lat": 43.045395628776895,
+      "lng": -76.15491302877153
     },
     "hours": {
       "0": [
@@ -3542,8 +3542,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modern%20Malt%20325%20S%20Clinton%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.046163417840695,
-      "lng": -76.1536537486683
+      "lat": 43.05012943276454,
+      "lng": -76.15327299959746
     },
     "hours": {
       "0": [
@@ -3599,8 +3599,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Strong%20Hearts%20Vegan%20Power%20719%20E%20Genesee%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.047234477764526,
-      "lng": -76.14963457094844
+      "lat": 43.04752429340245,
+      "lng": -76.14941528191699
     },
     "hours": {
       "0": [
@@ -3656,8 +3656,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Funk%20'n%20Waffles%20307%20S%20Clinton%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05068750738114,
-      "lng": -76.15235914146167
+      "lat": 43.04838405924894,
+      "lng": -76.1545481403016
     },
     "hours": {
       "0": [
@@ -3713,8 +3713,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lemon%20Grass%20113%20Walton%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04918231858442,
-      "lng": -76.15128149674328
+      "lat": 43.04653859645828,
+      "lng": -76.15063310129004
     },
     "hours": {
       "0": [
@@ -3770,8 +3770,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitty%20Hoyne's%20Irish%20Pub%20301%20W%20Fayette%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04840928702887,
-      "lng": -76.15443663733497
+      "lat": 43.05045501523637,
+      "lng": -76.15163787756036
     },
     "hours": {
       "0": [
@@ -3827,8 +3827,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Francesca's%20Cucina%20545%20N%20Salina%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05096315607914,
-      "lng": -76.15447772388112
+      "lat": 43.047597886110964,
+      "lng": -76.15242496951907
     },
     "hours": {
       "0": [
@@ -3884,8 +3884,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Apizza%20Regionale%20260%20W%20Genesee%20St%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04811402923513,
-      "lng": -76.15487456017041
+      "lat": 43.04971113547509,
+      "lng": -76.14914790675765
     },
     "hours": {
       "0": [
@@ -3941,8 +3941,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Twin%20Trees%20Original%201100%20Avery%20Ave%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.050592717957954,
-      "lng": -76.14947144079166
+      "lat": 43.04786701056421,
+      "lng": -76.14999876498848
     },
     "hours": {
       "0": [
@@ -3998,8 +3998,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Factory%20306%20Hiawatha%20Blvd%20W%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.0466446842644,
-      "lng": -76.15193936620835
+      "lat": 43.049379996599114,
+      "lng": -76.15240164470289
     },
     "hours": {
       "0": [
@@ -4055,8 +4055,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Texas%20De%20Brazil%20306%20Hiawatha%20Blvd%20W%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05014635237818,
-      "lng": -76.15080729466332
+      "lat": 43.048918802821234,
+      "lng": -76.15382616592578
     },
     "hours": {
       "0": [
@@ -4112,8 +4112,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantina%20Laredo%20111%20Hiawatha%20Blvd%20W%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.05042126337694,
-      "lng": -76.1543453855712
+      "lat": 43.046824572931044,
+      "lng": -76.15469054929082
     },
     "hours": {
       "0": [
@@ -4169,8 +4169,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%20Italian%20Steakhouse%202950%20Erie%20Blvd%20E%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04868887237208,
-      "lng": -76.15323791112664
+      "lat": 43.046216430031826,
+      "lng": -76.15190733165345
     },
     "hours": {
       "0": [
@@ -4226,8 +4226,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonfish%20Grill%20600%20Towne%20Dr%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.029189828420975,
-      "lng": -76.00435154747045
+      "lat": 43.03072655473385,
+      "lng": -76.00572171151428
     },
     "hours": {
       "0": [
@@ -4283,8 +4283,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alto%20Cinco%20526%20Westcott%20St%20Westcott%20NY",
     "coords": {
-      "lat": 43.04024161667932,
-      "lng": -76.12274328963342
+      "lat": 43.04019484362231,
+      "lng": -76.12247588849286
     },
     "hours": {
       "0": [
@@ -4340,8 +4340,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rise%20N%20Shine%20Diner%20500%20Westcott%20St%20Westcott%20NY",
     "coords": {
-      "lat": 43.04136906759487,
-      "lng": -76.12057900177739
+      "lat": 43.04133659707488,
+      "lng": -76.12117125281311
     },
     "hours": {
       "0": [
@@ -4397,8 +4397,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mother's%20Cupboard%203709%20James%20St%20Eastwood%20NY",
     "coords": {
-      "lat": 43.064328654344585,
-      "lng": -76.11725264922914
+      "lat": 43.06332836137621,
+      "lng": -76.11234336457416
     },
     "hours": {
       "0": [
@@ -4454,8 +4454,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scotch%20'n%20Sirloin%203687%20Erie%20Blvd%20E%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04009834764303,
-      "lng": -76.07298085217084
+      "lat": 43.03865266816169,
+      "lng": -76.06773230218391
     },
     "hours": {
       "0": [
@@ -4511,8 +4511,8 @@ export const restaurants = [
     "cuisine": "Thai",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Elephant%20238%20West%20Jefferson%20Street%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04916041460647,
-      "lng": -76.15107741802728
+      "lat": 43.04598266808601,
+      "lng": -76.15383654429614
     },
     "hours": {
       "0": [
@@ -4568,8 +4568,8 @@ export const restaurants = [
     "cuisine": "Indian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dosa%20Grill%204467%20East%20Genesee%20Street%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04292225664791,
-      "lng": -76.07119796746484
+      "lat": 43.04000868434485,
+      "lng": -76.07252750374239
     },
     "hours": {
       "0": [
@@ -4625,8 +4625,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20%26%20Salvo's%20Pizza%204326%20East%20Genesee%20Street%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04188817599628,
-      "lng": -76.07029727606688
+      "lat": 43.04237300785246,
+      "lng": -76.06799039592036
     },
     "hours": {
       "0": [
@@ -4682,8 +4682,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponchito's%20Taqueria%203800%20New%20Court%20Avenue%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.047424418522084,
-      "lng": -76.15477122608418
+      "lat": 43.04910795518691,
+      "lng": -76.15433171339015
     },
     "hours": {
       "0": [
@@ -4739,8 +4739,8 @@ export const restaurants = [
     "cuisine": "Sushi",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Time%20Sushi%20301%20Fayette%20Street%20Manlius%20NY",
     "coords": {
-      "lat": 43.00163960883201,
-      "lng": -75.97762211679687
+      "lat": 43.0000251092174,
+      "lng": -75.97744567690064
     },
     "hours": {
       "0": [
@@ -4796,8 +4796,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trappers%20II%20101%20North%20Main%20Street%20Minoa%20NY",
     "coords": {
-      "lat": 43.045351417318926,
-      "lng": -76.15341183552945
+      "lat": 43.05069553007957,
+      "lng": -76.15480421417301
     },
     "hours": {
       "0": [
@@ -4853,8 +4853,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Horse%20Tavern%204312%20East%20Genesee%20Street%20Dewitt%20NY",
     "coords": {
-      "lat": 43.04094664876174,
-      "lng": -76.06921928384826
+      "lat": 43.04241704233494,
+      "lng": -76.0729903297897
     },
     "hours": {
       "0": [
@@ -4910,8 +4910,8 @@ export const restaurants = [
     "cuisine": "Middle Eastern",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ali%20Baba%20Restaurant%206378%20Thompson%20Road%20Dewitt%20NY",
     "coords": {
-      "lat": 43.03787259781759,
-      "lng": -76.0671906060325
+      "lat": 43.04142149021085,
+      "lng": -76.07146594095863
     },
     "hours": {
       "0": [
@@ -4967,8 +4967,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coppertop%20Tavern%203380%20West%20Genesee%20Street%20Camillus%20NY",
     "coords": {
-      "lat": 43.04195635748361,
-      "lng": -76.30595894274636
+      "lat": 43.04115445873675,
+      "lng": -76.30729364072354
     },
     "hours": {
       "0": [
@@ -5024,8 +5024,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavone's%20Pizza%205781%20Bridge%20Street%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.06747313374631,
-      "lng": -76.0753274525034
+      "lat": 43.064210554798336,
+      "lng": -76.07591768494078
     },
     "hours": {
       "0": [
@@ -5081,8 +5081,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Empire%20Buffet%203179%20Erie%20Boulevard%20East%20Dewitt%20NY",
     "coords": {
-      "lat": 43.038465673192526,
-      "lng": -76.07297677257158
+      "lat": 43.03934605983616,
+      "lng": -76.07079479261438
     },
     "hours": {
       "0": [
@@ -5138,8 +5138,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Goodie's%20Mediterranean%203605%20James%20Street%20Eastwood%20NY",
     "coords": {
-      "lat": 43.062007118398945,
-      "lng": -76.1150455006396
+      "lat": 43.06307412464132,
+      "lng": -76.11333951827947
     },
     "hours": {
       "0": [
@@ -5195,8 +5195,8 @@ export const restaurants = [
     "cuisine": "Korean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gangnam%20Style%20Korean%20115%20Harvard%20Place%20Westcott%20NY",
     "coords": {
-      "lat": 43.03762957410314,
-      "lng": -76.11864179454057
+      "lat": 43.038618837366215,
+      "lng": -76.11946138376037
     },
     "hours": {
       "0": [
@@ -5252,8 +5252,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dave's%20Diner%20119%20West%20Seneca%20Street%20Manlius%20NY",
     "coords": {
-      "lat": 42.99974700134708,
-      "lng": -75.97991819653663
+      "lat": 42.99971435757018,
+      "lng": -75.97819824910816
     },
     "hours": {
       "0": [
@@ -5309,8 +5309,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mom's%20Diner%20501%20Westcott%20Street%20Westcott%20NY",
     "coords": {
-      "lat": 43.03868084893494,
-      "lng": -76.12299042958217
+      "lat": 43.03801043254239,
+      "lng": -76.12160693759478
     },
     "hours": {
       "0": [
@@ -5366,8 +5366,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=All%20Night%20Egg%20Plant%205781%20Bridge%20Street%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.067653230224515,
-      "lng": -76.07483961858728
+      "lat": 43.06318036303535,
+      "lng": -76.07799749944036
     },
     "hours": {
       "0": [
@@ -5423,8 +5423,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=bc%20Restaurant%20247%20West%20Fayette%20Street%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04683206693581,
-      "lng": -76.15167640952804
+      "lat": 43.047881420100246,
+      "lng": -76.1498952114792
     },
     "hours": {
       "0": [
@@ -5480,8 +5480,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Restaurant%20%26%20Bar%201060%20East%20Genesee%20Street%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.050639027535695,
-      "lng": -76.15137412442427
+      "lat": 43.049204603917644,
+      "lng": -76.15041864896546
     },
     "hours": {
       "0": [
@@ -5537,8 +5537,8 @@ export const restaurants = [
     "cuisine": "Middle Eastern",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Munjed's%20Middle-Eastern%20505%20Westcott%20Street%20Westcott%20NY",
     "coords": {
-      "lat": 43.03993810183405,
-      "lng": -76.11881758046073
+      "lat": 43.040902198436825,
+      "lng": -76.11885287153544
     },
     "hours": {
       "0": [
@@ -5594,8 +5594,8 @@ export const restaurants = [
     "cuisine": "Filipino",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oompa%20Loompyas%20600%20Burnet%20Avenue%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.050519103628574,
-      "lng": -76.14956036446675
+      "lat": 43.04981905903036,
+      "lng": -76.15241339630487
     },
     "hours": {
       "0": [
@@ -5651,8 +5651,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Pie%20Guys%20Pizzeria%203106%20James%20Street%20Eastwood%20NY",
     "coords": {
-      "lat": 43.06538907235477,
-      "lng": -76.11374778117829
+      "lat": 43.06272717957788,
+      "lng": -76.11691674134308
     },
     "hours": {
       "0": [
@@ -5708,8 +5708,8 @@ export const restaurants = [
     "cuisine": "Chinese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chengtu%206430%20Kirkville%20Road%20East%20Syracuse%20NY",
     "coords": {
-      "lat": 43.06486788037324,
-      "lng": -76.0776197129217
+      "lat": 43.06753936519492,
+      "lng": -76.07345471857985
     },
     "hours": {
       "0": [
@@ -5765,8 +5765,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruston's%20Diner%206407%20Jamesville%20Toll%20Road%20Jamesville%20NY",
     "coords": {
-      "lat": 43.048403922783315,
-      "lng": -76.15061055190966
+      "lat": 43.0487897993662,
+      "lng": -76.15160519103561
     },
     "hours": {
       "0": [
@@ -5822,8 +5822,8 @@ export const restaurants = [
     "cuisine": "Greek",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20David's%20317%20Towne%20Drive%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.03079681604034,
-      "lng": -76.00453766234492
+      "lat": 43.02923238209776,
+      "lng": -76.00716136105271
     },
     "hours": {
       "0": [
@@ -5879,8 +5879,8 @@ export const restaurants = [
     "cuisine": "Pizza",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=A.W.%20Wander%20145%20East%20Seneca%20Street%20Manlius%20NY",
     "coords": {
-      "lat": 43.00181245970091,
-      "lng": -75.97933329358493
+      "lat": 43.000363141876484,
+      "lng": -75.97518853662646
     },
     "hours": {
       "0": [
@@ -5936,8 +5936,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bull%20%26%20Bear%20Roadhouse%20411%20East%20Genesee%20Street%20Fayetteville%20NY",
     "coords": {
-      "lat": 43.030044486011796,
-      "lng": -76.00206514113758
+      "lat": 43.03144521723907,
+      "lng": -76.00515054030474
     },
     "hours": {
       "0": [
@@ -5993,8 +5993,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scenic%20Root%20301%20Fayette%20Street%20Manlius%20NY",
     "coords": {
-      "lat": 42.99951424722709,
-      "lng": -75.9809502527125
+      "lat": 43.00221349010432,
+      "lng": -75.980458322622
     },
     "hours": {
       "0": [
@@ -6050,8 +6050,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Fish%20Friar%20231%20East%20Washington%20Street%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04885281078955,
-      "lng": -76.15153596767682
+      "lat": 43.04500600145555,
+      "lng": -76.15052958035689
     },
     "hours": {
       "0": [
@@ -6107,8 +6107,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stella's%20Diner%203709%20West%20Genesee%20Street%20Solvay%20NY",
     "coords": {
-      "lat": 43.05429744887619,
-      "lng": -76.2091410883038
+      "lat": 43.055971026957714,
+      "lng": -76.20982260254883
     },
     "hours": {
       "0": [
@@ -6164,8 +6164,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniella's%20Steak%20House%20581%20State%20Fair%20Blvd%20Solvay%20NY",
     "coords": {
-      "lat": 43.05362492779633,
-      "lng": -76.20635452300738
+      "lat": 43.05464802435045,
+      "lng": -76.20521428882316
     },
     "hours": {
       "0": [
@@ -6221,8 +6221,8 @@ export const restaurants = [
     "cuisine": "Diner",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Market%20Diner%202100%20Park%20Street%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.04932275204253,
-      "lng": -76.14997125816859
+      "lat": 43.04617497957497,
+      "lng": -76.15471887959815
     },
     "hours": {
       "0": [
@@ -6278,8 +6278,8 @@ export const restaurants = [
     "cuisine": "Sandwiches",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Pickle%201600%20West%20Genesee%20Street%20Syracuse%20Downtown%20NY",
     "coords": {
-      "lat": 43.048475537762044,
-      "lng": -76.15087544064994
+      "lat": 43.04706676391311,
+      "lng": -76.14904766558627
     },
     "hours": {
       "0": [
@@ -6335,8 +6335,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fiamma%20Centro%204%20Elton%20St%20Rochester%20NY",
     "coords": {
-      "lat": 43.1590117264258,
-      "lng": -77.61093804953678
+      "lat": 43.16364778685513,
+      "lng": -77.61212216375098
     },
     "hours": {
       "0": [
@@ -6392,8 +6392,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grappa%2030%20Celebration%20Dr%20Rochester%20NY",
     "coords": {
-      "lat": 43.158501302531725,
-      "lng": -77.61246671568973
+      "lat": 43.16287961800628,
+      "lng": -77.61254111809077
     },
     "hours": {
       "0": [
@@ -6449,8 +6449,8 @@ export const restaurants = [
     "cuisine": "Japanese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Next%20Door%20by%20Wegmans%203220%20Monroe%20Ave%20Rochester%20NY",
     "coords": {
-      "lat": 43.162163519308926,
-      "lng": -77.60814505312312
+      "lat": 43.163729923083814,
+      "lng": -77.61169327259758
     },
     "hours": {
       "0": [
@@ -6506,8 +6506,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%20Steakhouse%20Roc%20125%20White%20Spruce%20Blvd%20Rochester%20NY",
     "coords": {
-      "lat": 43.15979324413717,
-      "lng": -77.60872027874356
+      "lat": 43.159177212697,
+      "lng": -77.61380742000676
     },
     "hours": {
       "0": [
@@ -6563,8 +6563,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Owl%20House%2075%20Marshall%20St%20Rochester%20NY",
     "coords": {
-      "lat": 43.15860537936933,
-      "lng": -77.6094182346577
+      "lat": 43.16304228181349,
+      "lng": -77.61198561844165
     },
     "hours": {
       "0": [
@@ -6620,8 +6620,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Native%20Eatery%20%26%20Bar%20180%20S%20Clinton%20Ave%20Rochester%20NY",
     "coords": {
-      "lat": 43.160326779646624,
-      "lng": -77.61223493772525
+      "lat": 43.162978703025935,
+      "lng": -77.611146484397
     },
     "hours": {
       "0": [
@@ -6677,8 +6677,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=REDD%20Rochester%20249%20East%20Ave%20Rochester%20NY",
     "coords": {
-      "lat": 43.158140885481735,
-      "lng": -77.60835513109645
+      "lat": 43.15824173258854,
+      "lng": -77.61151410214791
     },
     "hours": {
       "0": [
@@ -6734,8 +6734,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bitter%20Honey%20127%20Railroad%20St%20Rochester%20NY",
     "coords": {
-      "lat": 43.15869276231714,
-      "lng": -77.60921615495916
+      "lat": 43.16355500260722,
+      "lng": -77.61269197486101
     },
     "hours": {
       "0": [
@@ -6791,8 +6791,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fiorella%205%20Public%20Market%20Rochester%20NY",
     "coords": {
-      "lat": 43.163150654583184,
-      "lng": -77.61029571089385
+      "lat": 43.16058676150229,
+      "lng": -77.60902770122034
     },
     "hours": {
       "0": [
@@ -6848,8 +6848,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Luck%2050%20Anderson%20Ave%20Rochester%20NY",
     "coords": {
-      "lat": 43.16296529787987,
-      "lng": -77.60972898985095
+      "lat": 43.16133398380581,
+      "lng": -77.61157390672639
     },
     "hours": {
       "0": [
@@ -6905,8 +6905,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lento%20274%20N%20Goodman%20St%20Rochester%20NY",
     "coords": {
-      "lat": 43.15957019959889,
-      "lng": -77.61043911262463
+      "lat": 43.158638920747656,
+      "lng": -77.61154110950561
     },
     "hours": {
       "0": [
@@ -6962,8 +6962,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nosh%2047%20Russell%20St%20Rochester%20NY",
     "coords": {
-      "lat": 43.16380530462404,
-      "lng": -77.61271758842028
+      "lat": 43.15802206953806,
+      "lng": -77.6128804994006
     },
     "hours": {
       "0": [
@@ -7019,8 +7019,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Revelry%201290%20University%20Ave%20Rochester%20NY",
     "coords": {
-      "lat": 43.162224347918944,
-      "lng": -77.60825160732179
+      "lat": 43.158748867171134,
+      "lng": -77.610408983712
     },
     "hours": {
       "0": [
@@ -7076,8 +7076,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman's%20at%20the%20View%201716%20Genesee%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10514498885435,
-      "lng": -75.25055871715143
+      "lat": 43.10862483806421,
+      "lng": -75.25002366075606
     },
     "hours": {
       "0": [
@@ -7133,8 +7133,8 @@ export const restaurants = [
     "cuisine": "Steakhouse",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%20Utica%20147%20N%20Genesee%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10572422249301,
-      "lng": -75.2494886304444
+      "lat": 43.107540527718335,
+      "lng": -75.24921952149118
     },
     "hours": {
       "0": [
@@ -7190,8 +7190,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ancora!%20261%20Genesee%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10753991380449,
-      "lng": -75.25139626915586
+      "lat": 43.109669099495726,
+      "lng": -75.25245652383256
     },
     "hours": {
       "0": [
@@ -7247,8 +7247,8 @@ export const restaurants = [
     "cuisine": "Seafood",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ocean%20Blue%20221%20Genesee%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10401147131262,
-      "lng": -75.2529856232657
+      "lat": 43.10422674935903,
+      "lng": -75.25409323721118
     },
     "hours": {
       "0": [
@@ -7304,8 +7304,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tailor%20and%20the%20Cook%20311%20Main%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10889179582002,
-      "lng": -75.25060671639876
+      "lat": 43.10400206764138,
+      "lng": -75.25050037390936
     },
     "hours": {
       "0": [
@@ -7361,8 +7361,8 @@ export const restaurants = [
     "cuisine": "Mediterranean",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeina's%20Cafe%20607%20Varick%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10710898847707,
-      "lng": -75.25142978478362
+      "lat": 43.109667451361574,
+      "lng": -75.25076257182572
     },
     "hours": {
       "0": [
@@ -7418,8 +7418,8 @@ export const restaurants = [
     "cuisine": "Vietnamese",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotus%20Garden%201011%20King%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.104391855035786,
-      "lng": -75.25270140629914
+      "lat": 43.1066272718006,
+      "lng": -75.25028208800332
     },
     "hours": {
       "0": [
@@ -7475,8 +7475,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tavolo%20100%20Genese%20Square%20Utica%20NY",
     "coords": {
-      "lat": 43.10661217125649,
-      "lng": -75.25402246059618
+      "lat": 43.104801783518994,
+      "lng": -75.25308387441918
     },
     "hours": {
       "0": [
@@ -7532,8 +7532,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Canole%201%20Campion%20Rd%20Utica%20NY",
     "coords": {
-      "lat": 43.104460536956914,
-      "lng": -75.24916238253469
+      "lat": 43.10538169690509,
+      "lng": -75.25408829405019
     },
     "hours": {
       "0": [
@@ -7589,8 +7589,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerber's%201933%20Tavern%2016%20Liberty%20St%20Utica%20NY",
     "coords": {
-      "lat": 43.10805237312891,
-      "lng": -75.25439912345537
+      "lat": 43.107011972388044,
+      "lng": -75.25293150973837
     },
     "hours": {
       "0": [
@@ -7646,8 +7646,8 @@ export const restaurants = [
     "cuisine": "Italian",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Savoy%20255%20E%20Dominick%20St%20Rome%20NY",
     "coords": {
-      "lat": 43.23080254311163,
-      "lng": -75.48660094988298
+      "lat": 43.22619610423165,
+      "lng": -75.48426972320942
     },
     "hours": {
       "0": [
@@ -7703,8 +7703,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Franklin%20Hotel%20301%20S%20James%20St%20Rome%20NY",
     "coords": {
-      "lat": 43.22849277497402,
-      "lng": -75.48628600484993
+      "lat": 43.2258450314035,
+      "lng": -75.48719878583111
     },
     "hours": {
       "0": [
@@ -7760,8 +7760,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rocky's%20on%20the%20Lake%20430%20NY-13%20Oneida%20NY",
     "coords": {
-      "lat": 43.09733179215982,
-      "lng": -75.66751882674147
+      "lat": 43.09368373306204,
+      "lng": -75.66863323281525
     },
     "hours": {
       "0": [
@@ -7810,56 +7810,56 @@ export const restaurants = [
   },
   {
     "id": 138,
-    "name": "Revelry Yards",
-    "address": "111 N Aurora St, Ithaca, NY",
+    "name": "Sangam",
+    "address": "424 Eddy Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "American in Ithaca.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Revelry%20Yards%20111%20N%20Aurora%20St%20Ithaca%20NY",
+    "description": "Indian in Ithaca.",
+    "cuisine": "Indian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sangam%20424%20Eddy%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44132482269285,
-      "lng": -76.50472379918826
+      "lat": 42.44686309033065,
+      "lng": -76.50409187889696
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ]
@@ -7867,113 +7867,113 @@ export const restaurants = [
   },
   {
     "id": 139,
-    "name": "Food Lab",
-    "address": "110 N Aurora St, Ithaca, NY",
+    "name": "Ned's Pizza",
+    "address": "139 Dryden Road, Ithaca, NY",
     "region": "Ithaca",
-    "description": "American in Ithaca.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Food%20Lab%20110%20N%20Aurora%20St%20Ithaca%20NY",
+    "description": "Pizza in Ithaca.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ned's%20Pizza%20139%20Dryden%20Road%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44413742602935,
-      "lng": -76.49941956946239
+      "lat": 42.44261385411853,
+      "lng": -76.50169714789494
     },
     "hours": {
       "0": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "1": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "2": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "3": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "4": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "5": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "6": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 140,
-    "name": "Gola Osteria",
-    "address": "115 S Quarry St, Ithaca, NY",
+    "name": "Asia Cuisine",
+    "address": "126 North Aurora Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "Italian in Ithaca.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gola%20Osteria%20115%20S%20Quarry%20St%20Ithaca%20NY",
+    "description": "Korean in Ithaca.",
+    "cuisine": "Korean",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Asia%20Cuisine%20126%20North%20Aurora%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44221187878524,
-      "lng": -76.50270105379894
+      "lat": 42.44399024514011,
+      "lng": -76.5020493529627
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ]
@@ -7981,186 +7981,186 @@ export const restaurants = [
   },
   {
     "id": 141,
-    "name": "Siagon Kitchen",
-    "address": "526 W State St, Ithaca, NY",
+    "name": "Simeon's American Bistro",
+    "address": "224 East State Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "Vietnamese in Ithaca.",
-    "cuisine": "Vietnamese",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Siagon%20Kitchen%20526%20W%20State%20St%20Ithaca%20NY",
+    "description": "American in Ithaca.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Simeon's%20American%20Bistro%20224%20East%20State%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44322529081809,
-      "lng": -76.50131846597249
+      "lat": 42.44239260308009,
+      "lng": -76.504296296826
     },
     "hours": {
       "0": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ],
       "1": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ],
       "2": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ],
       "3": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ],
       "4": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ],
       "5": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ],
       "6": [
         {
           "open": "11:00",
-          "close": "21:00"
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 142,
-    "name": "Mia Tapas Bar",
-    "address": "130 E State St, Ithaca, NY",
+    "name": "Kilpatrick's Publick House",
+    "address": "130 East Seneca Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "American in Ithaca.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mia%20Tapas%20Bar%20130%20E%20State%20St%20Ithaca%20NY",
+    "description": "Pub in Ithaca.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kilpatrick's%20Publick%20House%20130%20East%20Seneca%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44533807717341,
-      "lng": -76.5041431508049
+      "lat": 42.4443929119418,
+      "lng": -76.50036057856525
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ]
     }
   },
   {
     "id": 143,
-    "name": "Moosewood",
-    "address": "215 N Cayuga St, Ithaca, NY",
+    "name": "Milkstand Breakfast",
+    "address": "215 North Meadow Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "American in Ithaca.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moosewood%20215%20N%20Cayuga%20St%20Ithaca%20NY",
+    "description": "Breakfast in Ithaca.",
+    "cuisine": "Breakfast",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Milkstand%20Breakfast%20215%20North%20Meadow%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44128283541334,
-      "lng": -76.50470741810027
+      "lat": 42.44257728344525,
+      "lng": -76.50414021780509
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "14:00"
         }
       ]
     }
   },
   {
     "id": 144,
-    "name": "Boatyard Grill",
-    "address": "525 Taughannock Blvd, Ithaca, NY",
+    "name": "Agava Restaurant",
+    "address": "381 Pine Tree Road, Ithaca, NY",
     "region": "Ithaca",
     "description": "American in Ithaca.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boatyard%20Grill%20525%20Taughannock%20Blvd%20Ithaca%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agava%20Restaurant%20381%20Pine%20Tree%20Road%20Ithaca%20NY",
     "coords": {
-      "lat": 42.442540395682194,
-      "lng": -76.49952067996922
+      "lat": 42.441420077176936,
+      "lng": -76.50109315687804
     },
     "hours": {
       "0": [
@@ -8209,129 +8209,129 @@ export const restaurants = [
   },
   {
     "id": 145,
-    "name": "Ithaca Ale House",
-    "address": "301 E State St, Ithaca, NY",
+    "name": "Le Café Cent-Dix",
+    "address": "110 North Aurora Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "Pub in Ithaca.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Ale%20House%20301%20E%20State%20St%20Ithaca%20NY",
+    "description": "French in Ithaca.",
+    "cuisine": "French",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Caf%C3%A9%20Cent-Dix%20110%20North%20Aurora%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.445031679881154,
-      "lng": -76.50348625205451
+      "lat": 42.44363857182056,
+      "lng": -76.49927465953756
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "17:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 146,
-    "name": "Maxie's Supper Club",
-    "address": "635 W State St, Ithaca, NY",
+    "name": "Red's Place",
+    "address": "107 North Aurora Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "Seafood in Ithaca.",
-    "cuisine": "Seafood",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maxie's%20Supper%20Club%20635%20W%20State%20St%20Ithaca%20NY",
+    "description": "Pub in Ithaca.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red's%20Place%20107%20North%20Aurora%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.4418317664711,
-      "lng": -76.5002808687686
+      "lat": 42.443601864281526,
+      "lng": -76.50055862869071
     },
     "hours": {
       "0": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ],
       "1": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ],
       "2": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ],
       "3": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ],
       "4": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ],
       "5": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ],
       "6": [
         {
           "open": "12:00",
-          "close": "21:00"
+          "close": "01:00"
         }
       ]
     }
   },
   {
     "id": 147,
-    "name": "Northstar House",
-    "address": "202 E Falls St, Ithaca, NY",
+    "name": "Monks on the Commons",
+    "address": "120 South Aurora Street, Ithaca, NY",
     "region": "Ithaca",
     "description": "American in Ithaca.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Northstar%20House%20202%20E%20Falls%20St%20Ithaca%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Monks%20on%20the%20Commons%20120%20South%20Aurora%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.44574525198431,
-      "lng": -76.4996450212691
+      "lat": 42.44246001500325,
+      "lng": -76.50357551401866
     },
     "hours": {
       "0": [
@@ -8380,113 +8380,113 @@ export const restaurants = [
   },
   {
     "id": 148,
-    "name": "Mercato Bar & Kitchen",
-    "address": "108 N Aurora St, Ithaca, NY",
+    "name": "Ithaca Bakery",
+    "address": "400 North Meadow Street, Ithaca, NY",
     "region": "Ithaca",
-    "description": "Italian in Ithaca.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato%20Bar%20%26%20Kitchen%20108%20N%20Aurora%20St%20Ithaca%20NY",
+    "description": "Bakery in Ithaca.",
+    "cuisine": "Bakery",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Bakery%20400%20North%20Meadow%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.443382802459375,
-      "lng": -76.50481744704926
+      "lat": 42.445633002360715,
+      "lng": -76.50379896274302
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "07:00",
+          "close": "19:00"
         }
       ]
     }
   },
   {
     "id": 149,
-    "name": "Moxie Wood Fire Grill",
-    "address": "1212 Front St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "Steakhouse in Binghamton.",
-    "cuisine": "Steakhouse",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moxie%20Wood%20Fire%20Grill%201212%20Front%20St%20Binghamton%20NY",
+    "name": "New Delhi Diamond's",
+    "address": "106 West Green Street, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Indian in Ithaca.",
+    "cuisine": "Indian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Delhi%20Diamond's%20106%20West%20Green%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.098328936341886,
-      "lng": -75.92249235524396
+      "lat": 42.441011214469306,
+      "lng": -76.5002412662721
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:30",
           "close": "22:00"
         }
       ]
@@ -8494,455 +8494,455 @@ export const restaurants = [
   },
   {
     "id": 150,
-    "name": "Lost Dog Cafe & Lounge",
-    "address": "222 Water St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "American in Binghamton.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Dog%20Cafe%20%26%20Lounge%20222%20Water%20St%20Binghamton%20NY",
+    "name": "Kelly's Dockside",
+    "address": "319 Taughannock Boulevard, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Seafood in Ithaca.",
+    "cuisine": "Seafood",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kelly's%20Dockside%20319%20Taughannock%20Boulevard%20Ithaca%20NY",
     "coords": {
-      "lat": 42.10015316717953,
-      "lng": -75.92177033423376
+      "lat": 42.442582821990285,
+      "lng": -76.50105606546784
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 151,
-    "name": "Social on State",
-    "address": "201 State St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "American in Binghamton.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social%20on%20State%20201%20State%20St%20Binghamton%20NY",
+    "name": "Coal Yard Cafe",
+    "address": "143 Maple Avenue, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Cafe in Ithaca.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coal%20Yard%20Cafe%20143%20Maple%20Avenue%20Ithaca%20NY",
     "coords": {
-      "lat": 42.101430713680536,
-      "lng": -75.92226028994467
+      "lat": 42.44545540404461,
+      "lng": -76.50152103220803
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ]
     }
   },
   {
     "id": 152,
-    "name": "205 Dry",
-    "address": "205 State St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "American in Binghamton.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=205%20Dry%20205%20State%20St%20Binghamton%20NY",
+    "name": "Yellow Deli",
+    "address": "143 Ithaca Commons, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Sandwiches in Ithaca.",
+    "cuisine": "Sandwiches",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yellow%20Deli%20143%20Ithaca%20Commons%20Ithaca%20NY",
     "coords": {
-      "lat": 42.101083347171794,
-      "lng": -75.91906086712966
+      "lat": 42.44405961918361,
+      "lng": -76.50025444350591
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "10:00",
+          "close": "20:00"
         }
       ]
     }
   },
   {
     "id": 153,
-    "name": "The Colonial",
-    "address": "56 Court St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "American in Binghamton.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Colonial%2056%20Court%20St%20Binghamton%20NY",
+    "name": "Ithaca Coffee Company",
+    "address": "2575 N Triphammer Rd, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Cafe in Ithaca.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Coffee%20Company%202575%20N%20Triphammer%20Rd%20Ithaca%20NY",
     "coords": {
-      "lat": 42.096384407831984,
-      "lng": -75.92135133096991
+      "lat": 42.44675180106683,
+      "lng": -76.49916367642369
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ]
     }
   },
   {
     "id": 154,
-    "name": "Little Venice",
-    "address": "111 Chenango St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "Italian in Binghamton.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Venice%20111%20Chenango%20St%20Binghamton%20NY",
+    "name": "Dolce Delights",
+    "address": "1080 Danby Road, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Ice Cream in Ithaca.",
+    "cuisine": "Ice Cream",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolce%20Delights%201080%20Danby%20Road%20Ithaca%20NY",
     "coords": {
-      "lat": 42.09978424555083,
-      "lng": -75.92010239305844
+      "lat": 42.443300419400344,
+      "lng": -76.49983787826619
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 155,
-    "name": "Thai Time",
-    "address": "96 Front St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "Thai in Binghamton.",
-    "cuisine": "Thai",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thai%20Time%2096%20Front%20St%20Binghamton%20NY",
+    "name": "Gimme! Coffee",
+    "address": "430 North Cayuga Street, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Cafe in Ithaca.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gimme!%20Coffee%20430%20North%20Cayuga%20Street%20Ithaca%20NY",
     "coords": {
-      "lat": 42.09852526861946,
-      "lng": -75.91881855864577
+      "lat": 42.445572413556576,
+      "lng": -76.50023251235788
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "06:00",
+          "close": "18:00"
         }
       ]
     }
   },
   {
     "id": 156,
-    "name": "Cortese Restaurant",
-    "address": "117 Robinson St, Binghamton, NY",
-    "region": "Binghamton",
-    "description": "Italian in Binghamton.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cortese%20Restaurant%20117%20Robinson%20St%20Binghamton%20NY",
+    "name": "Mira Bistro",
+    "address": "3812 E Shore Dr, Lansing, NY",
+    "region": "Ithaca",
+    "description": "Mediterranean in Lansing.",
+    "cuisine": "Mediterranean",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mira%20Bistro%203812%20E%20Shore%20Dr%20Lansing%20NY",
     "coords": {
-      "lat": 42.1001057146308,
-      "lng": -75.9230345260937
+      "lat": 42.48675953208774,
+      "lng": -76.48255158352487
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
-          "close": "22:00"
+          "open": "11:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 157,
-    "name": "The Brewster Inn",
-    "address": "6 Ledyard Ave, Cazenovia, NY",
-    "region": "Cazenovia",
-    "description": "American in Cazenovia.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Brewster%20Inn%206%20Ledyard%20Ave%20Cazenovia%20NY",
+    "name": "Joe's Restaurant",
+    "address": "602 W Buffalo St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Italian in Ithaca.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe's%20Restaurant%20602%20W%20Buffalo%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.93121547713993,
-      "lng": -75.85243942471678
+      "lat": 42.445473157980665,
+      "lng": -76.49903329468455
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ]
@@ -8950,56 +8950,56 @@ export const restaurants = [
   },
   {
     "id": 158,
-    "name": "Brae Loch Inn",
-    "address": "5 Albany St, Cazenovia, NY",
-    "region": "Cazenovia",
-    "description": "American in Cazenovia.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brae%20Loch%20Inn%205%20Albany%20St%20Cazenovia%20NY",
+    "name": "Sushi Hibachi",
+    "address": "3800 E Shore Dr, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Sushi in Ithaca.",
+    "cuisine": "Sushi",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Hibachi%203800%20E%20Shore%20Dr%20Ithaca%20NY",
     "coords": {
-      "lat": 42.929944454205014,
-      "lng": -75.85419409323686
+      "lat": 42.442509354830236,
+      "lng": -76.50197535282373
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "12:00",
           "close": "22:00"
         }
       ]
@@ -9007,186 +9007,186 @@ export const restaurants = [
   },
   {
     "id": 159,
-    "name": "Lincklaen House",
-    "address": "79 Albany St, Cazenovia, NY",
-    "region": "Cazenovia",
-    "description": "American in Cazenovia.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lincklaen%20House%2079%20Albany%20St%20Cazenovia%20NY",
+    "name": "Northeast Pizza",
+    "address": "23 Cinema Dr, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Pizza in Ithaca.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Northeast%20Pizza%2023%20Cinema%20Dr%20Ithaca%20NY",
     "coords": {
-      "lat": 42.93273451478407,
-      "lng": -75.85212504545703
+      "lat": 42.44244545673424,
+      "lng": -76.50454771111926
     },
     "hours": {
       "0": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "1": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "2": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "3": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "4": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "5": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ],
       "6": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 160,
-    "name": "Meier's Creek Brewing Co.",
-    "address": "33 Rippleton Rd, Cazenovia, NY",
-    "region": "Cazenovia",
-    "description": "Pub in Cazenovia.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meier's%20Creek%20Brewing%20Co.%2033%20Rippleton%20Rd%20Cazenovia%20NY",
+    "name": "Cornell Dairy Bar",
+    "address": "411 Tower Rd, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Ice Cream in Ithaca.",
+    "cuisine": "Ice Cream",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cornell%20Dairy%20Bar%20411%20Tower%20Rd%20Ithaca%20NY",
     "coords": {
-      "lat": 42.927239303368516,
-      "lng": -75.85561963790833
+      "lat": 42.44348350830867,
+      "lng": -76.50168409516732
     },
     "hours": {
       "0": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ],
       "1": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ],
       "2": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ],
       "3": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ],
       "4": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ],
       "5": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ],
       "6": [
         {
           "open": "12:00",
-          "close": "01:00"
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 161,
-    "name": "Caz Pizza",
-    "address": "101 Albany St, Cazenovia, NY",
-    "region": "Cazenovia",
-    "description": "Pizza in Cazenovia.",
-    "cuisine": "Pizza",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caz%20Pizza%20101%20Albany%20St%20Cazenovia%20NY",
+    "name": "Carriage House Cafe",
+    "address": "305 Stewart Ave, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Cafe in Ithaca.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carriage%20House%20Cafe%20305%20Stewart%20Ave%20Ithaca%20NY",
     "coords": {
-      "lat": 42.92962169046922,
-      "lng": -75.85289690518638
+      "lat": 42.44351297087848,
+      "lng": -76.49911252984776
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "23:00"
+          "open": "06:00",
+          "close": "18:00"
         }
       ]
     }
   },
   {
     "id": 162,
-    "name": "Elephant and The Dove",
-    "address": "9 E Genesee St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "Mexican in Skaneateles.",
-    "cuisine": "Mexican",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20and%20The%20Dove%209%20E%20Genesee%20St%20Skaneateles%20NY",
+    "name": "Revelry Yards",
+    "address": "111 N Aurora St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "American in Ithaca.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Revelry%20Yards%20111%20N%20Aurora%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.940632939059064,
-      "lng": -76.42108701512831
+      "lat": 42.44492760244645,
+      "lng": -76.4993594076595
     },
     "hours": {
       "0": [
@@ -9235,56 +9235,56 @@ export const restaurants = [
   },
   {
     "id": 163,
-    "name": "Gilda's",
-    "address": "12 Genesee St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "Italian in Skaneateles.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gilda's%2012%20Genesee%20St%20Skaneateles%20NY",
+    "name": "Food Lab",
+    "address": "110 N Aurora St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "American in Ithaca.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Food%20Lab%20110%20N%20Aurora%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.9437058700307,
-      "lng": -76.42213110989185
+      "lat": 42.44368094526237,
+      "lng": -76.500062819733
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -9292,56 +9292,56 @@ export const restaurants = [
   },
   {
     "id": 164,
-    "name": "The Krebs",
-    "address": "53 W Genesee St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "American in Skaneateles.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Krebs%2053%20W%20Genesee%20St%20Skaneateles%20NY",
+    "name": "Gola Osteria",
+    "address": "115 S Quarry St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Italian in Ithaca.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gola%20Osteria%20115%20S%20Quarry%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.94037800027166,
-      "lng": -76.42490632060648
+      "lat": 42.44479113221454,
+      "lng": -76.50190140416662
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ]
@@ -9349,113 +9349,113 @@ export const restaurants = [
   },
   {
     "id": 165,
-    "name": "Blue Water Grill",
-    "address": "11 W Genesee St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "American in Skaneateles.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Water%20Grill%2011%20W%20Genesee%20St%20Skaneateles%20NY",
+    "name": "Saigon Kitchen",
+    "address": "526 W State St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Vietnamese in Ithaca.",
+    "cuisine": "Vietnamese",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Saigon%20Kitchen%20526%20W%20State%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.93858304010172,
-      "lng": -76.42486854354868
+      "lat": 42.44539698001305,
+      "lng": -76.503486595752
     },
     "hours": {
       "0": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ],
       "1": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ],
       "2": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ],
       "3": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ],
       "4": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ],
       "5": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ],
       "6": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 166,
-    "name": "Rosalie's Cucina",
-    "address": "1250 Genesee St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "Italian in Skaneateles.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosalie's%20Cucina%201250%20Genesee%20St%20Skaneateles%20NY",
+    "name": "Mia Tapas Bar",
+    "address": "130 E State St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "American in Ithaca.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mia%20Tapas%20Bar%20130%20E%20State%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.943914707715535,
-      "lng": -76.4240788577663
+      "lat": 42.44349131624754,
+      "lng": -76.50251211076696
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -9463,56 +9463,56 @@ export const restaurants = [
   },
   {
     "id": 167,
-    "name": "Moro's Kitchen",
-    "address": "28 Jordan St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "Italian in Skaneateles.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moro's%20Kitchen%2028%20Jordan%20St%20Skaneateles%20NY",
+    "name": "Moosewood",
+    "address": "215 N Cayuga St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "American in Ithaca.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moosewood%20215%20N%20Cayuga%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.94156238204707,
-      "lng": -76.42579590498653
+      "lat": 42.444873977168896,
+      "lng": -76.50143437265798
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -9520,15 +9520,15 @@ export const restaurants = [
   },
   {
     "id": 168,
-    "name": "Sherwood Inn",
-    "address": "26 W Genesee St, Skaneateles, NY",
-    "region": "Skaneateles",
-    "description": "American in Skaneateles.",
+    "name": "Boatyard Grill",
+    "address": "525 Taughannock Blvd, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "American in Ithaca.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sherwood%20Inn%2026%20W%20Genesee%20St%20Skaneateles%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boatyard%20Grill%20525%20Taughannock%20Blvd%20Ithaca%20NY",
     "coords": {
-      "lat": 42.93967834393093,
-      "lng": -76.42229554862766
+      "lat": 42.445732667652486,
+      "lng": -76.5020813602136
     },
     "hours": {
       "0": [
@@ -9577,227 +9577,227 @@ export const restaurants = [
   },
   {
     "id": 169,
-    "name": "F.L.X. Table",
-    "address": "18 Linden St, Geneva, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "American in Geneva.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=F.L.X.%20Table%2018%20Linden%20St%20Geneva%20NY",
+    "name": "Ithaca Ale House",
+    "address": "301 E State St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Pub in Ithaca.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Ale%20House%20301%20E%20State%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.86779064462391,
-      "lng": -76.99598248464122
+      "lat": 42.446380846249866,
+      "lng": -76.49944144764854
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ]
     }
   },
   {
     "id": 170,
-    "name": "Kindred Fare",
-    "address": "512 Hamilton St, Geneva, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "American in Geneva.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kindred%20Fare%20512%20Hamilton%20St%20Geneva%20NY",
+    "name": "Maxie's Supper Club",
+    "address": "635 W State St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Seafood in Ithaca.",
+    "cuisine": "Seafood",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maxie's%20Supper%20Club%20635%20W%20State%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.865363709666305,
-      "lng": -76.99872421847377
+      "lat": 42.44300898411041,
+      "lng": -76.49905849270584
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:00"
         }
       ]
     }
   },
   {
     "id": 171,
-    "name": "The Elephant Geneva",
-    "address": "42 Linden St, Geneva, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "Thai in Geneva.",
-    "cuisine": "Thai",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Elephant%20Geneva%2042%20Linden%20St%20Geneva%20NY",
+    "name": "Northstar House",
+    "address": "202 E Falls St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "American in Ithaca.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Northstar%20House%20202%20E%20Falls%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.86548842601642,
-      "lng": -76.99580619030631
+      "lat": 42.44424295101246,
+      "lng": -76.50432514947533
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "21:30"
+          "open": "11:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 172,
-    "name": "84 Fall",
-    "address": "84 Fall St, Seneca Falls, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "American in Seneca Falls.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=84%20Fall%2084%20Fall%20St%20Seneca%20Falls%20NY",
+    "name": "Mercato Bar & Kitchen",
+    "address": "108 N Aurora St, Ithaca, NY",
+    "region": "Ithaca",
+    "description": "Italian in Ithaca.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato%20Bar%20%26%20Kitchen%20108%20N%20Aurora%20St%20Ithaca%20NY",
     "coords": {
-      "lat": 42.91319348157521,
-      "lng": -76.80385095020846
+      "lat": 42.44557941508469,
+      "lng": -76.50105713095635
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ]
@@ -9805,56 +9805,56 @@ export const restaurants = [
   },
   {
     "id": 173,
-    "name": "Wolffy's Grill and Marina",
-    "address": "6257 State Route 89, Seneca Falls, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "American in Seneca Falls.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wolffy's%20Grill%20and%20Marina%206257%20State%20Route%2089%20Seneca%20Falls%20NY",
+    "name": "Moxie Wood Fire Grill",
+    "address": "1212 Front St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "Steakhouse in Binghamton.",
+    "cuisine": "Steakhouse",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moxie%20Wood%20Fire%20Grill%201212%20Front%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 42.912614891839695,
-      "lng": -76.80246176997723
+      "lat": 42.099064792808896,
+      "lng": -75.91837180148012
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ]
@@ -9862,113 +9862,113 @@ export const restaurants = [
   },
   {
     "id": 174,
-    "name": "Parker's on Fall",
-    "address": "84 Fall St, Seneca Falls, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "Pub in Seneca Falls.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parker's%20on%20Fall%2084%20Fall%20St%20Seneca%20Falls%20NY",
+    "name": "Lost Dog Cafe & Lounge",
+    "address": "222 Water St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "American in Binghamton.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Dog%20Cafe%20%26%20Lounge%20222%20Water%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 42.911342106760344,
-      "lng": -76.80351192532237
+      "lat": 42.1003510521369,
+      "lng": -75.92277797020141
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 175,
-    "name": "Portico by Fabio Viviani",
-    "address": "1133 NY-414, Seneca Falls, NY",
-    "region": "Finger Lakes (Geneva/Seneca)",
-    "description": "Steakhouse in Seneca Falls.",
-    "cuisine": "Steakhouse",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Portico%20by%20Fabio%20Viviani%201133%20NY-414%20Seneca%20Falls%20NY",
+    "name": "Social on State",
+    "address": "201 State St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "American in Binghamton.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social%20on%20State%20201%20State%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 42.914693633567055,
-      "lng": -76.80400820500472
+      "lat": 42.09765066561452,
+      "lng": -75.92019515790018
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -9976,56 +9976,56 @@ export const restaurants = [
   },
   {
     "id": 176,
-    "name": "Pete's Trattoria",
-    "address": "111 Breen Ave, Watertown, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "Italian in Watertown.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pete's%20Trattoria%20111%20Breen%20Ave%20Watertown%20NY",
+    "name": "205 Dry",
+    "address": "205 State St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "American in Binghamton.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=205%20Dry%20205%20State%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 43.97718296624801,
-      "lng": -75.90867010444747
+      "lat": 42.09665488314571,
+      "lng": -75.91989733880386
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -10033,15 +10033,15 @@ export const restaurants = [
   },
   {
     "id": 177,
-    "name": "Crystal Restaurant",
-    "address": "87 Public Square, Watertown, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "American in Watertown.",
+    "name": "The Colonial",
+    "address": "56 Court St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "American in Binghamton.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crystal%20Restaurant%2087%20Public%20Square%20Watertown%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Colonial%2056%20Court%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 43.97783256562398,
-      "lng": -75.90973227094771
+      "lat": 42.097033029268296,
+      "lng": -75.92269202849413
     },
     "hours": {
       "0": [
@@ -10090,170 +10090,170 @@ export const restaurants = [
   },
   {
     "id": 178,
-    "name": "Maggie's On The River",
-    "address": "500 Newell St, Watertown, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "Pub in Watertown.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maggie's%20On%20The%20River%20500%20Newell%20St%20Watertown%20NY",
+    "name": "Little Venice",
+    "address": "111 Chenango St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "Italian in Binghamton.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Venice%20111%20Chenango%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 43.97354737499948,
-      "lng": -75.91393149569166
+      "lat": 42.099661064766096,
+      "lng": -75.9229559622795
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 179,
-    "name": "Bistro 197",
-    "address": "197 W 1st St, Oswego, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "American in Oswego.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20197%20197%20W%201st%20St%20Oswego%20NY",
+    "name": "Thai Time",
+    "address": "96 Front St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "Thai in Binghamton.",
+    "cuisine": "Thai",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thai%20Time%2096%20Front%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 43.45751369738856,
-      "lng": -76.511308383252
+      "lat": 42.10194928858451,
+      "lng": -75.92208920180559
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ]
     }
   },
   {
     "id": 180,
-    "name": "GS Steamers",
-    "address": "71 E 1st St, Oswego, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "American in Oswego.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=GS%20Steamers%2071%20E%201st%20St%20Oswego%20NY",
+    "name": "Cortese Restaurant",
+    "address": "117 Robinson St, Binghamton, NY",
+    "region": "Binghamton",
+    "description": "Italian in Binghamton.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cortese%20Restaurant%20117%20Robinson%20St%20Binghamton%20NY",
     "coords": {
-      "lat": 43.457517107449576,
-      "lng": -76.51081933975705
+      "lat": 42.10120666154418,
+      "lng": -75.9215758653335
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ]
@@ -10261,56 +10261,56 @@ export const restaurants = [
   },
   {
     "id": 181,
-    "name": "The Red Sun",
-    "address": "212 W 1st St, Oswego, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "Japanese in Oswego.",
-    "cuisine": "Japanese",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Sun%20212%20W%201st%20St%20Oswego%20NY",
+    "name": "The Brewster Inn",
+    "address": "6 Ledyard Ave, Cazenovia, NY",
+    "region": "Cazenovia",
+    "description": "American in Cazenovia.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Brewster%20Inn%206%20Ledyard%20Ave%20Cazenovia%20NY",
     "coords": {
-      "lat": 43.45597648796377,
-      "lng": -76.51023917686545
+      "lat": 42.92744035411115,
+      "lng": -75.85250563248799
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -10318,56 +10318,56 @@ export const restaurants = [
   },
   {
     "id": 182,
-    "name": "Canale's Restaurant",
-    "address": "156 W Utica St, Oswego, NY",
-    "region": "N. Country (Oswego/Watertown)",
-    "description": "Italian in Oswego.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Canale's%20Restaurant%20156%20W%20Utica%20St%20Oswego%20NY",
+    "name": "Brae Loch Inn",
+    "address": "5 Albany St, Cazenovia, NY",
+    "region": "Cazenovia",
+    "description": "American in Cazenovia.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brae%20Loch%20Inn%205%20Albany%20St%20Cazenovia%20NY",
     "coords": {
-      "lat": 43.4566518996491,
-      "lng": -76.50961389483943
+      "lat": 42.93270007213837,
+      "lng": -75.8531925610995
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -10375,15 +10375,15 @@ export const restaurants = [
   },
   {
     "id": 183,
-    "name": "The Cellar",
-    "address": "21 W Market St, Corning, NY",
-    "region": "Southern Tier",
-    "description": "American in Corning.",
+    "name": "Lincklaen House",
+    "address": "79 Albany St, Cazenovia, NY",
+    "region": "Cazenovia",
+    "description": "American in Cazenovia.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cellar%2021%20W%20Market%20St%20Corning%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lincklaen%20House%2079%20Albany%20St%20Cazenovia%20NY",
     "coords": {
-      "lat": 42.14221949270937,
-      "lng": -77.05421834767554
+      "lat": 42.93200760434938,
+      "lng": -75.85171796625994
     },
     "hours": {
       "0": [
@@ -10432,227 +10432,227 @@ export const restaurants = [
   },
   {
     "id": 184,
-    "name": "Hand + Foot",
-    "address": "18 W Market St, Corning, NY",
-    "region": "Southern Tier",
-    "description": "American in Corning.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hand%20%2B%20Foot%2018%20W%20Market%20St%20Corning%20NY",
+    "name": "Meier's Creek Brewing Co.",
+    "address": "33 Rippleton Rd, Cazenovia, NY",
+    "region": "Cazenovia",
+    "description": "Pub in Cazenovia.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meier's%20Creek%20Brewing%20Co.%2033%20Rippleton%20Rd%20Cazenovia%20NY",
     "coords": {
-      "lat": 42.141677356029646,
-      "lng": -77.05457965680291
+      "lat": 42.93238500275142,
+      "lng": -75.85599760222969
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "22:00"
+          "open": "12:00",
+          "close": "01:00"
         }
       ]
     }
   },
   {
     "id": 185,
-    "name": "Old World Cafe",
-    "address": "1 W Market St, Corning, NY",
-    "region": "Southern Tier",
-    "description": "Cafe in Corning.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20World%20Cafe%201%20W%20Market%20St%20Corning%20NY",
+    "name": "Caz Pizza",
+    "address": "101 Albany St, Cazenovia, NY",
+    "region": "Cazenovia",
+    "description": "Pizza in Cazenovia.",
+    "cuisine": "Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caz%20Pizza%20101%20Albany%20St%20Cazenovia%20NY",
     "coords": {
-      "lat": 42.14698138798565,
-      "lng": -77.0511841573408
+      "lat": 42.93149515296354,
+      "lng": -75.8503695430907
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "11:00",
+          "close": "23:00"
         }
       ]
     }
   },
   {
     "id": 186,
-    "name": "Market Street Brewing",
-    "address": "63 W Market St, Corning, NY",
-    "region": "Southern Tier",
-    "description": "Pub in Corning.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Market%20Street%20Brewing%2063%20W%20Market%20St%20Corning%20NY",
+    "name": "Elephant and The Dove",
+    "address": "9 E Genesee St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "Mexican in Skaneateles.",
+    "cuisine": "Mexican",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20and%20The%20Dove%209%20E%20Genesee%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 42.14249157730686,
-      "lng": -77.05489152506424
+      "lat": 42.94235510489568,
+      "lng": -76.4234914275212
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 187,
-    "name": "Rye Bar and Restaurant",
-    "address": "351 E Water St, Elmira, NY",
-    "region": "Southern Tier",
-    "description": "American in Elmira.",
-    "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rye%20Bar%20and%20Restaurant%20351%20E%20Water%20St%20Elmira%20NY",
+    "name": "Gilda's",
+    "address": "12 Genesee St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "Italian in Skaneateles.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gilda's%2012%20Genesee%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 42.089475547751675,
-      "lng": -76.80571203006632
+      "lat": 42.9407751059663,
+      "lng": -76.42428634221821
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "11:00",
+          "open": "16:00",
           "close": "22:00"
         }
       ]
@@ -10660,15 +10660,15 @@ export const restaurants = [
   },
   {
     "id": 188,
-    "name": "Hill Top Inn",
-    "address": "171 Jerusalem Hill Rd, Elmira, NY",
-    "region": "Southern Tier",
-    "description": "American in Elmira.",
+    "name": "The Krebs",
+    "address": "53 W Genesee St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "American in Skaneateles.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hill%20Top%20Inn%20171%20Jerusalem%20Hill%20Rd%20Elmira%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Krebs%2053%20W%20Genesee%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 42.090413654771446,
-      "lng": -76.80844511679294
+      "lat": 42.942713539457046,
+      "lng": -76.42486471065374
     },
     "hours": {
       "0": [
@@ -10717,56 +10717,56 @@ export const restaurants = [
   },
   {
     "id": 189,
-    "name": "Lib's Supper Club",
-    "address": "106 W 5th St, Elmira, NY",
-    "region": "Southern Tier",
-    "description": "Italian in Elmira.",
-    "cuisine": "Italian",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lib's%20Supper%20Club%20106%20W%205th%20St%20Elmira%20NY",
+    "name": "Blue Water Grill",
+    "address": "11 W Genesee St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "American in Skaneateles.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Water%20Grill%2011%20W%20Genesee%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 42.08895888888898,
-      "lng": -76.80908355848275
+      "lat": 42.940591149082046,
+      "lng": -76.42462426925978
     },
     "hours": {
       "0": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "16:00",
+          "open": "11:00",
           "close": "22:00"
         }
       ]
@@ -10774,129 +10774,129 @@ export const restaurants = [
   },
   {
     "id": 190,
-    "name": "Turtle Leaf Cafe",
-    "address": "315 E Water St, Elmira, NY",
-    "region": "Southern Tier",
-    "description": "Cafe in Elmira.",
-    "cuisine": "Cafe",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Turtle%20Leaf%20Cafe%20315%20E%20Water%20St%20Elmira%20NY",
+    "name": "Rosalie's Cucina",
+    "address": "1250 Genesee St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "Italian in Skaneateles.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosalie's%20Cucina%201250%20Genesee%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 42.09081483167118,
-      "lng": -76.80758897050657
+      "lat": 42.93875665915276,
+      "lng": -76.42449871836693
     },
     "hours": {
       "0": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "06:00",
-          "close": "18:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 191,
-    "name": "Olde Bryan Inn",
-    "address": "123 Maple Ave, Saratoga Springs, NY",
-    "region": "Saratoga Springs",
-    "description": "Pub in Saratoga Springs.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olde%20Bryan%20Inn%20123%20Maple%20Ave%20Saratoga%20Springs%20NY",
+    "name": "Moro's Kitchen",
+    "address": "28 Jordan St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "Italian in Skaneateles.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moro's%20Kitchen%2028%20Jordan%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 43.08256311734465,
-      "lng": -73.78113640503118
+      "lat": 42.940510049914685,
+      "lng": -76.425976506831
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "16:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 192,
-    "name": "Hattie's Restaurant",
-    "address": "45 Philly St, Saratoga Springs, NY",
-    "region": "Saratoga Springs",
-    "description": "American in Saratoga Springs.",
+    "name": "Sherwood Inn",
+    "address": "26 W Genesee St, Skaneateles, NY",
+    "region": "Skaneateles",
+    "description": "American in Skaneateles.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hattie's%20Restaurant%2045%20Philly%20St%20Saratoga%20Springs%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sherwood%20Inn%2026%20W%20Genesee%20St%20Skaneateles%20NY",
     "coords": {
-      "lat": 43.081881888469375,
-      "lng": -73.78243333572688
+      "lat": 42.93966320993269,
+      "lng": -76.42392260723358
     },
     "hours": {
       "0": [
@@ -10945,72 +10945,72 @@ export const restaurants = [
   },
   {
     "id": 193,
-    "name": "Druthers Brewing",
-    "address": "381 Broadway, Saratoga Springs, NY",
-    "region": "Saratoga Springs",
-    "description": "Pub in Saratoga Springs.",
-    "cuisine": "Pub",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Druthers%20Brewing%20381%20Broadway%20Saratoga%20Springs%20NY",
+    "name": "F.L.X. Table",
+    "address": "18 Linden St, Geneva, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "American in Geneva.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=F.L.X.%20Table%2018%20Linden%20St%20Geneva%20NY",
     "coords": {
-      "lat": 43.08461315072779,
-      "lng": -73.78562848733945
+      "lat": 42.870204968233566,
+      "lng": -76.9977910880457
     },
     "hours": {
       "0": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "1": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "2": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "3": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "4": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "5": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ],
       "6": [
         {
-          "open": "12:00",
-          "close": "01:00"
+          "open": "11:00",
+          "close": "22:00"
         }
       ]
     }
   },
   {
     "id": 194,
-    "name": "15 Church",
-    "address": "15 Church St, Saratoga Springs, NY",
-    "region": "Saratoga Springs",
-    "description": "American in Saratoga Springs.",
+    "name": "Kindred Fare",
+    "address": "512 Hamilton St, Geneva, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "American in Geneva.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15%20Church%2015%20Church%20St%20Saratoga%20Springs%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kindred%20Fare%20512%20Hamilton%20St%20Geneva%20NY",
     "coords": {
-      "lat": 43.083852501405495,
-      "lng": -73.78136562411841
+      "lat": 42.86886412927146,
+      "lng": -76.99524287017705
     },
     "hours": {
       "0": [
@@ -11059,72 +11059,72 @@ export const restaurants = [
   },
   {
     "id": 195,
-    "name": "Boca Bistro",
-    "address": "384 Broadway, Saratoga Springs, NY",
-    "region": "Saratoga Springs",
-    "description": "Mediterranean in Saratoga Springs.",
-    "cuisine": "Mediterranean",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca%20Bistro%20384%20Broadway%20Saratoga%20Springs%20NY",
+    "name": "The Elephant Geneva",
+    "address": "42 Linden St, Geneva, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "Thai in Geneva.",
+    "cuisine": "Thai",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Elephant%20Geneva%2042%20Linden%20St%20Geneva%20NY",
     "coords": {
-      "lat": 43.08447063296994,
-      "lng": -73.78514280271001
+      "lat": 42.86797568093164,
+      "lng": -76.99803302504873
     },
     "hours": {
       "0": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "1": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "2": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "3": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "4": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "5": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ],
       "6": [
         {
-          "open": "11:00",
-          "close": "21:00"
+          "open": "12:00",
+          "close": "21:30"
         }
       ]
     }
   },
   {
     "id": 196,
-    "name": "The Wishing Well",
-    "address": "745 Saratoga Rd, Saratoga Springs, NY",
-    "region": "Saratoga Springs",
-    "description": "American in Saratoga Springs.",
+    "name": "84 Fall",
+    "address": "84 Fall St, Seneca Falls, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "American in Seneca Falls.",
     "cuisine": "American",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wishing%20Well%20745%20Saratoga%20Rd%20Saratoga%20Springs%20NY",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=84%20Fall%2084%20Fall%20St%20Seneca%20Falls%20NY",
     "coords": {
-      "lat": 43.08497009192467,
-      "lng": -73.78168967999808
+      "lat": 42.91103366518425,
+      "lng": -76.8018713433883
     },
     "hours": {
       "0": [
@@ -11173,6 +11173,1374 @@ export const restaurants = [
   },
   {
     "id": 197,
+    "name": "Wolffy's Grill and Marina",
+    "address": "6257 State Route 89, Seneca Falls, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "American in Seneca Falls.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wolffy's%20Grill%20and%20Marina%206257%20State%20Route%2089%20Seneca%20Falls%20NY",
+    "coords": {
+      "lat": 42.910532159738906,
+      "lng": -76.80111098977422
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "name": "Parker's on Fall",
+    "address": "84 Fall St, Seneca Falls, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "Pub in Seneca Falls.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parker's%20on%20Fall%2084%20Fall%20St%20Seneca%20Falls%20NY",
+    "coords": {
+      "lat": 42.91235042911655,
+      "lng": -76.79912210787319
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "name": "Portico by Fabio Viviani",
+    "address": "1133 NY-414, Seneca Falls, NY",
+    "region": "Finger Lakes (Geneva/Seneca)",
+    "description": "Steakhouse in Seneca Falls.",
+    "cuisine": "Steakhouse",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Portico%20by%20Fabio%20Viviani%201133%20NY-414%20Seneca%20Falls%20NY",
+    "coords": {
+      "lat": 42.91360744692573,
+      "lng": -76.79921801797042
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "name": "Pete's Trattoria",
+    "address": "111 Breen Ave, Watertown, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "Italian in Watertown.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pete's%20Trattoria%20111%20Breen%20Ave%20Watertown%20NY",
+    "coords": {
+      "lat": 43.9761227438089,
+      "lng": -75.90943587760279
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 201,
+    "name": "Crystal Restaurant",
+    "address": "87 Public Square, Watertown, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "American in Watertown.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crystal%20Restaurant%2087%20Public%20Square%20Watertown%20NY",
+    "coords": {
+      "lat": 43.97662164329855,
+      "lng": -75.91358502501002
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 202,
+    "name": "Maggie's On The River",
+    "address": "500 Newell St, Watertown, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "Pub in Watertown.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maggie's%20On%20The%20River%20500%20Newell%20St%20Watertown%20NY",
+    "coords": {
+      "lat": 43.97224936308942,
+      "lng": -75.90831699353802
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 203,
+    "name": "Bistro 197",
+    "address": "197 W 1st St, Oswego, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "American in Oswego.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20197%20197%20W%201st%20St%20Oswego%20NY",
+    "coords": {
+      "lat": 43.45782481098276,
+      "lng": -76.51114672927393
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "name": "GS Steamers",
+    "address": "71 E 1st St, Oswego, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "American in Oswego.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=GS%20Steamers%2071%20E%201st%20St%20Oswego%20NY",
+    "coords": {
+      "lat": 43.45710588986697,
+      "lng": -76.50914992556753
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "name": "The Red Sun",
+    "address": "212 W 1st St, Oswego, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "Japanese in Oswego.",
+    "cuisine": "Japanese",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Sun%20212%20W%201st%20St%20Oswego%20NY",
+    "coords": {
+      "lat": 43.45645159632093,
+      "lng": -76.50763558913033
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 206,
+    "name": "Canale's Restaurant",
+    "address": "156 W Utica St, Oswego, NY",
+    "region": "N. Country (Oswego/Watertown)",
+    "description": "Italian in Oswego.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Canale's%20Restaurant%20156%20W%20Utica%20St%20Oswego%20NY",
+    "coords": {
+      "lat": 43.45567036970029,
+      "lng": -76.51052677221041
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 207,
+    "name": "The Cellar",
+    "address": "21 W Market St, Corning, NY",
+    "region": "Southern Tier",
+    "description": "American in Corning.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cellar%2021%20W%20Market%20St%20Corning%20NY",
+    "coords": {
+      "lat": 42.14463350732096,
+      "lng": -77.0526159978242
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 208,
+    "name": "Hand + Foot",
+    "address": "18 W Market St, Corning, NY",
+    "region": "Southern Tier",
+    "description": "American in Corning.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hand%20%2B%20Foot%2018%20W%20Market%20St%20Corning%20NY",
+    "coords": {
+      "lat": 42.141102720123946,
+      "lng": -77.0528351680817
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 209,
+    "name": "Old World Cafe",
+    "address": "1 W Market St, Corning, NY",
+    "region": "Southern Tier",
+    "description": "Cafe in Corning.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20World%20Cafe%201%20W%20Market%20St%20Corning%20NY",
+    "coords": {
+      "lat": 42.14383639512072,
+      "lng": -77.05176701658235
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 210,
+    "name": "Market Street Brewing",
+    "address": "63 W Market St, Corning, NY",
+    "region": "Southern Tier",
+    "description": "Pub in Corning.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Market%20Street%20Brewing%2063%20W%20Market%20St%20Corning%20NY",
+    "coords": {
+      "lat": 42.14541078336476,
+      "lng": -77.05318839448177
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "name": "Rye Bar and Restaurant",
+    "address": "351 E Water St, Elmira, NY",
+    "region": "Southern Tier",
+    "description": "American in Elmira.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rye%20Bar%20and%20Restaurant%20351%20E%20Water%20St%20Elmira%20NY",
+    "coords": {
+      "lat": 42.08927811402073,
+      "lng": -76.80650047988767
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 212,
+    "name": "Hill Top Inn",
+    "address": "171 Jerusalem Hill Rd, Elmira, NY",
+    "region": "Southern Tier",
+    "description": "American in Elmira.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hill%20Top%20Inn%20171%20Jerusalem%20Hill%20Rd%20Elmira%20NY",
+    "coords": {
+      "lat": 42.08902949187107,
+      "lng": -76.80849437070214
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 213,
+    "name": "Lib's Supper Club",
+    "address": "106 W 5th St, Elmira, NY",
+    "region": "Southern Tier",
+    "description": "Italian in Elmira.",
+    "cuisine": "Italian",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lib's%20Supper%20Club%20106%20W%205th%20St%20Elmira%20NY",
+    "coords": {
+      "lat": 42.09185608855813,
+      "lng": -76.80895212346316
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "name": "Turtle Leaf Cafe",
+    "address": "315 E Water St, Elmira, NY",
+    "region": "Southern Tier",
+    "description": "Cafe in Elmira.",
+    "cuisine": "Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Turtle%20Leaf%20Cafe%20315%20E%20Water%20St%20Elmira%20NY",
+    "coords": {
+      "lat": 42.086962164868766,
+      "lng": -76.80767300457805
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 215,
+    "name": "Olde Bryan Inn",
+    "address": "123 Maple Ave, Saratoga Springs, NY",
+    "region": "Saratoga Springs",
+    "description": "Pub in Saratoga Springs.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olde%20Bryan%20Inn%20123%20Maple%20Ave%20Saratoga%20Springs%20NY",
+    "coords": {
+      "lat": 43.081102700039615,
+      "lng": -73.78520042729225
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "name": "Hattie's Restaurant",
+    "address": "45 Philly St, Saratoga Springs, NY",
+    "region": "Saratoga Springs",
+    "description": "American in Saratoga Springs.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hattie's%20Restaurant%2045%20Philly%20St%20Saratoga%20Springs%20NY",
+    "coords": {
+      "lat": 43.08589086456013,
+      "lng": -73.78203359647335
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "name": "Druthers Brewing",
+    "address": "381 Broadway, Saratoga Springs, NY",
+    "region": "Saratoga Springs",
+    "description": "Pub in Saratoga Springs.",
+    "cuisine": "Pub",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Druthers%20Brewing%20381%20Broadway%20Saratoga%20Springs%20NY",
+    "coords": {
+      "lat": 43.084166501712396,
+      "lng": -73.78486754425371
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 218,
+    "name": "15 Church",
+    "address": "15 Church St, Saratoga Springs, NY",
+    "region": "Saratoga Springs",
+    "description": "American in Saratoga Springs.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15%20Church%2015%20Church%20St%20Saratoga%20Springs%20NY",
+    "coords": {
+      "lat": 43.08035589901755,
+      "lng": -73.78384025562458
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 219,
+    "name": "Boca Bistro",
+    "address": "384 Broadway, Saratoga Springs, NY",
+    "region": "Saratoga Springs",
+    "description": "Mediterranean in Saratoga Springs.",
+    "cuisine": "Mediterranean",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca%20Bistro%20384%20Broadway%20Saratoga%20Springs%20NY",
+    "coords": {
+      "lat": 43.082970886206,
+      "lng": -73.78660806638563
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 220,
+    "name": "The Wishing Well",
+    "address": "745 Saratoga Rd, Saratoga Springs, NY",
+    "region": "Saratoga Springs",
+    "description": "American in Saratoga Springs.",
+    "cuisine": "American",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wishing%20Well%20745%20Saratoga%20Rd%20Saratoga%20Springs%20NY",
+    "coords": {
+      "lat": 43.08101471991799,
+      "lng": -73.78541357888926
+    },
+    "hours": {
+      "0": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "1": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "2": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "3": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "4": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "5": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "6": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 221,
     "name": "Prison City Brewing",
     "address": "28 State St, Auburn, NY",
     "region": "Auburn",
@@ -11180,8 +12548,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prison%20City%20Brewing%2028%20State%20St%20Auburn%20NY",
     "coords": {
-      "lat": 42.93227191930178,
-      "lng": -76.56594992142777
+      "lat": 42.93305138428206,
+      "lng": -76.56300754232467
     },
     "hours": {
       "0": [
@@ -11229,7 +12597,7 @@ export const restaurants = [
     }
   },
   {
-    "id": 198,
+    "id": 222,
     "name": "Moro's Table",
     "address": "1 E Genesee St, Auburn, NY",
     "region": "Auburn",
@@ -11237,8 +12605,8 @@ export const restaurants = [
     "cuisine": "American",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moro's%20Table%201%20E%20Genesee%20St%20Auburn%20NY",
     "coords": {
-      "lat": 42.9338487349358,
-      "lng": -76.56700400726707
+      "lat": 42.93300479553359,
+      "lng": -76.56372785231422
     },
     "hours": {
       "0": [
@@ -11286,7 +12654,7 @@ export const restaurants = [
     }
   },
   {
-    "id": 199,
+    "id": 223,
     "name": "Swaby's Tavern",
     "address": "6 South St, Auburn, NY",
     "region": "Auburn",
@@ -11294,8 +12662,8 @@ export const restaurants = [
     "cuisine": "Pub",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swaby's%20Tavern%206%20South%20St%20Auburn%20NY",
     "coords": {
-      "lat": 42.93361245205724,
-      "lng": -76.56607753735037
+      "lat": 42.929662621024306,
+      "lng": -76.56534923643777
     },
     "hours": {
       "0": [
@@ -11343,7 +12711,7 @@ export const restaurants = [
     }
   },
   {
-    "id": 200,
+    "id": 224,
     "name": "Mesa Grande Taqueria",
     "address": "100 Genesee St, Auburn, NY",
     "region": "Auburn",
@@ -11351,8 +12719,8 @@ export const restaurants = [
     "cuisine": "Mexican",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mesa%20Grande%20Taqueria%20100%20Genesee%20St%20Auburn%20NY",
     "coords": {
-      "lat": 42.930999117560354,
-      "lng": -76.56384207561452
+      "lat": 42.933735464551134,
+      "lng": -76.56715707126419
     },
     "hours": {
       "0": [

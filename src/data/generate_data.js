@@ -38,7 +38,8 @@ const townCenters = {
     "Seneca Falls": { lat: 42.912, lng: -76.802 },
     "Corning": { lat: 42.144, lng: -77.054 },
     "Elmira": { lat: 42.089, lng: -76.807 },
-    "Saratoga Springs": { lat: 43.083, lng: -73.784 }
+    "Saratoga Springs": { lat: 43.083, lng: -73.784 },
+    "Lansing": { lat: 42.487, lng: -76.485 }
 };
 
 const regionMapping = {
@@ -76,7 +77,8 @@ const regionMapping = {
     "Oneida": "Utica/Rome",
     "Cortland": "Ithaca",
     "Minoa": "Syracuse",
-    "Jamesville": "Syracuse"
+    "Jamesville": "Syracuse",
+    "Lansing": "Ithaca"
 };
 
 const hoursTemplates = {
@@ -106,7 +108,11 @@ const hoursTemplates = {
     "Filipino": { open: "11:00", close: "21:00" },
     "Sushi": { open: "12:00", close: "22:00" },
     "Greek": { open: "11:00", close: "21:00" },
-    "Irish": { open: "11:30", close: "01:00" }
+    "Irish": { open: "11:30", close: "01:00" },
+    "French": { open: "17:00", close: "22:00" },
+    "Bakery": { open: "07:00", close: "19:00" },
+    "Ice Cream": { open: "12:00", close: "21:00" },
+    "Bagels": { open: "06:00", close: "15:00" }
 };
 
 const rawData = [
@@ -259,10 +265,34 @@ const rawData = [
     { name: "Rocky's on the Lake", area: "Oneida", cuisine: "American", address: "430 NY-13" },
 
     // --- ITHACA (STRICTLY VERIFIED CURRENT) ---
+    { name: "Sangam", area: "Ithaca", cuisine: "Indian", address: "424 Eddy Street" },
+    { name: "Ned's Pizza", area: "Ithaca", cuisine: "Pizza", address: "139 Dryden Road" },
+    { name: "Asia Cuisine", area: "Ithaca", cuisine: "Korean", address: "126 North Aurora Street" },
+    { name: "Simeon's American Bistro", area: "Ithaca", cuisine: "American", address: "224 East State Street" },
+    { name: "Kilpatrick's Publick House", area: "Ithaca", cuisine: "Pub", address: "130 East Seneca Street" },
+    { name: "Milkstand Breakfast", area: "Ithaca", cuisine: "Breakfast", address: "215 North Meadow Street" },
+    { name: "Agava Restaurant", area: "Ithaca", cuisine: "American", address: "381 Pine Tree Road" },
+    { name: "Le Café Cent-Dix", area: "Ithaca", cuisine: "French", address: "110 North Aurora Street" },
+    { name: "Red's Place", area: "Ithaca", cuisine: "Pub", address: "107 North Aurora Street" },
+    { name: "Monks on the Commons", area: "Ithaca", cuisine: "American", address: "120 South Aurora Street" },
+    { name: "Ithaca Bakery", area: "Ithaca", cuisine: "Bakery", address: "400 North Meadow Street" },
+    { name: "New Delhi Diamond's", area: "Ithaca", cuisine: "Indian", address: "106 West Green Street" },
+    { name: "Kelly's Dockside", area: "Ithaca", cuisine: "Seafood", address: "319 Taughannock Boulevard" },
+    { name: "Coal Yard Cafe", area: "Ithaca", cuisine: "Cafe", address: "143 Maple Avenue" },
+    { name: "Yellow Deli", area: "Ithaca", cuisine: "Sandwiches", address: "143 Ithaca Commons" },
+    { name: "Ithaca Coffee Company", area: "Ithaca", cuisine: "Cafe", address: "2575 N Triphammer Rd" },
+    { name: "Dolce Delights", area: "Ithaca", cuisine: "Ice Cream", address: "1080 Danby Road" },
+    { name: "Gimme! Coffee", area: "Ithaca", cuisine: "Cafe", address: "430 North Cayuga Street" },
+    { name: "Mira Bistro", area: "Lansing", cuisine: "Mediterranean", address: "3812 E Shore Dr" },
+    { name: "Joe's Restaurant", area: "Ithaca", cuisine: "Italian", address: "602 W Buffalo St" },
+    { name: "Sushi Hibachi", area: "Ithaca", cuisine: "Sushi", address: "3800 E Shore Dr" },
+    { name: "Northeast Pizza", area: "Ithaca", cuisine: "Pizza", address: "23 Cinema Dr" },
+    { name: "Cornell Dairy Bar", area: "Ithaca", cuisine: "Ice Cream", address: "411 Tower Rd" },
+    { name: "Carriage House Cafe", area: "Ithaca", cuisine: "Cafe", address: "305 Stewart Ave" },
     { name: "Revelry Yards", area: "Ithaca", cuisine: "American", address: "111 N Aurora St" },
     { name: "Food Lab", area: "Ithaca", cuisine: "American", address: "110 N Aurora St" },
     { name: "Gola Osteria", area: "Ithaca", cuisine: "Italian", address: "115 S Quarry St" },
-    { name: "Siagon Kitchen", area: "Ithaca", cuisine: "Vietnamese", address: "526 W State St" },
+    { name: "Saigon Kitchen", area: "Ithaca", cuisine: "Vietnamese", address: "526 W State St" },
     { name: "Mia Tapas Bar", area: "Ithaca", cuisine: "American", address: "130 E State St" },
     { name: "Moosewood", area: "Ithaca", cuisine: "American", address: "215 N Cayuga St" },
     { name: "Boatyard Grill", area: "Ithaca", cuisine: "American", address: "525 Taughannock Blvd" },
