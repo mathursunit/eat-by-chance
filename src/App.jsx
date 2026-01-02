@@ -7,17 +7,19 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.5.1";
+  const version = "v1.6.0";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
   const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
+  const [selectedAreas, setSelectedAreas] = useState(["All"]);
   const [userLocation, setUserLocation] = useState(null);
   const [maxDistance, setMaxDistance] = useState(3); // Default 3 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
   const [locationSource, setLocationSource] = useState("");
   const [detectedIpData, setDetectedIpData] = useState(null);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [isAreaDropdownOpen, setIsAreaDropdownOpen] = useState(false);
 
   const toggleCuisine = (cuisine) => {
     if (cuisine === "All") {
@@ -46,6 +48,35 @@ function App() {
     e.stopPropagation();
     setSelectedCuisines([cuisine]);
     setIsDropdownOpen(false);
+  };
+
+  const toggleArea = (area) => {
+    if (area === "All") {
+      if (selectedAreas.includes("All")) {
+        setSelectedAreas([]);
+      } else {
+        setSelectedAreas([...areas]);
+      }
+    } else {
+      let newSelection = [...selectedAreas];
+      if (newSelection.includes(area)) {
+        newSelection = newSelection.filter(a => a !== area && a !== "All");
+      } else {
+        newSelection.push(area);
+        const otherAreas = areas.filter(a => a !== "All");
+        const allOthersSelected = otherAreas.every(a => newSelection.includes(a));
+        if (allOthersSelected) {
+          newSelection.push("All");
+        }
+      }
+      setSelectedAreas(newSelection);
+    }
+  };
+
+  const selectOnlyArea = (e, area) => {
+    e.stopPropagation();
+    setSelectedAreas([area]);
+    setIsAreaDropdownOpen(false);
   };
 
   // Attempt IP location on mount
@@ -117,6 +148,15 @@ function App() {
     return ["All", ...validCuisines.sort()];
   }, [restaurants]);
 
+  const areas = useMemo(() => {
+    const areaSet = new Set();
+    restaurants.forEach(r => {
+      const area = r.address.split(',')[0].trim();
+      areaSet.add(area);
+    });
+    return ["All", ...Array.from(areaSet).sort()];
+  }, [restaurants]);
+
   const calculateDistance = (lat1, lon1, lat2, lon2) => {
     if (!lat1 || !lon1 || !lat2 || !lon2) return 9999;
 
@@ -152,12 +192,15 @@ function App() {
     }
   };
 
-  // Initialize selection to everything when cuisines are ready
+  // Initialize selection to everything when cuisines/areas are ready
   useEffect(() => {
     if (cuisines && cuisines.length > 0 && selectedCuisines.length === 1 && selectedCuisines[0] === "All") {
       setSelectedCuisines([...cuisines]);
     }
-  }, [cuisines]);
+    if (areas && areas.length > 0 && selectedAreas.length === 1 && selectedAreas[0] === "All") {
+      setSelectedAreas([...areas]);
+    }
+  }, [cuisines, areas]);
 
   const activeRestaurants = useMemo(() => {
     // console.log("Filtering with:", { showOnlyOpen, selectedCuisines, location: userLocation, maxDistance });
@@ -167,6 +210,10 @@ function App() {
 
       // Filter by Cuisine
       if (!selectedCuisines.includes("All") && !selectedCuisines.includes(r.cuisine)) return false;
+
+      // Filter by Area
+      const rArea = r.address.split(',')[0].trim();
+      if (!selectedAreas.includes("All") && !selectedAreas.includes(rArea)) return false;
 
       // Filter by Distance (if location known)
       if (userLocation && r.coords.lat) {
@@ -256,10 +303,51 @@ function App() {
                 })}
               </div>
             )}
+            {isDropdownOpen && <div className="overlay" onClick={() => setIsDropdownOpen(false)}></div>}
           </div>
 
-          {/* Overlay to close dropdown */}
-          {isDropdownOpen && <div className="overlay" onClick={() => setIsDropdownOpen(false)}></div>}
+          {/* Area Multi-Select Dropdown */}
+          <div className="dropdown-container">
+            <button
+              onClick={() => setIsAreaDropdownOpen(!isAreaDropdownOpen)}
+              className="dropdown-btn"
+            >
+              <span>{selectedAreas.includes("All") ? "All Areas" : `${selectedAreas.length} Areas`}</span>
+              <span style={{ fontSize: '0.8rem', marginLeft: '8px' }}>▼</span>
+            </button>
+
+            {isAreaDropdownOpen && (
+              <div className="dropdown-menu">
+                {areas.map(a => {
+                  const isSelected = selectedAreas.includes(a);
+                  return (
+                    <div key={a}
+                      className="dropdown-item"
+                      onClick={() => toggleArea(a)}
+                    >
+                      <div className="item-left">
+                        <div className={`checkbox ${isSelected ? 'checked' : ''}`}>
+                          {isSelected && "✓"}
+                        </div>
+                        <span className={`item-text ${isSelected ? 'selected' : ''}`}>{a}</span>
+                      </div>
+                      {a !== "All" && (
+                        <button
+                          onClick={(e) => selectOnlyArea(e, a)}
+                          className="only-btn"
+                        >
+                          Only
+                        </button>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            )}
+          </div>
+
+          {/* Overlay to close area dropdown */}
+          {isAreaDropdownOpen && <div className="overlay" onClick={() => setIsAreaDropdownOpen(false)}></div>}
         </div>
 
         {/* Location Filters */}
