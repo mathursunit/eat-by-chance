@@ -158,6 +158,12 @@ const rawData = [
     { name: "Smokey Bones", area: "Clay", cuisine: "BBQ", address: "3804 State Rt 31" },
 
     // --- SYRACUSE DOWNTOWN & MAIN (STRICTLY VERIFIED CURRENT) ---
+    { name: "Eden", area: "Syracuse Downtown", cuisine: "American", address: "183 E Genesee St" },
+    { name: "The York", area: "Syracuse Downtown", cuisine: "American", address: "247 W Fayette St" },
+    { name: "Oh My Darling", area: "Syracuse Downtown", cuisine: "American", address: "321 S Salina St" },
+    { name: "Strada Mia 313", area: "Syracuse Downtown", cuisine: "Italian", address: "313 N Geddes St" },
+    { name: "Phoebe's Restaurant", area: "Syracuse Downtown", cuisine: "American", address: "900 E Genesee St" },
+    { name: "Talking Cursive Brewing", area: "Syracuse Downtown", cuisine: "Pub", address: "425 Erie Blvd W" },
     { name: "Dinosaur Bar-B-Que", area: "Syracuse Downtown", cuisine: "BBQ", address: "246 W Willow St" },
     { name: "Pastabilities", area: "Syracuse Downtown", cuisine: "Italian", address: "311 S Franklin St" },
     { name: "Modern Malt", area: "Syracuse Downtown", cuisine: "American", address: "325 S Clinton St" },
@@ -166,19 +172,23 @@ const rawData = [
     { name: "Lemon Grass", area: "Syracuse Downtown", cuisine: "Thai", address: "113 Walton St" },
     { name: "Kitty Hoyne's Irish Pub", area: "Syracuse Downtown", cuisine: "Pub", address: "301 W Fayette St" },
     { name: "Francesca's Cucina", area: "Syracuse Downtown", cuisine: "Italian", address: "545 N Salina St" },
-    { name: "Oh My Darling", area: "Syracuse Downtown", cuisine: "American", address: "321 S Salina St" },
     { name: "Apizza Regionale", area: "Syracuse Downtown", cuisine: "Pizza", address: "260 W Genesee St" },
     { name: "Twin Trees Original", area: "Syracuse Downtown", cuisine: "Pizza", address: "1100 Avery Ave" },
     { name: "The Cheesecake Factory", area: "Syracuse Downtown", cuisine: "American", address: "306 Hiawatha Blvd W" },
     { name: "Texas De Brazil", area: "Syracuse Downtown", cuisine: "Steakhouse", address: "306 Hiawatha Blvd W" },
     { name: "Cantina Laredo", area: "Syracuse Downtown", cuisine: "Mexican", address: "111 Hiawatha Blvd W" },
     { name: "Delmonico's Italian Steakhouse", area: "Syracuse Downtown", cuisine: "Italian", address: "2950 Erie Blvd E" },
+    { name: "Bonfish Grill", area: "Fayetteville", cuisine: "Seafood", address: "600 Towne Dr" },
     { name: "Alto Cinco", area: "Westcott", cuisine: "Mexican", address: "526 Westcott St" },
     { name: "Rise N Shine Diner", area: "Westcott", cuisine: "Diner", address: "500 Westcott St" },
     { name: "Mother's Cupboard", area: "Eastwood", cuisine: "Diner", address: "3709 James St" },
     { name: "Scotch 'n Sirloin", area: "Dewitt", cuisine: "Steakhouse", address: "3687 Erie Blvd E" },
 
     // --- ROCHESTER (STRICTLY VERIFIED CURRENT) ---
+    { name: "Fiamma Centro", area: "Rochester", cuisine: "Italian", address: "4 Elton St" },
+    { name: "Grappa", area: "Rochester", cuisine: "Italian", address: "30 Celebration Dr" },
+    { name: "Next Door by Wegmans", area: "Rochester", cuisine: "Japanese", address: "3220 Monroe Ave" },
+    { name: "Delmonico's Steakhouse Roc", area: "Rochester", cuisine: "Steakhouse", address: "125 White Spruce Blvd" },
     { name: "The Owl House", area: "Rochester", cuisine: "American", address: "75 Marshall St" },
     { name: "Native Eatery & Bar", area: "Rochester", cuisine: "American", address: "180 S Clinton Ave" },
     { name: "REDD Rochester", area: "Rochester", cuisine: "American", address: "249 East Ave" },
@@ -190,6 +200,8 @@ const rawData = [
     { name: "The Revelry", area: "Rochester", cuisine: "American", address: "1290 University Ave" },
 
     // --- UTICA & ROME (STRICTLY VERIFIED CURRENT) ---
+    { name: "Roman's at the View", area: "Utica", cuisine: "Italian", address: "1716 Genesee St" },
+    { name: "Delmonico's Utica", area: "Utica", cuisine: "Steakhouse", address: "147 N Genesee St" },
     { name: "Ancora!", area: "Utica", cuisine: "Italian", address: "261 Genesee St" },
     { name: "Ocean Blue", area: "Utica", cuisine: "Seafood", address: "221 Genesee St" },
     { name: "Tailor and the Cook", area: "Utica", cuisine: "American", address: "311 Main St" },
@@ -200,14 +212,17 @@ const rawData = [
     { name: "Gerber's 1933 Tavern", area: "Utica", cuisine: "American", address: "16 Liberty St" },
     { name: "The Savoy", area: "Rome", cuisine: "Italian", address: "255 E Dominick St" },
     { name: "Franklin Hotel", area: "Rome", cuisine: "American", address: "301 S James St" },
+    { name: "Rocky's on the Lake", area: "Oneida", cuisine: "American", address: "430 NY-13" },
 
     // --- ITHACA (STRICTLY VERIFIED CURRENT) ---
+    { name: "Revelry Yards", area: "Ithaca", cuisine: "American", address: "111 N Aurora St" },
+    { name: "Food Lab", area: "Ithaca", cuisine: "American", address: "110 N Aurora St" },
+    { name: "Gola Osteria", area: "Ithaca", cuisine: "Italian", address: "115 S Quarry St" },
     { name: "Siagon Kitchen", area: "Ithaca", cuisine: "Vietnamese", address: "526 W State St" },
     { name: "Mia Tapas Bar", area: "Ithaca", cuisine: "American", address: "130 E State St" },
     { name: "Moosewood", area: "Ithaca", cuisine: "American", address: "215 N Cayuga St" },
     { name: "Boatyard Grill", area: "Ithaca", cuisine: "American", address: "525 Taughannock Blvd" },
     { name: "Ithaca Ale House", area: "Ithaca", cuisine: "Pub", address: "301 E State St" },
-    { name: "Gola Osteria", area: "Ithaca", cuisine: "Italian", address: "115 S Quarry St" },
     { name: "Maxie's Supper Club", area: "Ithaca", cuisine: "Seafood", address: "635 W State St" },
     { name: "Northstar House", area: "Ithaca", cuisine: "American", address: "202 E Falls St" },
     { name: "Mercato Bar & Kitchen", area: "Ithaca", cuisine: "Italian", address: "108 N Aurora St" },
@@ -243,6 +258,7 @@ const rawData = [
     { name: "84 Fall", area: "Seneca Falls", cuisine: "American", address: "84 Fall St" },
     { name: "Wolffy's Grill and Marina", area: "Seneca Falls", cuisine: "American", address: "6257 State Route 89" },
     { name: "Parker's on Fall", area: "Seneca Falls", cuisine: "Pub", address: "84 Fall St" },
+    { name: "Portico by Fabio Viviani", area: "Seneca Falls", cuisine: "Steakhouse", address: "1133 NY-414" },
 
     // --- WATERTOWN & OSWEGO (STRICTLY VERIFIED CURRENT) ---
     { name: "Pete's Trattoria", area: "Watertown", cuisine: "Italian", address: "111 Breen Ave" },
