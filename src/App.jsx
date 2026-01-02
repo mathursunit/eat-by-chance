@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.11.2";
+  const version = "v1.11.3";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -420,7 +420,7 @@ function App() {
 
         <div className="w-full" style={{ maxWidth: '800px' }}>
           <h2 className="mb-4" style={{ fontSize: '1.5rem', fontWeight: 700, borderBottom: '1px solid #334155', paddingBottom: '0.5rem' }}>
-            Candidates ({activeRestaurants.length})
+            Options ({activeRestaurants.length})
           </h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
             {activeRestaurants.map((r, i) => (
