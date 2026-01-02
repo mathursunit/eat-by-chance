@@ -3,16 +3,16 @@ import { restaurants } from './data/restaurants';
 import { getRestaurantStatus } from './utils/time';
 import { RouletteWheel } from './components/RouletteWheel';
 import { RestaurantCard } from './components/RestaurantCard';
-import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-react';
+import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation, Locate } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.12.0";
+  const version = "v1.12.1";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
   const [selectedCuisines, setSelectedCuisines] = useState(["All"]);
-  const [selectedAreas, setSelectedAreas] = useState(["All"]);
+  const [selectedArea, setSelectedArea] = useState("Current Location");
   const [userLocation, setUserLocation] = useState(null);
   const [maxDistance, setMaxDistance] = useState(3); // Default 3 miles
   const [useIpLocation, setUseIpLocation] = useState(false);
@@ -23,21 +23,26 @@ function App() {
 
   const toggleCuisine = (cuisine) => {
     if (cuisine === "All") {
-      if (selectedCuisines.includes("All")) {
-        setSelectedCuisines([]);
-      } else {
-        setSelectedCuisines([...cuisines]);
-      }
+      setSelectedCuisines(["All"]);
     } else {
       let newSelection = [...selectedCuisines];
+      if (newSelection.includes("All")) {
+        newSelection = [];
+      }
+
       if (newSelection.includes(cuisine)) {
-        newSelection = newSelection.filter(c => c !== cuisine && c !== "All");
+        newSelection = newSelection.filter(c => c !== cuisine);
       } else {
         newSelection.push(cuisine);
+      }
+
+      if (newSelection.length === 0) {
+        newSelection = ["All"];
+      } else {
         const otherCuisines = cuisines.filter(c => c !== "All");
         const allOthersSelected = otherCuisines.every(c => newSelection.includes(c));
         if (allOthersSelected) {
-          newSelection.push("All");
+          newSelection = ["All"];
         }
       }
       setSelectedCuisines(newSelection);
@@ -50,27 +55,9 @@ function App() {
     setIsDropdownOpen(false);
   };
 
-  const toggleArea = (area) => {
-    if (area === "All") {
-      if (selectedAreas.includes("All")) {
-        setSelectedAreas([]);
-      } else {
-        setSelectedAreas([...areas]);
-      }
-    } else {
-      let newSelection = [...selectedAreas];
-      if (newSelection.includes(area)) {
-        newSelection = newSelection.filter(a => a !== area && a !== "All");
-      } else {
-        newSelection.push(area);
-        const otherAreas = areas.filter(a => a !== "All");
-        const allOthersSelected = otherAreas.every(a => newSelection.includes(a));
-        if (allOthersSelected) {
-          newSelection.push("All");
-        }
-      }
-      setSelectedAreas(newSelection);
-    }
+  const selectArea = (area) => {
+    setSelectedArea(area);
+    setIsAreaDropdownOpen(false);
   };
 
   const selectOnlyArea = (e, area) => {
@@ -153,7 +140,7 @@ function App() {
     restaurants.forEach(r => {
       areaSet.add(r.region);
     });
-    return ["All", ...Array.from(areaSet).sort()];
+    return ["Current Location", ...Array.from(areaSet).sort()];
   }, [restaurants]);
 
   const calculateDistance = (lat1, lon1, lat2, lon2) => {
@@ -196,8 +183,8 @@ function App() {
     if (cuisines && cuisines.length > 0 && selectedCuisines.length === 1 && selectedCuisines[0] === "All") {
       setSelectedCuisines([...cuisines]);
     }
-    if (areas && areas.length > 0 && selectedAreas.length === 1 && selectedAreas[0] === "All") {
-      setSelectedAreas([...areas]);
+    if (areas && areas.length > 0 && selectedArea === "Current Location") {
+      // Default remains Current Location, no change needed usually
     }
   }, [cuisines, areas]);
 
@@ -211,18 +198,23 @@ function App() {
       if (!selectedCuisines.includes("All") && !selectedCuisines.includes(r.cuisine)) return false;
 
       // Filter by Area
-      if (!selectedAreas.includes("All") && !selectedAreas.includes(r.region)) return false;
+      if (selectedArea !== "Current Location" && r.region !== selectedArea) return false;
 
-      // Filter by Distance (Only apply if "All" areas are selected, logic: if specific area is chosen, ignore distance and show that entire area)
-      if (selectedAreas.includes("All") && userLocation && r.coords.lat) {
+      // Calculate Distance (Always)
+      if (userLocation && r.coords.lat) {
         const dist = calculateDistance(userLocation.lat, userLocation.lng, r.coords.lat, r.coords.lng);
-        if (dist > maxDistance) return false;
         r.distance = dist; // Store for display
+
+        // Filter by Distance (Only apply if "Current Location" is selected)
+        // If specific area is chosen, ignore distance max
+        if (selectedArea === "Current Location") {
+          if (dist > maxDistance) return false;
+        }
       }
 
       return true;
     }).sort((a, b) => (a.distance || 0) - (b.distance || 0));
-  }, [showOnlyOpen, selectedCuisines, selectedAreas, userLocation, maxDistance]);
+  }, [showOnlyOpen, selectedCuisines, selectedArea, userLocation, maxDistance]);
 
   const canSpin = activeRestaurants.length > 0;
 
@@ -238,6 +230,12 @@ function App() {
       setWinner(result);
     }, 500);
   };
+
+  const currentLocationLabel = useMemo(() => {
+    if (locationSource.includes("Fallback")) return "Default Location (Cicero, NY)";
+    if (detectedIpData?.city) return `Current Location (${detectedIpData.city})`;
+    return "Current Location";
+  }, [locationSource, detectedIpData]);
 
   return (
     <div className="container" style={{ paddingTop: '0' }}>
@@ -304,37 +302,44 @@ function App() {
             {isDropdownOpen && <div className="overlay" onClick={() => setIsDropdownOpen(false)}></div>}
           </div>
 
-          {/* Area Multi-Select Dropdown */}
+          {/* Area Single-Select Dropdown */}
           <div className="dropdown-container">
             <button
               onClick={() => setIsAreaDropdownOpen(!isAreaDropdownOpen)}
               className="dropdown-btn"
             >
-              <span>{selectedAreas.includes("All") ? "All Areas" : `${selectedAreas.length} Areas`}</span>
+              <span>{selectedArea === "Current Location" ? currentLocationLabel : selectedArea}</span>
               <span style={{ fontSize: '0.8rem', marginLeft: '8px' }}>▼</span>
             </button>
 
             {isAreaDropdownOpen && (
               <div className="dropdown-menu">
                 {areas.map(a => {
-                  const isSelected = selectedAreas.includes(a);
+                  const isSelected = selectedArea === a;
+                  const label = a === "Current Location" ? currentLocationLabel : a;
                   return (
                     <div key={a}
                       className="dropdown-item"
-                      onClick={() => toggleArea(a)}
+                      onClick={() => selectArea(a)}
                     >
                       <div className="item-left">
-                        <div className={`checkbox ${isSelected ? 'checked' : ''}`}>
-                          {isSelected && "✓"}
+                        <div className={`checkbox ${isSelected ? 'checked' : ''}`} style={{ borderRadius: '50%' }}>
+                          {isSelected && <div style={{ width: '60%', height: '60%', background: 'white', borderRadius: '50%' }}></div>}
                         </div>
-                        <span className={`item-text ${isSelected ? 'selected' : ''}`}>{a}</span>
+                        <span className={`item-text ${isSelected ? 'selected' : ''}`}>{label}</span>
                       </div>
-                      {a !== "All" && (
+                      {a === "Current Location" && useIpLocation && (
                         <button
-                          onClick={(e) => selectOnlyArea(e, a)}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            getUserLocation();
+                            setIsAreaDropdownOpen(false);
+                          }}
                           className="only-btn"
+                          title="Get Precise Location"
+                          style={{ display: 'flex', alignItems: 'center', gap: '4px', padding: '4px 8px' }}
                         >
-                          Only
+                          <Locate size={14} /> <span style={{ fontSize: '0.75rem' }}>Precise</span>
                         </button>
                       )}
                     </div>
@@ -359,15 +364,7 @@ function App() {
             </button>
           ) : (
             <div className="flex items-center gap-4 w-full justify-center">
-              <div className={`flex items-center gap-2 ${useIpLocation ? 'text-blue-400' : 'text-emerald-400'} text-sm font-bold`}>
-                <Navigation size={16} /> {useIpLocation ? 'Approx. Location' : 'Precise Location'}
-              </div>
-              {useIpLocation && (
-                <button onClick={getUserLocation} className="text-xs underline text-slate-500 hover:text-white">
-                  Get Precise
-                </button>
-              )}
-              <div className="flex items-center gap-2" style={{ opacity: selectedAreas.includes("All") ? 1 : 0.4, pointerEvents: selectedAreas.includes("All") ? 'auto' : 'none', transition: 'opacity 0.3s' }}>
+              <div className="flex items-center gap-2" style={{ opacity: selectedArea === "Current Location" ? 1 : 0.4, pointerEvents: selectedArea === "Current Location" ? 'auto' : 'none', transition: 'opacity 0.3s' }}>
                 <label className="text-sm text-slate-400">Max Distance:</label>
                 <input
                   type="range"
@@ -379,7 +376,7 @@ function App() {
                 />
                 <span className="text-sm font-mono w-12">{maxDistance}mi</span>
               </div>
-              {!selectedAreas.includes("All") && (
+              {selectedArea !== "Current Location" && (
                 <span className="text-xs text-orange-400 font-semibold animate-pulse">
                   Region mode active (distance ignored)
                 </span>
@@ -443,7 +440,36 @@ function App() {
             <div
               className="modal-content"
               onClick={e => e.stopPropagation()}
+              style={{ position: 'relative' }}
             >
+              <button
+                onClick={() => setWinner(null)}
+                style={{
+                  position: 'absolute',
+                  top: '1rem',
+                  right: '1rem',
+                  background: 'none',
+                  border: 'none',
+                  color: '#94a3b8',
+                  cursor: 'pointer',
+                  padding: '4px',
+                  borderRadius: '50%',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  transition: 'background 0.2s, color 0.2s'
+                }}
+                onMouseEnter={e => {
+                  e.currentTarget.style.background = '#334155';
+                  e.currentTarget.style.color = 'white';
+                }}
+                onMouseLeave={e => {
+                  e.currentTarget.style.background = 'none';
+                  e.currentTarget.style.color = '#94a3b8';
+                }}
+              >
+                <X size={24} />
+              </button>
               <div style={{ marginBottom: '1.5rem' }}>
                 <h2 style={{ fontSize: '1.5rem', color: '#94a3b8', marginBottom: '0.5rem' }}>Fate has chosen:</h2>
                 <h1 style={{ fontSize: '2.5rem', fontWeight: 800, color: '#f43f5e', lineHeight: 1.1 }}>
