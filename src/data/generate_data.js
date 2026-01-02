@@ -66,21 +66,26 @@ const hoursTemplates = {
 };
 
 const rawData = [
-    // --- CICERO (100% VERIFIED REAL & CURRENTLY OPEN) ---
+    // --- CICERO (STRICTLY VERIFIED CURRENT AS OF 2026) ---
     { name: "Paladino's Cicero Pizza", area: "Cicero", cuisine: "Pizza", address: "7801 Brewerton Rd" },
     { name: "Tully's Good Times Cicero", area: "Cicero", cuisine: "American", address: "7838 Brewerton Rd" },
     { name: "CopperTop Tavern Cicero", area: "Cicero", cuisine: "American", address: "7777 Brewerton Rd" },
-    { name: "Chickadee Human Eatery", area: "Cicero", cuisine: "Cafe", address: "8140 Brewerton Rd" },
+    { name: "Vicino's Brick & Brew", area: "Cicero", cuisine: "Italian", address: "7789 Brewerton Rd" },
     { name: "Frankie Sushi", area: "Cicero", cuisine: "Japanese", address: "8350 Brewerton Rd" },
     { name: "Thee Diner", area: "Cicero", cuisine: "Diner", address: "6043 State Route 31" },
     { name: "Lakeshore Pizza", area: "Cicero", cuisine: "Pizza", address: "6969 Lakeshore Rd" },
     { name: "Twin Trees Cicero", area: "Cicero", cuisine: "Pizza", address: "6259 Route 31" },
     { name: "Cicero Country Pizza", area: "Cicero", cuisine: "Pizza", address: "8292 Brewerton Rd" },
-    { name: "Chick-fil-A Cicero", area: "Cicero", cuisine: "Fast Food", address: "5581 E Circle Dr" },
+    { name: "Liberty's Food & Fish Fry", area: "Cicero", cuisine: "Seafood", address: "6972 Lakeshore Rd" },
+    { name: "Chick-fil-A Cicero", area: "Cicero", cuisine: "Fast Food", address: "7916 Brewerton Rd" },
     { name: "Dave's Hot Chicken Cicero", area: "Cicero", cuisine: "Fast Food", address: "5683 E Circle Dr" },
     { name: "Cracker Barrel", area: "Cicero", cuisine: "American", address: "8400 Pardee Rd" },
     { name: "Buffalo Wild Wings", area: "Cicero", cuisine: "Wings", address: "5671 E Circle Dr" },
-    { name: "OIP Cicero", area: "Cicero", cuisine: "Pizza", address: "7922 Brewerton Rd" },
+    { name: "Original Italian Pizza", area: "Cicero", cuisine: "Pizza", address: "8064 Brewerton Rd" },
+    { name: "Brick House Cafe", area: "Cicero", cuisine: "Cafe", address: "5885 E Circle Dr" },
+    { name: "Chipotle", area: "Cicero", cuisine: "Mexican", address: "7944 Brewerton Rd" },
+    { name: "Moe's Southwest Grill", area: "Cicero", cuisine: "Mexican", address: "5663 E Circle Dr" },
+    { name: "Denny's", area: "Cicero", cuisine: "Diner", address: "7873 Brewerton Rd" },
 
     // --- LIVERPOOL & CLAY (REAL & CURRENT) ---
     { name: "Heid's of Liverpool", area: "Liverpool", cuisine: "Fast Food", address: "305 Oswego St" },
