@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.11.1";
+  const version = "v1.11.2";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -213,8 +213,8 @@ function App() {
       // Filter by Area
       if (!selectedAreas.includes("All") && !selectedAreas.includes(r.region)) return false;
 
-      // Filter by Distance (if location known)
-      if (userLocation && r.coords.lat) {
+      // Filter by Distance (Only apply if "All" areas are selected, logic: if specific area is chosen, ignore distance and show that entire area)
+      if (selectedAreas.includes("All") && userLocation && r.coords.lat) {
         const dist = calculateDistance(userLocation.lat, userLocation.lng, r.coords.lat, r.coords.lng);
         if (dist > maxDistance) return false;
         r.distance = dist; // Store for display
@@ -367,7 +367,7 @@ function App() {
                   Get Precise
                 </button>
               )}
-              <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2" style={{ opacity: selectedAreas.includes("All") ? 1 : 0.4, pointerEvents: selectedAreas.includes("All") ? 'auto' : 'none', transition: 'opacity 0.3s' }}>
                 <label className="text-sm text-slate-400">Max Distance:</label>
                 <input
                   type="range"
@@ -379,6 +379,11 @@ function App() {
                 />
                 <span className="text-sm font-mono w-12">{maxDistance}mi</span>
               </div>
+              {!selectedAreas.includes("All") && (
+                <span className="text-xs text-orange-400 font-semibold animate-pulse">
+                  Region mode active (distance ignored)
+                </span>
+              )}
             </div>
           )}
         </div>
