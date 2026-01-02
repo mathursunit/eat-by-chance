@@ -102,11 +102,15 @@ const hoursTemplates = {
 };
 
 const rawData = [
-    // --- CICERO (STRICTLY VERIFIED CURRENT 2026) ---
+    // --- CICERO & NORTH SYRACUSE (STRICTLY VERIFIED CURRENT 2026) ---
+    { name: "Kim's Family Diner", area: "Cicero", cuisine: "Diner", address: "8319 Brewerton Rd" },
+    { name: "Julie's Diner", area: "North Syracuse", cuisine: "Diner", address: "504 N Main St" },
     { name: "Paladino's Cicero Pizza", area: "Cicero", cuisine: "Pizza", address: "7801 Brewerton Rd" },
     { name: "Tully's Good Times Cicero", area: "Cicero", cuisine: "American", address: "7838 Brewerton Rd" },
     { name: "CopperTop Tavern Cicero", area: "Cicero", cuisine: "American", address: "7777 Brewerton Rd" },
     { name: "Vicino's Brick & Brew", area: "Cicero", cuisine: "Italian", address: "7789 Brewerton Rd" },
+    { name: "Rancho Viejo", area: "Cicero", cuisine: "Mexican", address: "7850 Brewerton Rd" },
+    { name: "Carmelita's Mexican", area: "Cicero", cuisine: "Mexican", address: "5701 E Circle Dr" },
     { name: "Frankie Sushi", area: "Cicero", cuisine: "Japanese", address: "8350 Brewerton Rd" },
     { name: "Thee Diner", area: "Cicero", cuisine: "Diner", address: "6043 State Route 31" },
     { name: "Lakeshore Pizza", area: "Cicero", cuisine: "Pizza", address: "6969 Lakeshore Rd" },
@@ -122,6 +126,26 @@ const rawData = [
     { name: "Chipotle Cicero", area: "Cicero", cuisine: "Mexican", address: "7944 Brewerton Rd" },
     { name: "Moe's Southwest Grill Cicero", area: "Cicero", cuisine: "Mexican", address: "5663 E Circle Dr" },
     { name: "Denny's Cicero", area: "Cicero", cuisine: "Diner", address: "7873 Brewerton Rd" },
+
+    // --- LIVERPOOL & CLAY (STRICTLY VERIFIED 2026) ---
+    { name: "Bangkok Thai & Japanese", area: "Liverpool", cuisine: "Thai", address: "7687 Frontage Rd" },
+    { name: "Ocean Sushi", area: "Liverpool", cuisine: "Japanese", address: "3818 NY-31" },
+    { name: "Mr Noodle & Ms Dumpling", area: "Liverpool", cuisine: "Chinese", address: "3810 NY-31" },
+    { name: "Urban Pho", area: "Clay", cuisine: "Vietnamese", address: "3920 NY-31" },
+    { name: "Rio Grande Mexican", area: "Liverpool", cuisine: "Mexican", address: "3900 NY-31" },
+    { name: "Guadalajara Mexican", area: "Liverpool", cuisine: "Mexican", address: "8391 Oswego Rd" },
+    { name: "Heid's of Liverpool", area: "Liverpool", cuisine: "Fast Food", address: "305 Oswego St" },
+    { name: "The Retreat", area: "Liverpool", cuisine: "American", address: "302 Old Liverpool Rd" },
+    { name: "Santangelo's Restaurant", area: "Liverpool", cuisine: "Italian", address: "450 Old Liverpool Rd" },
+    { name: "Limp Lizard BBQ", area: "Liverpool", cuisine: "BBQ", address: "201 First St" },
+    { name: "Avicollis Restaurant", area: "Liverpool", cuisine: "Italian", address: "7839 Oswego Rd" },
+    { name: "Bull & Bear Roadhouse", area: "Liverpool", cuisine: "American", address: "8201 Oswego Rd" },
+    { name: "Ichiban Japanese Steakhouse", area: "Liverpool", cuisine: "Japanese", address: "504 Old Liverpool Rd" },
+    { name: "Texas Roadhouse", area: "Clay", cuisine: "American", address: "3895 NY-31" },
+    { name: "Olive Garden", area: "Clay", cuisine: "Italian", address: "3920 NY-31" },
+    { name: "Red Lobster", area: "Clay", cuisine: "Seafood", address: "3915 NY-31" },
+    { name: "LongHorn Steakhouse", area: "Clay", cuisine: "American", address: "3843 NY-31" },
+    { name: "Smokey Bones", area: "Clay", cuisine: "BBQ", address: "3804 State Rt 31" },
 
     // --- SYRACUSE DOWNTOWN & MAIN (STRICTLY VERIFIED CURRENT) ---
     { name: "Dinosaur Bar-B-Que", area: "Syracuse Downtown", cuisine: "BBQ", address: "246 W Willow St" },
@@ -144,21 +168,8 @@ const rawData = [
     { name: "Mother's Cupboard", area: "Eastwood", cuisine: "Diner", address: "3709 James St" },
     { name: "Scotch 'n Sirloin", area: "Dewitt", cuisine: "Steakhouse", address: "3687 Erie Blvd E" },
 
-    // --- LIVERPOOL & CLAY (STRICTLY VERIFIED CURRENT) ---
-    { name: "Heid's of Liverpool", area: "Liverpool", cuisine: "Fast Food", address: "305 Oswego St" },
-    { name: "The Retreat", area: "Liverpool", cuisine: "American", address: "302 Old Liverpool Rd" },
-    { name: "Santangelo's Restaurant", area: "Liverpool", cuisine: "Italian", address: "450 Old Liverpool Rd" },
-    { name: "Limp Lizard BBQ", area: "Liverpool", cuisine: "BBQ", address: "201 First St" },
-    { name: "Avicollis Restaurant", area: "Liverpool", cuisine: "Italian", address: "7839 Oswego Rd" },
-    { name: "Bull & Bear Roadhouse", area: "Liverpool", cuisine: "American", address: "8201 Oswego Rd" },
-    { name: "Ichiban Japanese Steakhouse", area: "Liverpool", cuisine: "Japanese", address: "504 Old Liverpool Rd" },
-    { name: "Texas Roadhouse", area: "Clay", cuisine: "American", address: "3895 NY-31" },
-    { name: "Olive Garden", area: "Clay", cuisine: "Italian", address: "3920 NY-31" },
-    { name: "Red Lobster", area: "Clay", cuisine: "Seafood", address: "3915 NY-31" },
-    { name: "LongHorn Steakhouse", area: "Clay", cuisine: "American", address: "3843 NY-31" },
-    { name: "Smokey Bones", area: "Clay", cuisine: "BBQ", address: "3804 State Rt 31" },
-
     // --- ROCHESTER (STRICTLY VERIFIED CURRENT) ---
+    { name: "The Owl House", area: "Rochester", cuisine: "American", address: "75 Marshall St" },
     { name: "Native Eatery & Bar", area: "Rochester", cuisine: "American", address: "180 S Clinton Ave" },
     { name: "REDD Rochester", area: "Rochester", cuisine: "American", address: "249 East Ave" },
     { name: "Bitter Honey", area: "Rochester", cuisine: "Mexican", address: "127 Railroad St" },
@@ -181,16 +192,18 @@ const rawData = [
     { name: "Franklin Hotel", area: "Rome", cuisine: "American", address: "301 S James St" },
 
     // --- ITHACA (STRICTLY VERIFIED CURRENT) ---
+    { name: "Siagon Kitchen", area: "Ithaca", cuisine: "Vietnamese", address: "526 W State St" },
+    { name: "Mia Tapas Bar", area: "Ithaca", cuisine: "American", address: "130 E State St" },
     { name: "Moosewood", area: "Ithaca", cuisine: "American", address: "215 N Cayuga St" },
     { name: "Boatyard Grill", area: "Ithaca", cuisine: "American", address: "525 Taughannock Blvd" },
     { name: "Ithaca Ale House", area: "Ithaca", cuisine: "Pub", address: "301 E State St" },
     { name: "Gola Osteria", area: "Ithaca", cuisine: "Italian", address: "115 S Quarry St" },
     { name: "Maxie's Supper Club", area: "Ithaca", cuisine: "Seafood", address: "635 W State St" },
-    { name: "Saigon Kitchen", area: "Ithaca", cuisine: "Vietnamese", address: "526 W State St" },
     { name: "Northstar House", area: "Ithaca", cuisine: "American", address: "202 E Falls St" },
     { name: "Mercato Bar & Kitchen", area: "Ithaca", cuisine: "Italian", address: "108 N Aurora St" },
 
     // --- BINGHAMTON (STRICTLY VERIFIED CURRENT) ---
+    { name: "Moxie Wood Fire Grill", area: "Binghamton", cuisine: "Steakhouse", address: "1212 Front St" },
     { name: "Lost Dog Cafe & Lounge", area: "Binghamton", cuisine: "American", address: "222 Water St" },
     { name: "Social on State", area: "Binghamton", cuisine: "American", address: "201 State St" },
     { name: "205 Dry", area: "Binghamton", cuisine: "American", address: "205 State St" },
@@ -211,6 +224,7 @@ const rawData = [
     { name: "Blue Water Grill", area: "Skaneateles", cuisine: "American", address: "11 W Genesee St" },
     { name: "Rosalie's Cucina", area: "Skaneateles", cuisine: "Italian", address: "1250 Genesee St" },
     { name: "Moro's Kitchen", area: "Skaneateles", cuisine: "Italian", address: "28 Jordan St" },
+    { name: "Sherwood Inn", area: "Skaneateles", cuisine: "American", address: "26 W Genesee St" },
 
     // --- GENEVA & SENECA FALLS (STRICTLY VERIFIED CURRENT) ---
     { name: "F.L.X. Table", area: "Geneva", cuisine: "American", address: "18 Linden St" },
@@ -268,9 +282,10 @@ const finalRestaurants = rawData.map((r, i) => {
 
     return {
         id: i + 1,
+        // Only return broad region for the filter, but keep specific area for mapping if needed
         name: r.name,
         address: `${r.address}, ${r.area}, NY`,
-        region: regionMapping[r.area] || r.area, // New region field for cleaner filtering
+        region: regionMapping[r.area] || r.area,
         description: `Verified ${r.cuisine} establishment in ${r.area}.`,
         cuisine: r.cuisine,
         googleMapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.name + " " + r.address + " " + r.area + " NY")}`,
