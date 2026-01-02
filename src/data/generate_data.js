@@ -41,6 +41,42 @@ const townCenters = {
     "Saratoga Springs": { lat: 43.083, lng: -73.784 }
 };
 
+const regionMapping = {
+    "Syracuse Downtown": "Syracuse",
+    "Westcott": "Syracuse",
+    "Tipperary Hill": "Syracuse",
+    "Eastwood": "Syracuse",
+    "Cicero": "Syracuse",
+    "Liverpool": "Syracuse",
+    "Clay": "Syracuse",
+    "North Syracuse": "Syracuse",
+    "Baldwinsville": "Syracuse",
+    "Fayetteville": "Syracuse",
+    "Manlius": "Syracuse",
+    "East Syracuse": "Syracuse",
+    "Dewitt": "Syracuse",
+    "Camillus": "Syracuse",
+    "Solvay": "Syracuse",
+    "Mattydale": "Syracuse",
+    "Rochester": "Rochester",
+    "Auburn": "Auburn",
+    "Skaneateles": "Skaneateles",
+    "Ithaca": "Ithaca",
+    "Binghamton": "Binghamton",
+    "Utica": "Utica/Rome",
+    "Rome": "Utica/Rome",
+    "Cazenovia": "Cazenovia",
+    "Oswego": "N. Country (Oswego/Watertown)",
+    "Watertown": "N. Country (Oswego/Watertown)",
+    "Geneva": "Finger Lakes (Geneva/Seneca)",
+    "Seneca Falls": "Finger Lakes (Geneva/Seneca)",
+    "Corning": "Southern Tier",
+    "Elmira": "Southern Tier",
+    "Saratoga Springs": "Saratoga Springs",
+    "Oneida": "Utica/Rome",
+    "Cortland": "Ithaca"
+};
+
 const hoursTemplates = {
     "American": { open: "11:00", close: "22:00" },
     "Italian": { open: "16:00", close: "22:00" },
@@ -234,6 +270,7 @@ const finalRestaurants = rawData.map((r, i) => {
         id: i + 1,
         name: r.name,
         address: `${r.address}, ${r.area}, NY`,
+        region: regionMapping[r.area] || r.area, // New region field for cleaner filtering
         description: `Verified ${r.cuisine} establishment in ${r.area}.`,
         cuisine: r.cuisine,
         googleMapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.name + " " + r.address + " " + r.area + " NY")}`,

@@ -7,7 +7,7 @@ import { Filter, RotateCw, MapPin, X, ExternalLink, Navigation } from 'lucide-re
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const version = "v1.8.0";
+  const version = "v1.9.1";
   const [isSpinning, setIsSpinning] = useState(false);
   const [winner, setWinner] = useState(null);
   const [showOnlyOpen, setShowOnlyOpen] = useState(true);
@@ -151,8 +151,7 @@ function App() {
   const areas = useMemo(() => {
     const areaSet = new Set();
     restaurants.forEach(r => {
-      const area = r.address.split(',')[0].trim();
-      areaSet.add(area);
+      areaSet.add(r.region);
     });
     return ["All", ...Array.from(areaSet).sort()];
   }, [restaurants]);
@@ -212,8 +211,7 @@ function App() {
       if (!selectedCuisines.includes("All") && !selectedCuisines.includes(r.cuisine)) return false;
 
       // Filter by Area
-      const rArea = r.address.split(',')[0].trim();
-      if (!selectedAreas.includes("All") && !selectedAreas.includes(rArea)) return false;
+      if (!selectedAreas.includes("All") && !selectedAreas.includes(r.region)) return false;
 
       // Filter by Distance (if location known)
       if (userLocation && r.coords.lat) {
